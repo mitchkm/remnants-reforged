@@ -71,6 +71,67 @@
             ]
         },
         {
+            "pakku_id": "b08lIJwSiLdLzSOA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "applied-energistics-2",
+                "modrinth": "ae2"
+            },
+            "name": {
+                "curseforge": "Applied Energistics 2",
+                "modrinth": "Applied Energistics 2"
+            },
+            "id": {
+                "curseforge": "223794",
+                "modrinth": "XxWD5pD3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "appliedenergistics2-forge-12.9.12.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6223/556/appliedenergistics2-forge-12.9.12.jar",
+                    "id": "6223556",
+                    "parent_id": "223794",
+                    "hashes": {
+                        "sha1": "1b63d280c34213202b6e8c0001d3b80ab659103f",
+                        "md5": "89678faed0d841e38f9e2e2889dff247"
+                    },
+                    "required_dependencies": [],
+                    "size": 9931625,
+                    "date_published": "2025-02-22T23:55:28.150Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "appliedenergistics2-forge-12.9.12.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/U8JDlAX0/appliedenergistics2-forge-12.9.12.jar",
+                    "id": "U8JDlAX0",
+                    "parent_id": "XxWD5pD3",
+                    "hashes": {
+                        "sha512": "21c86d790ea8ff5c30db40014dddf44e8caf0f585eba8cfb13eec8b36e547a9a633e358bd99a610065f1458abfe8aa0cac771887e566655ce18c92598daee021",
+                        "sha1": "241f7c99e2c20dbdbb034197fc283c51fc03cf74"
+                    },
+                    "required_dependencies": [],
+                    "size": 9931625,
+                    "date_published": "2025-02-22T23:56:08.960736Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "L513G6V865QC2jmI",
             "type": "MOD",
             "side": "BOTH",

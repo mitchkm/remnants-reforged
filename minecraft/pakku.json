@@ -4,7 +4,10 @@
     "description": "missing description",
     "author": "Mk Meech",
     "overrides": [
-        "config"
+        "config",
+        "!config/**client.{toml,json}",
+        "config/defaultoptions/**",
+        "defaultconfigs"
     ],
     "projects": {
         "wits": {
