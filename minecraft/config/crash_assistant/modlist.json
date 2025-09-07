@@ -1,0 +1,177 @@
+{
+  "fmlloader-1.19.2-43.5.1.jar (modloader)": {
+    "jarName": "fmlloader-1.19.2-43.5.1.jar (modloader)",
+    "modId": "forge",
+    "version": "fmlloader-1.19.2-43.5.1.jar"
+  },
+  "aether-1.19.2-1.5.1-forge.jar": {
+    "jarName": "aether-1.19.2-1.5.1-forge.jar",
+    "modId": "aether",
+    "version": "1.19.2-1.5.1-forge"
+  },
+  "almostunified-forge-1.19.2-0.8.2.jar": {
+    "jarName": "almostunified-forge-1.19.2-0.8.2.jar",
+    "modId": "almostunified",
+    "version": "1.19.2-0.8.2"
+  },
+  "appliedenergistics2-forge-12.9.12.jar": {
+    "jarName": "appliedenergistics2-forge-12.9.12.jar",
+    "modId": "ae2",
+    "version": "12.9.12"
+  },
+  "balm-forge-1.19.2-4.6.0.jar": {
+    "jarName": "balm-forge-1.19.2-4.6.0.jar",
+    "modId": "balm",
+    "version": "4.6.0"
+  },
+  "BetterF3-4.0.1-Forge-1.19.2.jar": {
+    "jarName": "BetterF3-4.0.1-Forge-1.19.2.jar",
+    "modId": "betterf3",
+    "version": "4.0.1"
+  },
+  "CBMultipart-1.19.2-3.2.0.139-universal.jar": {
+    "jarName": "CBMultipart-1.19.2-3.2.0.139-universal.jar",
+    "modId": "cb_multipart",
+    "version": "3.2.0.139"
+  },
+  "cloth-config-8.3.134-forge.jar": {
+    "jarName": "cloth-config-8.3.134-forge.jar",
+    "modId": "cloth_config",
+    "version": "8.3.134"
+  },
+  "CodeChickenLib-1.19.2-4.3.2.490-universal.jar": {
+    "jarName": "CodeChickenLib-1.19.2-4.3.2.490-universal.jar",
+    "modId": "codechickenlib",
+    "version": "4.3.2.490"
+  },
+  "configured-2.1.1-1.19.2.jar": {
+    "jarName": "configured-2.1.1-1.19.2.jar",
+    "modId": "configured",
+    "version": "2.1.1"
+  },
+  "CrashAssistant-forge-1.19-1.20.1-1.9.15.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.9.15.jar",
+    "modId": "crash_assistant",
+    "version": "1.9.15"
+  },
+  "deeperdarker-forge-1.19.2-1.2.2.jar": {
+    "jarName": "deeperdarker-forge-1.19.2-1.2.2.jar",
+    "modId": "deeperdarker",
+    "version": "1.2.2"
+  },
+  "defaultoptions-forge-1.19-15.0.2.jar": {
+    "jarName": "defaultoptions-forge-1.19-15.0.2.jar",
+    "modId": "defaultoptions",
+    "version": "15.0.2"
+  },
+  "emi-1.1.22+1.19.2+forge.jar": {
+    "jarName": "emi-1.1.22+1.19.2+forge.jar",
+    "modId": "emi",
+    "version": "1.1.22+1.19.2+forge"
+  },
+  "FarmersDelight-1.19.2-1.2.4.jar": {
+    "jarName": "FarmersDelight-1.19.2-1.2.4.jar",
+    "modId": "farmersdelight",
+    "version": "1.19.2-1.2.4"
+  },
+  "forbidden_arcanus-1.19.2-2.1.5.jar": {
+    "jarName": "forbidden_arcanus-1.19.2-2.1.5.jar",
+    "modId": "forbidden_arcanus",
+    "version": "1.19.2-2.1.5"
+  },
+  "IC2CJadeAddon-1.19.2-2.0.4.2.jar": {
+    "jarName": "IC2CJadeAddon-1.19.2-2.0.4.2.jar",
+    "modId": "ic2jadeplugin",
+    "version": "1.19.2-2.0.4.2"
+  },
+  "IC2Classic-1.19.2-2.1.2.1.jar": {
+    "jarName": "IC2Classic-1.19.2-2.1.2.1.jar",
+    "modId": "ic2",
+    "version": "1.19.2-2.1.2.1"
+  },
+  "Jade-1.19.1-forge-8.9.2.jar": {
+    "jarName": "Jade-1.19.1-forge-8.9.2.jar",
+    "modId": "jade",
+    "version": "8.9.2"
+  },
+  "jei-1.19.2-forge-11.8.1.1034.jar": {
+    "jarName": "jei-1.19.2-forge-11.8.1.1034.jar",
+    "modId": "jei",
+    "version": "11.8.1.1034"
+  },
+  "mutil-1.19.2-5.2.0.jar": {
+    "jarName": "mutil-1.19.2-5.2.0.jar",
+    "modId": "mutil",
+    "version": "5.2.0"
+  },
+  "polymorph-forge-0.46.6+1.19.2.jar": {
+    "jarName": "polymorph-forge-0.46.6+1.19.2.jar",
+    "modId": "polymorph",
+    "version": "0.46.6+1.19.2"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-core.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-core.jar",
+    "modId": "projectred_core",
+    "version": "4.19.0-beta+33"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-expansion.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-expansion.jar",
+    "modId": "projectred_expansion",
+    "version": "4.19.0-beta+33"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-exploration.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-exploration.jar",
+    "modId": "projectred_exploration",
+    "version": "4.19.0-beta+33"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-fabrication.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-fabrication.jar",
+    "modId": "projectred_fabrication",
+    "version": "4.19.0-beta+33"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-illumination.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-illumination.jar",
+    "modId": "projectred_illumination",
+    "version": "4.19.0-beta+33"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-integration.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-integration.jar",
+    "modId": "projectred_integration",
+    "version": "4.19.0-beta+33"
+  },
+  "ProjectRed-1.19.2-4.19.0-beta+33-transmission.jar": {
+    "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-transmission.jar",
+    "modId": "projectred_transmission",
+    "version": "4.19.0-beta+33"
+  },
+  "spark-1.10.37-forge.jar": {
+    "jarName": "spark-1.10.37-forge.jar",
+    "modId": "spark",
+    "version": "1.10.37"
+  },
+  "spirit-forge-1.19.2-2.2.7.jar": {
+    "jarName": "spirit-forge-1.19.2-2.2.7.jar",
+    "modId": "spirit",
+    "version": "2.2.7"
+  },
+  "tetra-1.19.2-5.6.0.jar": {
+    "jarName": "tetra-1.19.2-5.6.0.jar",
+    "modId": "tetra",
+    "version": "5.6.0"
+  },
+  "The_Undergarden-1.19.2-0.8.3.jar": {
+    "jarName": "The_Undergarden-1.19.2-0.8.3.jar",
+    "modId": "undergarden",
+    "version": "0.8.3"
+  },
+  "valhelsia_core-forge-1.19.2-0.5.0.jar": {
+    "jarName": "valhelsia_core-forge-1.19.2-0.5.0.jar",
+    "modId": "valhelsia_core",
+    "version": "1.19.2-0.5.0"
+  },
+  "wits-1.1.0+1.19.2-forge.jar": {
+    "jarName": "wits-1.1.0+1.19.2-forge.jar",
+    "modId": "wits",
+    "version": "1.1.0+1.19.2-forge"
+  }
+}
