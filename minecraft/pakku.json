@@ -1,0 +1,17 @@
+{
+    "name": "meech-nostalgic-pack",
+    "version": "0.0.1",
+    "description": "missing description",
+    "author": "Mk Meech",
+    "overrides": [
+        "config"
+    ],
+    "projects": {
+        "wits": {
+            "export": false
+        },
+        "spark": {
+            "side": "SERVER"
+        }
+    }
+}
