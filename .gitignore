@@ -1,2 +1,10 @@
+# Prism Launcher
 instance.cfg
 mmc-pack.json
+
+# Minecraft folder
+minecraft/*
+
+# Pakku
+!minecraft/pakku.json
+!minecraft/pakku-lock.json
