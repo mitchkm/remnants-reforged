@@ -4,20 +4,3 @@ mmc-pack.json
 
 # test server folder
 testServer/*
-
-# Minecraft folder
-minecraft/*
-
-# Configs
-!minecraft/config/
-!minecraft/defaultconfigs/
-
-minecraft/config/crash_assistant/lang/*
-minecraft/config/jei/world/*
-
-!minecraft/options.txt
-
-# Pakku
-!minecraft/.pakku/
-!minecraft/pakku.json
-!minecraft/pakku-lock.json
