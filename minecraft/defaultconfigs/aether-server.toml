@@ -33,7 +33,7 @@
 	#Determines whether Holiday Trees should always be able to generate when exploring new chunks in the Aether, if true, this overrides 'Generate Holiday Trees seasonally'
 	"Generate Holiday Trees always" = false
 	#Determines whether Holiday Trees should be able to generate during the time frame of December and January when exploring new chunks in the Aether, only works if 'Generate Holiday Trees always' is set to false
-	"Generate Holiday Trees seasonally" = true
+	"Generate Holiday Trees seasonally" = false
 
 [Multiplayer]
 	#Makes the Invisibility Cloak more balanced in PVP by disabling equipment invisibility temporarily after attacks
