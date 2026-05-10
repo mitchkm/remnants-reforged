@@ -10,6 +10,9 @@
         "defaultconfigs"
     ],
     "projects": {
+        "mcretector": {
+            "export": false
+        },
         "wits": {
             "export": false
         },
