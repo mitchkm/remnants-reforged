@@ -1,16 +1,27 @@
 # Exclude the entire minecraft folder by default
 *
+
+# Git
 !.gitignore
 
 # Configs
-!options.txt
-!config/
+!config
+!config/*
 !defaultconfigs/
+!options.txt
 
+## Crash Assistant
 config/crash_assistant/lang/*
+
+## JEI
 config/jei/world/*
 
 # Pakku
 !.pakku/
 !pakku.json
 !pakku-lock.json
+
+# Dev Tools
+!.scripts/
+!.scripts/*
+!_desiredMods.txt
