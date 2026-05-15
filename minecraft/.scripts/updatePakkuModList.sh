@@ -4,6 +4,7 @@ filters=(
     # utility mods
     "mcretector"
     # libs
+    "aeroblender"
     "architectury-api"
     "balm"
     "blueprint"
@@ -17,6 +18,7 @@ filters=(
     "scalable-cats-force"
     "selene"
     "sophisticated-core"
+    "supermartijn642s-config-lib"
     "terrablender"
     "valhelsia-core"
     "yungs-api"
