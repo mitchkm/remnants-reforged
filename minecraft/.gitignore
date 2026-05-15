@@ -6,12 +6,13 @@
 
 # Configs
 !config
-!config/*
+!config/**
 !defaultconfigs/
 !options.txt
 
 ## Crash Assistant
 config/crash_assistant/lang/*
+config/crash_assistant/crash_assistant_localization_overrides/*
 
 ## JEI
 config/jei/world/*
