@@ -7,12 +7,32 @@
 # Configs
 !config
 !config/**
+#config/**.zip
+#config/**/*.bak
+#config/**/[rR][eE][aA][dD][mM][eE].*
 !defaultconfigs/
-!options.txt
+#TODO: !options.txt
+
+## YUNG's Better Series
+### YUNG's Better Desert Temples
+config/betterdeserttemples/**/[rR][eE][aA][dD][mM][eE].txt
+
+### YUNG's Better Fortresses
+config/betterfortresses/**/[rR][eE][aA][dD][mM][eE].txt
+
+### YUNG's Better Mineshafts
+config/bettermineshafts/**/[rR][eE][aA][dD][mM][eE].txt
+
+### YUNG's Better Strongholds
+config/betterstrongholds/**/[rR][eE][aA][dD][mM][eE].txt
 
 ## Crash Assistant
 config/crash_assistant/lang/*
 config/crash_assistant/crash_assistant_localization_overrides/*
+config/crash_assistant/**/*example*
+
+## Towns and Towers
+config/towns_and_towers/resources/*
 
 ## JEI
 config/jei/world/*
