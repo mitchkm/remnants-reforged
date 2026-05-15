@@ -1,5 +1,5 @@
 {
-    "name": "meech-nostalgic-pack",
+    "name": "Remnants Reforged",
     "version": "0.0.1",
     "description": "missing description",
     "author": "Mk Meech",
@@ -18,6 +18,13 @@
         },
         "spark": {
             "side": "SERVER"
+        },
+        "sophisticated-storage": {
+            "update_strategy": "FLEXVER"
+        },
+        "aether": {
+            "update_strategy": "NONE"
         }
-    }
+    },
+    "export_server_side_projects_to_client": true
 }

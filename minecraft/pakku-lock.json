@@ -76,7 +76,264 @@
             ]
         },
         {
+            "pakku_id": "RM9PpD3Rvj5ZUuCe",
+            "pakku_links": [
+                "ncY4dG6HiPBTOqlB"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "advanced-solars-classic"
+            },
+            "name": {
+                "curseforge": "Advanced Solars Classic"
+            },
+            "id": {
+                "curseforge": "314835"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "advancedsolars-2.1.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8055/597/advancedsolars-2.1.2.jar",
+                    "id": "8055597",
+                    "parent_id": "314835",
+                    "hashes": {
+                        "sha1": "60fe399d3d157c72a729b4ac5be47466a0f9817e",
+                        "md5": "aeb650cdbcf79a26c871d95c63d08937"
+                    },
+                    "required_dependencies": [
+                        "242942"
+                    ],
+                    "size": 140895,
+                    "date_published": "2026-05-08T01:44:38.517Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3Oz96Ibhk7rBgs5a",
+            "pakku_links": [
+                "TdVMM0gye3g6sjYW",
+                "6ZvGne6eshJBoVFK",
+                "ARkL78ZNA8hF2RPV",
+                "nblYdqHouchY7fxM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aeroblender",
+                "modrinth": "aeroblender"
+            },
+            "name": {
+                "curseforge": "AeroBlender",
+                "modrinth": "AeroBlender"
+            },
+            "id": {
+                "curseforge": "879879",
+                "modrinth": "1eaq94ok"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aeroblender-1.19.2-1.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5178/797/aeroblender-1.19.2-1.0.1.jar",
+                    "id": "5178797",
+                    "parent_id": "879879",
+                    "hashes": {
+                        "sha1": "935d52c587bc0d0cf62917a5c01fae3a104c5dac",
+                        "md5": "22f1953885a6a0514a4b3c853e2fdf1b"
+                    },
+                    "required_dependencies": [
+                        "255308"
+                    ],
+                    "size": 23971,
+                    "date_published": "2024-03-13T07:57:01.020Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aeroblender-1.19.2-1.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eaq94ok/versions/4XwFCFML/aeroblender-1.19.2-1.0.1.jar",
+                    "id": "4XwFCFML",
+                    "parent_id": "1eaq94ok",
+                    "hashes": {
+                        "sha512": "df3b0cea20ca947b134e7f26effd2624db4c35cdf63c6c07ad469fac8ff50738b0818d755abe4da8f0eb3699d3418a0879649883be9f3e3357f500016da86475",
+                        "sha1": "935d52c587bc0d0cf62917a5c01fae3a104c5dac"
+                    },
+                    "required_dependencies": [
+                        "YhmgMVyu",
+                        "kkmrDlKT"
+                    ],
+                    "size": 23971,
+                    "date_published": "2024-03-13T07:59:49.139288Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tJnzi9VqkkU5I2ie",
+            "pakku_links": [
+                "TdVMM0gye3g6sjYW",
+                "ARkL78ZNA8hF2RPV",
+                "nblYdqHouchY7fxM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aether-enhanced-extinguishing",
+                "modrinth": "aether-enhanced-extinguishing"
+            },
+            "name": {
+                "curseforge": "Aether Addon: Enhanced Extinguishing",
+                "modrinth": "Aether Addon: Enhanced Extinguishing"
+            },
+            "id": {
+                "curseforge": "884860",
+                "modrinth": "FDrEl7QY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4758/565/aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar",
+                    "id": "4758565",
+                    "parent_id": "884860",
+                    "hashes": {
+                        "sha1": "67ddd22d870dde364dd9e4b2657f15328e30c276",
+                        "md5": "3421e24091f6981cdd41f322edb285b0"
+                    },
+                    "required_dependencies": [
+                        "255308"
+                    ],
+                    "size": 113313,
+                    "date_published": "2023-09-19T02:20:50.963Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FDrEl7QY/versions/neQ8c772/aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar",
+                    "id": "neQ8c772",
+                    "parent_id": "FDrEl7QY",
+                    "hashes": {
+                        "sha512": "2bfc260de8692702fe28cc3473234e0f5f706a48806d02bd03a6c79b9f4a8d3e5b66cc076bb42ffc5a400ec11004e155ad176ea80af76983d122d3a2b3495d90",
+                        "sha1": "e4dab68fa602ecef4a7f47263afbc8d2fd403907"
+                    },
+                    "required_dependencies": [
+                        "YhmgMVyu"
+                    ],
+                    "size": 113313,
+                    "date_published": "2023-09-19T02:21:34.769795Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "q0pUlnRLUvjcp2JW",
+            "pakku_links": [
+                "TdVMM0gye3g6sjYW",
+                "ARkL78ZNA8hF2RPV",
+                "nblYdqHouchY7fxM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aether-protect-your-moa",
+                "modrinth": "aether-protect-your-moa"
+            },
+            "name": {
+                "curseforge": "Aether Addon: Protect Your Moa",
+                "modrinth": "Aether Addon: Protect Your Moa"
+            },
+            "id": {
+                "curseforge": "1016303",
+                "modrinth": "6KeEgbxe"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aether_protect_your_moa-1.19.2-1.0.0-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5343/204/aether_protect_your_moa-1.19.2-1.0.0-forge.jar",
+                    "id": "5343204",
+                    "parent_id": "1016303",
+                    "hashes": {
+                        "sha1": "bb4621e977d78c138e20022cd7b71da300f7d964",
+                        "md5": "30c27d844132f980c11830141d14fa80"
+                    },
+                    "required_dependencies": [
+                        "255308"
+                    ],
+                    "size": 1498522,
+                    "date_published": "2024-05-14T13:10:17.750Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aether_protect_your_moa-1.19.2-1.0.0-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6KeEgbxe/versions/OP7bb9mj/aether_protect_your_moa-1.19.2-1.0.0-forge.jar",
+                    "id": "OP7bb9mj",
+                    "parent_id": "6KeEgbxe",
+                    "hashes": {
+                        "sha512": "f305af37f93edb8f8488c491e305bff606d60e2d7594363cedd16003bee4144143ef484d22742d94d2973257cbe596aa24f297d9b1e4c4cc62f4cb2223f6a600",
+                        "sha1": "c8a4be245cfaa317302fa37be703390506899b48"
+                    },
+                    "required_dependencies": [
+                        "YhmgMVyu"
+                    ],
+                    "size": 1498523,
+                    "date_published": "2024-05-14T13:10:32.126529Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "iG948woWaASRL9ul",
+            "pakku_links": [
+                "ARkL78ZNA8hF2RPV",
+                "nblYdqHouchY7fxM"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "aetheric-tetranomicon"
@@ -178,19 +435,43 @@
             ]
         },
         {
-            "pakku_id": "Sf9PPRv7R0Hg2NtE",
+            "pakku_id": "GAou1sAZZTB1zy0I",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "applied-energistics-2",
                 "modrinth": "ae2"
             },
             "name": {
+                "curseforge": "Applied Energistics 2",
                 "modrinth": "Applied Energistics 2"
             },
             "id": {
+                "curseforge": "223794",
                 "modrinth": "XxWD5pD3"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "appliedenergistics2-forge-12.9.12.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6223/556/appliedenergistics2-forge-12.9.12.jar",
+                    "id": "6223556",
+                    "parent_id": "223794",
+                    "hashes": {
+                        "sha1": "1b63d280c34213202b6e8c0001d3b80ab659103f",
+                        "md5": "89678faed0d841e38f9e2e2889dff247"
+                    },
+                    "required_dependencies": [],
+                    "size": 9931625,
+                    "date_published": "2025-02-22T23:55:28.150Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "appliedenergistics2-forge-12.9.12.jar",
@@ -1263,7 +1544,7 @@
             ]
         },
         {
-            "pakku_id": "g2hiRXfnFd3imoqL",
+            "pakku_id": "EDg8hCVTqpDPX2CE",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1301,6 +1582,29 @@
                     ],
                     "size": 2084868,
                     "date_published": "2025-01-09T12:24:34.696809Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "stevescarts-1.19.2-1.1.3.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6068/890/stevescarts-1.19.2-1.1.3.jar",
+                    "id": "6068890",
+                    "parent_id": "551524",
+                    "hashes": {
+                        "sha1": "8bab05aadb5dd032b4ec3ff9021bd341f67d760e",
+                        "md5": "ed86dd7a0ef4bdc3ca9143b59420952a"
+                    },
+                    "required_dependencies": [
+                        "576589"
+                    ],
+                    "size": 2084868,
+                    "date_published": "2025-01-09T12:15:46Z"
                 }
             ]
         },
@@ -1400,6 +1704,78 @@
                     "required_dependencies": [],
                     "size": 830367,
                     "date_published": "2023-02-12T22:35:12.800Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "riD8kscjbWEdIEz1",
+            "pakku_links": [
+                "xLC6HbIpuaw8nEVi",
+                "TdVMM0gye3g6sjYW",
+                "3Oz96Ibhk7rBgs5a",
+                "ARkL78ZNA8hF2RPV",
+                "nblYdqHouchY7fxM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "deep-aether",
+                "modrinth": "deep-aether"
+            },
+            "name": {
+                "curseforge": "Deep Aether",
+                "modrinth": "Deep Aether"
+            },
+            "id": {
+                "curseforge": "852465",
+                "modrinth": "gcHIih5B"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "deep_aether-1.19.2-1.0.4.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6328/474/deep_aether-1.19.2-1.0.4.jar",
+                    "id": "6328474",
+                    "parent_id": "852465",
+                    "hashes": {
+                        "sha1": "e41ca8787db400aca46f4ec0e105d69ca17daaa3",
+                        "md5": "05f7757016a18e5551fc5aa2a0410f61"
+                    },
+                    "required_dependencies": [],
+                    "size": 8623492,
+                    "date_published": "2025-03-21T14:26:14.877Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "deep_aether-1.19.2-1.0.4.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gcHIih5B/versions/Iw0bshE8/deep_aether-1.19.2-1.0.4.jar",
+                    "id": "Iw0bshE8",
+                    "parent_id": "gcHIih5B",
+                    "hashes": {
+                        "sha512": "fa75160ea46a8253ac13b8ecbbc9a4a2c071f659e470d78a552f48fd590cb02f411ffc2dffc92bfc57b2ff29365c0de69b8a782352ddf4290808e25da591b19e",
+                        "sha1": "e41ca8787db400aca46f4ec0e105d69ca17daaa3"
+                    },
+                    "required_dependencies": [
+                        "8BmcQJ2H",
+                        "YhmgMVyu",
+                        "1eaq94ok"
+                    ],
+                    "size": 8623492,
+                    "date_published": "2025-03-21T14:27:18.167531Z"
                 }
             ]
         },
@@ -1506,6 +1882,82 @@
             ]
         },
         {
+            "pakku_id": "tSdpCucpCUh7iJWv",
+            "pakku_links": [
+                "2LCAgg2IESnKnd4a"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "durability-tooltip",
+                "modrinth": "durability-tooltip"
+            },
+            "name": {
+                "curseforge": "Durability Tooltip",
+                "modrinth": "Durability Tooltip"
+            },
+            "id": {
+                "curseforge": "511040",
+                "modrinth": "smUP7V3r"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "durabilitytooltip-1.1.6a-forge-mc1.19.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6846/563/durabilitytooltip-1.1.6a-forge-mc1.19.jar",
+                    "id": "6846563",
+                    "parent_id": "511040",
+                    "hashes": {
+                        "sha1": "0dc49a71eec641755a06528a130a8d73078c1267",
+                        "md5": "607722c7133a40a3f72737da987a5da9"
+                    },
+                    "required_dependencies": [
+                        "438332"
+                    ],
+                    "size": 22359,
+                    "date_published": "2025-08-04T11:50:29.533Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "durabilitytooltip-1.1.6a-forge-mc1.19.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/smUP7V3r/versions/Da2nKmml/durabilitytooltip-1.1.6a-forge-mc1.19.jar",
+                    "id": "Da2nKmml",
+                    "parent_id": "smUP7V3r",
+                    "hashes": {
+                        "sha512": "aba8a34fb54f18157b773ae650e65e5d86e490ecefffad049cf685b0c100259fe2123c22b4171a11d36bcc57ba02eef1e98410255b270e40686eaa6f651099b4",
+                        "sha1": "0dc49a71eec641755a06528a130a8d73078c1267"
+                    },
+                    "required_dependencies": [
+                        "LN9BxssP"
+                    ],
+                    "size": 22359,
+                    "date_published": "2025-08-04T11:50:29.203101Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Xs42yH1Bpcb3PodT",
             "type": "MOD",
             "side": "BOTH",
@@ -1524,7 +1976,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "emi-1.1.22+1.19.2+forge.jar",
+                    "file_name": "emi-1.1.24+1.19.2+forge.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -1532,20 +1984,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/arXvHNCO/emi-1.1.22+1.19.2+forge.jar",
-                    "id": "arXvHNCO",
+                    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/lvh62wOB/emi-1.1.24+1.19.2+forge.jar",
+                    "id": "lvh62wOB",
                     "parent_id": "fRiHVvU7",
                     "hashes": {
-                        "sha512": "17b6eb36a189f9cf73dcd1b8f929c2bfef88c2908fdfe5a870abffac68049b46ec0d51a6a0ad915a3f8cea2919801f4135a44e2cd79b15a20a1015ea55003a5a",
-                        "sha1": "5889022e494c6da9bcba80ca26971cbf18b01976"
+                        "sha512": "7506dc6b81bd43a505e911cd61cec730788d14bfb618cb19fd18458e3ede2ae3023df6d7cc411437859a9cc759d4a115041ad8445ce2f907834eca931200f999",
+                        "sha1": "f9204f839906f986ffb824877c33d7e2ba977085"
                     },
                     "required_dependencies": [],
-                    "size": 1039879,
-                    "date_published": "2025-04-14T03:36:57.515987Z"
+                    "size": 1100203,
+                    "date_published": "2026-05-13T06:16:50.417039Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "emi-1.1.22+1.19.2+forge.jar",
+                    "file_name": "emi-1.1.24+1.19.2+forge.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -1553,16 +2005,52 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6420/941/emi-1.1.22+1.19.2+forge.jar",
-                    "id": "6420941",
+                    "url": "https://edge.forgecdn.net/files/8081/373/emi-1.1.24+1.19.2+forge.jar",
+                    "id": "8081373",
                     "parent_id": "580555",
                     "hashes": {
-                        "sha1": "5889022e494c6da9bcba80ca26971cbf18b01976",
-                        "md5": "36dc005bc16e1852a1d74a7b66287011"
+                        "sha1": "f9204f839906f986ffb824877c33d7e2ba977085",
+                        "md5": "0c46b050d878ac671a47a57af89cad47"
                     },
                     "required_dependencies": [],
-                    "size": 1039879,
-                    "date_published": "2025-04-14T03:36:59.967Z"
+                    "size": 1100203,
+                    "date_published": "2026-05-13T06:16:53.393Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FzgpbMMNHe7WSoAW",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "eu-converter"
+            },
+            "name": {
+                "curseforge": "EU Converter"
+            },
+            "id": {
+                "curseforge": "897594"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "euconverter-1.19.2-1.0.5.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5310/426/euconverter-1.19.2-1.0.5.jar",
+                    "id": "5310426",
+                    "parent_id": "897594",
+                    "hashes": {
+                        "sha1": "68a63657699feb2a3c519b7d78c18c2be03d4562",
+                        "md5": "95d28c940eaedc9ca9c87d961c2708b1"
+                    },
+                    "required_dependencies": [],
+                    "size": 36834,
+                    "date_published": "2024-05-02T15:49:33.850Z"
                 }
             ]
         },
@@ -2489,6 +2977,7 @@
                 "curseforge": "899452",
                 "modrinth": "PvSdzQ3v"
             },
+            "export": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -3748,19 +4237,49 @@
             ]
         },
         {
-            "pakku_id": "4jougupdKibicSDY",
+            "pakku_id": "BmueHMjsQIEQGS8i",
+            "pakku_links": [
+                "KyA02OvLBL6DGud1"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "sophisticated-storage",
                 "modrinth": "sophisticated-storage"
             },
             "name": {
+                "curseforge": "Sophisticated Storage",
                 "modrinth": "Sophisticated Storage"
             },
             "id": {
+                "curseforge": "619320",
                 "modrinth": "hMlaZH8f"
             },
+            "update_strategy": "FLEXVER",
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedstorage-1.19.2-0.9.8.1573.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7863/153/sophisticatedstorage-1.19.2-0.9.8.1573.jar",
+                    "id": "7863153",
+                    "parent_id": "619320",
+                    "hashes": {
+                        "sha1": "6f603c59963ea1171ec3bd096dd0043bd812fd37",
+                        "md5": "fbe574481931b27a3d1ae0fffabd291d"
+                    },
+                    "required_dependencies": [
+                        "618298"
+                    ],
+                    "size": 1107996,
+                    "date_published": "2026-04-02T18:03:38.100Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "sophisticatedstorage-1.19.2-0.9.8.1573.jar",
@@ -3946,6 +4465,77 @@
                     ],
                     "size": 2824852,
                     "date_published": "2024-07-01T19:13:37.017Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2LCAgg2IESnKnd4a",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "supermartijn642s-config-lib",
+                "modrinth": "supermartijn642s-config-lib"
+            },
+            "name": {
+                "curseforge": "SuperMartijn642's Config Lib",
+                "modrinth": "SuperMartijn642's Config Lib"
+            },
+            "id": {
+                "curseforge": "438332",
+                "modrinth": "LN9BxssP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "supermartijn642configlib-1.1.8-forge-mc1.19.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4715/406/supermartijn642configlib-1.1.8-forge-mc1.19.jar",
+                    "id": "4715406",
+                    "parent_id": "438332",
+                    "hashes": {
+                        "sha1": "b63571ac8574efccc636b164512f110b756f5f1c",
+                        "md5": "1aa9fde0dbdaa57b98ba5f404de46efe"
+                    },
+                    "required_dependencies": [],
+                    "size": 206591,
+                    "date_published": "2023-08-21T13:15:03.163Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "supermartijn642configlib-1.1.8-forge-mc1.19.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/HHm0Di8Y/supermartijn642configlib-1.1.8-forge-mc1.19.jar",
+                    "id": "HHm0Di8Y",
+                    "parent_id": "LN9BxssP",
+                    "hashes": {
+                        "sha512": "e90d98d19769c75b5f779d90141c4a4637a26ea3089dac4df55137f607f0ca0623988647930ede359ccaa69d15d9e8130f68b3289d25c01af8bfea72cdeaafb1",
+                        "sha1": "b63571ac8574efccc636b164512f110b756f5f1c"
+                    },
+                    "required_dependencies": [],
+                    "size": 206591,
+                    "date_published": "2023-08-21T13:15:08.094060Z"
                 }
             ]
         },
@@ -4150,22 +4740,26 @@
             ]
         },
         {
-            "pakku_id": "TdVMM0gye3g6sjYW",
+            "pakku_id": "nblYdqHouchY7fxM",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "aether",
                 "modrinth": "aether"
             },
             "name": {
+                "curseforge": "The Aether",
                 "modrinth": "The Aether"
             },
             "id": {
+                "curseforge": "255308",
                 "modrinth": "YhmgMVyu"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "aether-1.19.2-1.5.1-forge.jar",
+                    "type": "curseforge",
+                    "file_name": "aether-1.19.2-1.4.2-forge.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -4173,16 +4767,115 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/2w4abCet/aether-1.19.2-1.5.1-forge.jar",
-                    "id": "2w4abCet",
-                    "parent_id": "YhmgMVyu",
+                    "url": "https://edge.forgecdn.net/files/5302/176/aether-1.19.2-1.4.2-forge.jar",
+                    "id": "5302176",
+                    "parent_id": "255308",
                     "hashes": {
-                        "sha512": "7ffd51a21bd9a981fb43f11fdeee7cdb5bc8b8e21593aab9efc5598514d6a86c5de107faa561695b64dae6763020b116aadfaf691e55baf918b320367447aee5",
-                        "sha1": "91ac77d8203a6dd95fb5c0c76e7b13b9a55fe391"
+                        "sha1": "cb11e3d83c1d1357b1505d112f401fdcb29de667",
+                        "md5": "af7fd879abd2974fe3b1f64902b7842f"
                     },
                     "required_dependencies": [],
-                    "size": 39489162,
-                    "date_published": "2024-11-09T23:43:40.295788Z"
+                    "size": 23258002,
+                    "date_published": "2024-04-29T21:22:05.857Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aether-1.19.2-1.4.2-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/h8VKO9w6/aether-1.19.2-1.4.2-forge.jar",
+                    "id": "h8VKO9w6",
+                    "parent_id": "YhmgMVyu",
+                    "hashes": {
+                        "sha512": "a278e4c288a613f19ab208318a831d2a91e2449cb18ed54234aef66c126c79a2740e2b125fd18551ae623b2930e8cef1b60baa5bb5d6b80cf1c2a0017c9a5cbf",
+                        "sha1": "faa1b5a28b938b33b5fcf7acc4b036edf5db4e4a"
+                    },
+                    "required_dependencies": [],
+                    "size": 23258002,
+                    "date_published": "2024-04-29T21:21:54.820441Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "A6Ja49q92RlIDIQm",
+            "pakku_links": [
+                "6ZvGne6eshJBoVFK",
+                "3Oz96Ibhk7rBgs5a",
+                "TdVMM0gye3g6sjYW",
+                "xLC6HbIpuaw8nEVi",
+                "ARkL78ZNA8hF2RPV",
+                "nblYdqHouchY7fxM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aether-redux",
+                "modrinth": "the-aether-redux"
+            },
+            "name": {
+                "curseforge": "The Aether: Redux",
+                "modrinth": "The Aether: Redux"
+            },
+            "id": {
+                "curseforge": "867237",
+                "modrinth": "khv3WzAS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aether-redux-2.0.17-1.19.2-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5541/738/aether-redux-2.0.17-1.19.2-forge.jar",
+                    "id": "5541738",
+                    "parent_id": "867237",
+                    "hashes": {
+                        "sha1": "ea5216772ed4869a14c63691e0842dd2a478e103",
+                        "md5": "ff1804858345f98bec821f7dc57113f0"
+                    },
+                    "required_dependencies": [
+                        "563928",
+                        "879879",
+                        "255308",
+                        "388172"
+                    ],
+                    "size": 41310074,
+                    "date_published": "2024-07-18T00:32:11.297Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aether-redux-2.0.17-1.19.2-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/khv3WzAS/versions/ymZSKwbH/aether-redux-2.0.17-1.19.2-forge.jar",
+                    "id": "ymZSKwbH",
+                    "parent_id": "khv3WzAS",
+                    "hashes": {
+                        "sha512": "d40d749b3608eadb0164471ee5f98a764e9ab6350f0dab012549330da85c84687fcc07317341a321a3a6e82501f2175e5fdf91ddd9e6872175e68a60ba1251c5",
+                        "sha1": "ea5216772ed4869a14c63691e0842dd2a478e103"
+                    },
+                    "required_dependencies": [
+                        "8BmcQJ2H",
+                        "1eaq94ok",
+                        "YhmgMVyu"
+                    ],
+                    "size": 41310074,
+                    "date_published": "2024-07-18T00:34:16.639398Z"
                 }
             ]
         },
@@ -4219,69 +4912,6 @@
                     "required_dependencies": [],
                     "size": 61227371,
                     "date_published": "2022-10-29T22:12:28.910Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "p7uSJMXX9uiGoJzT",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "tool-stats",
-                "modrinth": "tool-stats"
-            },
-            "name": {
-                "curseforge": "Tool Stats",
-                "modrinth": "Tool Stats"
-            },
-            "id": {
-                "curseforge": "377109",
-                "modrinth": "vuGFx44e"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ToolStats-Forge-1.19.2-12.1.6.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vuGFx44e/versions/nQimgb7a/ToolStats-Forge-1.19.2-12.1.6.jar",
-                    "id": "nQimgb7a",
-                    "parent_id": "vuGFx44e",
-                    "hashes": {
-                        "sha512": "abfd9b131fcc1cdcb8fe281eca5110c8e168c3e8bc9ca01350aeb010288b0f4208704fb34a3e6948a1e170afffda048255fecc984c7d90b9cf537be79e4f2220",
-                        "sha1": "ace1f64687961cd3e29b9dda6360133c395e876e"
-                    },
-                    "required_dependencies": [],
-                    "size": 19568,
-                    "date_published": "2024-02-25T19:33:27.089455Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "ToolStats-Forge-1.19.2-12.1.6.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5136/247/ToolStats-Forge-1.19.2-12.1.6.jar",
-                    "id": "5136247",
-                    "parent_id": "377109",
-                    "hashes": {
-                        "sha1": "ace1f64687961cd3e29b9dda6360133c395e876e",
-                        "md5": "ee2a2803ae806600c4cf2e0726cbf02b"
-                    },
-                    "required_dependencies": [
-                        "228525"
-                    ],
-                    "size": 19568,
-                    "date_published": "2024-02-25T19:33:19.797Z"
                 }
             ]
         },
@@ -5235,5 +5865,5 @@
             ]
         }
     ],
-    "lockfile_version": 1
+    "lockfile_version": 2
 }
