@@ -8,6 +8,74 @@
     },
     "projects": [
         {
+            "pakku_id": "zDoFiItOXNgWxg07",
+            "pakku_links": [
+                "1SG0m1GKbzDlOwfI",
+                "LxLPTnlONxclmbtJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "abnormals-delight",
+                "modrinth": "abnormals-delight"
+            },
+            "name": {
+                "curseforge": "Abnormals Delight",
+                "modrinth": "Abnormals Delight"
+            },
+            "id": {
+                "curseforge": "442719",
+                "modrinth": "ts3qjo5t"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "abnormals_delight-1.19.2-4.1.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5220/861/abnormals_delight-1.19.2-4.1.2.jar",
+                    "id": "5220861",
+                    "parent_id": "442719",
+                    "hashes": {
+                        "sha1": "30fb951ff50079d2d5fcd193f8f882f83368c561",
+                        "md5": "f8b04fa82225df7ab6e791eed3f26bc5"
+                    },
+                    "required_dependencies": [],
+                    "size": 611209,
+                    "date_published": "2024-03-29T19:15:28.247Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "abnormals_delight-1.19.2-4.1.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ts3qjo5t/versions/u2H47I5t/abnormals_delight-1.19.2-4.1.2.jar",
+                    "id": "u2H47I5t",
+                    "parent_id": "ts3qjo5t",
+                    "hashes": {
+                        "sha512": "9e56b712eafb2d5324cc98207193f4ee881367f859658e9b8f33942c1830c2028db266d949485f0cdbf98a3af3386d287402a28c1fbd5afbce8c184f91654fdf",
+                        "sha1": "30fb951ff50079d2d5fcd193f8f882f83368c561"
+                    },
+                    "required_dependencies": [
+                        "VsM5EDoI",
+                        "R2OftAxM"
+                    ],
+                    "size": 611209,
+                    "date_published": "2024-03-29T19:14:19.687556Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ujcOlh9Mvxuz9qzM",
             "pakku_links": [
                 "0RbyycQcUZ5ihybW"
@@ -325,6 +393,50 @@
                     ],
                     "size": 1498523,
                     "date_published": "2024-05-14T13:10:32.126529Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "omhuVOyQM6Vl41Ds",
+            "pakku_links": [
+                "LxLPTnlONxclmbtJ",
+                "nblYdqHouchY7fxM"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "aether-delight"
+            },
+            "name": {
+                "curseforge": "Aether Delight (A Farmer's Delight Add-on)"
+            },
+            "id": {
+                "curseforge": "961108"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aether_delight_1.0.0_forge_1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5029/293/aether_delight_1.0.0_forge_1.19.2.jar",
+                    "id": "5029293",
+                    "parent_id": "961108",
+                    "hashes": {
+                        "sha1": "6c22e78a87fe394783fe64ce158b034c0bea390d",
+                        "md5": "a011b879536cea75c76c9cfbcadc224a"
+                    },
+                    "required_dependencies": [
+                        "398521",
+                        "255308"
+                    ],
+                    "size": 199305,
+                    "date_published": "2024-01-13T13:51:08.373Z"
                 }
             ]
         },
@@ -1882,6 +1994,74 @@
             ]
         },
         {
+            "pakku_id": "M7nBjYSXdLUCwqzo",
+            "pakku_links": [
+                "LxLPTnlONxclmbtJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "delightful",
+                "modrinth": "delightful"
+            },
+            "name": {
+                "curseforge": "Delightful",
+                "modrinth": "Delightful"
+            },
+            "id": {
+                "curseforge": "637529",
+                "modrinth": "JtSnhtNJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Delightful-1.19.2-3.4.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4792/851/Delightful-1.19.2-3.4.1.jar",
+                    "id": "4792851",
+                    "parent_id": "637529",
+                    "hashes": {
+                        "sha1": "531b4031e28fc5c72ae2584f9123f9439d633342",
+                        "md5": "2a436706e62eb85bd94d19b262712b93"
+                    },
+                    "required_dependencies": [
+                        "398521"
+                    ],
+                    "size": 952298,
+                    "date_published": "2023-10-11T05:39:16.190Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Delightful-1.19.2-3.4.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JtSnhtNJ/versions/3kuWUhts/Delightful-1.19.2-3.4.1.jar",
+                    "id": "3kuWUhts",
+                    "parent_id": "JtSnhtNJ",
+                    "hashes": {
+                        "sha512": "02e667dbe89b6fffa67eeacc9ce153bc619e62561df65a5c1b80349fd36484c684fc0bdfceb2a91d121c12c399d31b57c5ffa23605f24c08f7ff5acdeb1f18e0",
+                        "sha1": "531b4031e28fc5c72ae2584f9123f9439d633342"
+                    },
+                    "required_dependencies": [
+                        "R2OftAxM"
+                    ],
+                    "size": 952298,
+                    "date_published": "2025-01-20T23:11:43.669543Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tSdpCucpCUh7iJWv",
             "pakku_links": [
                 "2LCAgg2IESnKnd4a"
@@ -2180,6 +2360,49 @@
                     "required_dependencies": [],
                     "size": 2769499,
                     "date_published": "2024-01-22T02:05:42.143Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "i38GK5g9jEOaYvlJ",
+            "pakku_links": [
+                "LxLPTnlONxclmbtJ"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "farmers-respite"
+            },
+            "name": {
+                "curseforge": "Farmer's Respite"
+            },
+            "id": {
+                "curseforge": "551453"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FarmersRespite-1.19-2.0.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4081/312/FarmersRespite-1.19-2.0.jar",
+                    "id": "4081312",
+                    "parent_id": "551453",
+                    "hashes": {
+                        "sha1": "df109f2a9ea5a051a29cd3d393d1e098dc00a6fc",
+                        "md5": "92871e5a159179e1a264b92394a57bef"
+                    },
+                    "required_dependencies": [
+                        "398521"
+                    ],
+                    "size": 493349,
+                    "date_published": "2022-11-11T19:45:26.363Z"
                 }
             ]
         },
@@ -2691,6 +2914,74 @@
             ]
         },
         {
+            "pakku_id": "PaPbffFxtdDv5DSo",
+            "pakku_links": [
+                "1SG0m1GKbzDlOwfI"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "incubation",
+                "modrinth": "incubation"
+            },
+            "name": {
+                "curseforge": "Incubation",
+                "modrinth": "Incubation"
+            },
+            "id": {
+                "curseforge": "361718",
+                "modrinth": "A4Xrv60A"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "incubation-1.19.2-3.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4776/209/incubation-1.19.2-3.0.1.jar",
+                    "id": "4776209",
+                    "parent_id": "361718",
+                    "hashes": {
+                        "sha1": "dc98d35f181ab6d574666310e9bd6687b3f84bf5",
+                        "md5": "e6fbba3532f7821c5e945573e7d8f193"
+                    },
+                    "required_dependencies": [
+                        "382216"
+                    ],
+                    "size": 459610,
+                    "date_published": "2023-09-30T21:04:39.420Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "incubation-1.19.2-3.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/A4Xrv60A/versions/xNXbdthU/incubation-1.19.2-3.0.1.jar",
+                    "id": "xNXbdthU",
+                    "parent_id": "A4Xrv60A",
+                    "hashes": {
+                        "sha512": "19c965d7e84896bc057fd3e30f1ab29ed528734764807f2ac3fb066914364c4e0ae9526e66308eb840183fa26941e1ae58902da7ff79c7c0b76a774bc20fd608",
+                        "sha1": "dc98d35f181ab6d574666310e9bd6687b3f84bf5"
+                    },
+                    "required_dependencies": [
+                        "VsM5EDoI"
+                    ],
+                    "size": 459610,
+                    "date_published": "2023-11-03T22:20:07.269659Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ya8SdyMYGLNQmmUg",
             "type": "MOD",
             "side": "BOTH",
@@ -3169,6 +3460,116 @@
                     ],
                     "size": 1392463,
                     "date_published": "2024-08-31T03:59:36.720Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6Vt6mMBWov79o42f",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "nethers-delight",
+                "modrinth": "nethers-delight"
+            },
+            "name": {
+                "curseforge": "Nether's Delight",
+                "modrinth": "Nether's Delight"
+            },
+            "id": {
+                "curseforge": "496394",
+                "modrinth": "Vv0RM7WN"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NethersDelight-1.19-3.1.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4731/72/NethersDelight-1.19-3.1.jar",
+                    "id": "4731072",
+                    "parent_id": "496394",
+                    "hashes": {
+                        "sha1": "844fcf67924c682d65adee493e4dd5ba2f6cc9f3",
+                        "md5": "505bdfac61f75df19c9acab092f0351d"
+                    },
+                    "required_dependencies": [],
+                    "size": 344436,
+                    "date_published": "2023-08-31T15:25:30.320Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0W3Y1Y6ysc3RCHJe",
+            "pakku_links": [
+                "LxLPTnlONxclmbtJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "oceans-delight",
+                "modrinth": "oceans-delight"
+            },
+            "name": {
+                "curseforge": "Ocean's Delight",
+                "modrinth": "Ocean's Delight"
+            },
+            "id": {
+                "curseforge": "841262",
+                "modrinth": "DGiq4ZSW"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "oceansdelight-1.0.2-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4652/58/oceansdelight-1.0.2-1.19.2.jar",
+                    "id": "4652058",
+                    "parent_id": "841262",
+                    "hashes": {
+                        "sha1": "b998d3283c7e4a4b7c71ac00416254df4c90b48b",
+                        "md5": "9a92a3780cb1805cf9f20e2a8d3eb1e6"
+                    },
+                    "required_dependencies": [
+                        "398521"
+                    ],
+                    "size": 105756,
+                    "date_published": "2023-07-18T21:14:35.487Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "oceansdelight-1.0.2-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/rClYLHGR/oceansdelight-1.0.2-1.19.2.jar",
+                    "id": "rClYLHGR",
+                    "parent_id": "DGiq4ZSW",
+                    "hashes": {
+                        "sha512": "7a8ada74aa16fdf7cf75f17ee05a00e16d2dea8b70c023e73fc4373c8acec26f4485a4409302129f14da1213c0a0c2a9e6cad20fa62ae94e7038161527621db9",
+                        "sha1": "b998d3283c7e4a4b7c71ac00416254df4c90b48b"
+                    },
+                    "required_dependencies": [],
+                    "size": 105756,
+                    "date_published": "2023-11-23T20:21:28.370852Z"
                 }
             ]
         },
@@ -4947,6 +5348,119 @@
                     "required_dependencies": [],
                     "size": 128474,
                     "date_published": "2023-03-22T20:56:44.897Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "whSyIIDTzJaTgdTg",
+            "pakku_links": [
+                "wbqDq9fJtqVyhDr4",
+                "EIaAvdj3o5HATWZA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "undergarden-botany-pots-compats"
+            },
+            "name": {
+                "curseforge": "Undergarden Botany Pots Compats"
+            },
+            "id": {
+                "curseforge": "965414"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "UndergardenBotanyPotsCompats-0.3.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5399/231/UndergardenBotanyPotsCompats-0.3.1.jar",
+                    "id": "5399231",
+                    "parent_id": "965414",
+                    "hashes": {
+                        "sha1": "dd367e65450665e46b7bcb98db2b63c4a4583ea2",
+                        "md5": "94d546cdecc892fd1c25f69f7c96199a"
+                    },
+                    "required_dependencies": [
+                        "379849",
+                        "353928"
+                    ],
+                    "size": 15357,
+                    "date_published": "2024-06-04T23:04:09.423Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0FvjnrarHN2beL6T",
+            "pakku_links": [
+                "wbqDq9fJtqVyhDr4",
+                "LxLPTnlONxclmbtJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "undergarden-delight",
+                "modrinth": "undergarden-delight"
+            },
+            "name": {
+                "curseforge": "Undergarden Delight (A Farmer's Delight Add-on)",
+                "modrinth": "Undergarden Delight"
+            },
+            "id": {
+                "curseforge": "960662",
+                "modrinth": "H340jsJv"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6152/519/undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "id": "6152519",
+                    "parent_id": "960662",
+                    "hashes": {
+                        "sha1": "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d",
+                        "md5": "f9f20d4d6dcb00c8254cf4eeeeb9a176"
+                    },
+                    "required_dependencies": [
+                        "379849",
+                        "398521"
+                    ],
+                    "size": 102797,
+                    "date_published": "2025-02-03T03:28:57.820Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/H340jsJv/versions/d4iOIkV2/undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "id": "d4iOIkV2",
+                    "parent_id": "H340jsJv",
+                    "hashes": {
+                        "sha512": "b455938e6aec26d1a30f2e942377b8d0b1d88137d02be2ab781299f60e8446a6841fc290d8f40d7585805b0d7edbf6ca863bb42f1793e8fb6eef100d9af706ff",
+                        "sha1": "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d"
+                    },
+                    "required_dependencies": [],
+                    "size": 102797,
+                    "date_published": "2025-02-03T04:08:21.984314Z"
                 }
             ]
         },
