@@ -2,5 +2,5 @@
 instance.cfg
 mmc-pack.json
 
-# test server folder
-testServer/*
+# test stuff
+_localtest_**/*

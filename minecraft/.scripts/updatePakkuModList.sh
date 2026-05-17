@@ -30,5 +30,5 @@ pattern=$(IFS='|'; echo "${filters[*]}")
 pakku ls | sed -r "s:\x1B\[[0-9;]*[mK]::g" > _pakkuInstalledMods.txt
 cat _pakkuInstalledMods.txt | grep -Ev "$pattern" > _pakkuInstalledMods_filtered.txt
 
-echo "Filtered out Pakku entries:"
+echo "Filtered out Pakku entries ===================================="
 diff -y --suppress-common-lines _pakkuInstalledMods.txt _pakkuInstalledMods_filtered.txt
