@@ -1694,29 +1694,6 @@
                     ],
                     "size": 2084868,
                     "date_published": "2025-01-09T12:24:34.696809Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "stevescarts-1.19.2-1.1.3.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6068/890/stevescarts-1.19.2-1.1.3.jar",
-                    "id": "6068890",
-                    "parent_id": "551524",
-                    "hashes": {
-                        "sha1": "8bab05aadb5dd032b4ec3ff9021bd341f67d760e",
-                        "md5": "ed86dd7a0ef4bdc3ca9143b59420952a"
-                    },
-                    "required_dependencies": [
-                        "576589"
-                    ],
-                    "size": 2084868,
-                    "date_published": "2025-01-09T12:15:46Z"
                 }
             ]
         },
@@ -1755,6 +1732,67 @@
                     "required_dependencies": [],
                     "size": 288916,
                     "date_published": "2024-10-25T04:36:29.123Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Ln8CxGGgFQ60f7uM",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cyanide",
+                "modrinth": "cyanide"
+            },
+            "name": {
+                "curseforge": "Cyanide",
+                "modrinth": "Cyanide"
+            },
+            "id": {
+                "curseforge": "541676",
+                "modrinth": "fXbvd6mf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cyanide-forge-1.19.2-3.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4126/944/cyanide-forge-1.19.2-3.0.1.jar",
+                    "id": "4126944",
+                    "parent_id": "541676",
+                    "hashes": {
+                        "sha1": "963954282d8dcc8e59579d89372689c00d406ad8",
+                        "md5": "a542fc3cb85c8e0012bfae39756fb7a6"
+                    },
+                    "required_dependencies": [],
+                    "size": 74995,
+                    "date_published": "2022-12-02T01:26:29.877Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cyanide-forge-1.19.2-3.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fXbvd6mf/versions/8rReergj/cyanide-forge-1.19.2-3.0.1.jar",
+                    "id": "8rReergj",
+                    "parent_id": "fXbvd6mf",
+                    "hashes": {
+                        "sha512": "f5f9ac63917701277e8bf5b1f0a2126aab4363b84fdebf0fdcc2f4b9d231dd2b1a048e8ce394a816bd738812d654ffa1c4b78e7466a5a16c0a646c9ac498ae8f",
+                        "sha1": "963954282d8dcc8e59579d89372689c00d406ad8"
+                    },
+                    "required_dependencies": [],
+                    "size": 74995,
+                    "date_published": "2023-06-13T13:13:34.601332Z"
                 }
             ]
         },
@@ -2299,6 +2337,69 @@
                     ],
                     "size": 2304032,
                     "date_published": "2025-10-24T01:39:14.663Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2jPRWtIt0Woh66XB",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fps-monitor",
+                "modrinth": "fps-monitor"
+            },
+            "name": {
+                "curseforge": "FPS Monitor",
+                "modrinth": "FPS Monitor"
+            },
+            "id": {
+                "curseforge": "548447",
+                "modrinth": "3AHrP4M0"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FPS-Monitor-1.19.2-1.3.0.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3921/153/FPS-Monitor-1.19.2-1.3.0.jar",
+                    "id": "3921153",
+                    "parent_id": "548447",
+                    "hashes": {
+                        "sha1": "a2795455ae9f406c9aeed0334c87d09ac014f893",
+                        "md5": "013f2a8ddb2dbfb0e890e9cb2fa4823c"
+                    },
+                    "required_dependencies": [],
+                    "size": 124288,
+                    "date_published": "2022-08-06T12:48:04.350Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "FPS-Monitor-1.19.2-1.3.0.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3AHrP4M0/versions/O6eb2gXK/FPS-Monitor-1.19.2-1.3.0.jar",
+                    "id": "O6eb2gXK",
+                    "parent_id": "3AHrP4M0",
+                    "hashes": {
+                        "sha512": "06c0123afcf799bda61d33338f281b8dc05fcfc9d96443376b2eecaa3dae949034d9fa2c485c5f4c26b2e0e5ae67d7a1fab5001542654b538ec57aec5bbf3e4b",
+                        "sha1": "a2795455ae9f406c9aeed0334c87d09ac014f893"
+                    },
+                    "required_dependencies": [],
+                    "size": 124288,
+                    "date_published": "2023-06-10T22:56:28.506727Z"
                 }
             ]
         },
@@ -5396,75 +5497,6 @@
             ]
         },
         {
-            "pakku_id": "0FvjnrarHN2beL6T",
-            "pakku_links": [
-                "wbqDq9fJtqVyhDr4",
-                "LxLPTnlONxclmbtJ"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "undergarden-delight",
-                "modrinth": "undergarden-delight"
-            },
-            "name": {
-                "curseforge": "Undergarden Delight (A Farmer's Delight Add-on)",
-                "modrinth": "Undergarden Delight"
-            },
-            "id": {
-                "curseforge": "960662",
-                "modrinth": "H340jsJv"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "undergarden_delight_1.0.1_forge_1.19.2.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6152/519/undergarden_delight_1.0.1_forge_1.19.2.jar",
-                    "id": "6152519",
-                    "parent_id": "960662",
-                    "hashes": {
-                        "sha1": "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d",
-                        "md5": "f9f20d4d6dcb00c8254cf4eeeeb9a176"
-                    },
-                    "required_dependencies": [
-                        "379849",
-                        "398521"
-                    ],
-                    "size": 102797,
-                    "date_published": "2025-02-03T03:28:57.820Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "undergarden_delight_1.0.1_forge_1.19.2.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/H340jsJv/versions/d4iOIkV2/undergarden_delight_1.0.1_forge_1.19.2.jar",
-                    "id": "d4iOIkV2",
-                    "parent_id": "H340jsJv",
-                    "hashes": {
-                        "sha512": "b455938e6aec26d1a30f2e942377b8d0b1d88137d02be2ab781299f60e8446a6841fc290d8f40d7585805b0d7edbf6ca863bb42f1793e8fb6eef100d9af706ff",
-                        "sha1": "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d"
-                    },
-                    "required_dependencies": [],
-                    "size": 102797,
-                    "date_published": "2025-02-03T04:08:21.984314Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ZjD6MMD7lsgRSIlI",
             "type": "MOD",
             "slug": {
@@ -6177,6 +6209,141 @@
                     ],
                     "size": 241850,
                     "date_published": "2022-10-16T19:33:54.660Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7g7U4zpNM0QnyIBB",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "yeetus-experimentus",
+                "curseforge": "yeetusexperimentus"
+            },
+            "name": {
+                "modrinth": "Yeetus Experimentus",
+                "curseforge": "Yeetus Experimentus"
+            },
+            "id": {
+                "modrinth": "HaaH232J",
+                "curseforge": "635427"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HaaH232J/versions/YnVV0O6w/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+                    "id": "YnVV0O6w",
+                    "parent_id": "HaaH232J",
+                    "hashes": {
+                        "sha512": "712a4ac6bc411458818d324cf6f69af4269f98b11d6edc73b7d5cc355de45c70f94e2f7a45c868edcf497105e80860d8c06c77d998d7d10ff2545238ccfc9111",
+                        "sha1": "18fb59ed7b6ff320b532e76e7f3607a70345dc02"
+                    },
+                    "required_dependencies": [],
+                    "size": 5869,
+                    "date_published": "2023-09-16T13:07:55.100863Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.2",
+                        "1.19.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3909/789/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+                    "id": "3909789",
+                    "parent_id": "635427",
+                    "hashes": {
+                        "sha1": "18fb59ed7b6ff320b532e76e7f3607a70345dc02",
+                        "md5": "b22d28d6cf11bb646c25a2ccb73aa08f"
+                    },
+                    "required_dependencies": [],
+                    "size": 5869,
+                    "date_published": "2022-07-31T17:13:05.740Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0FvjnrarHN2beL6T",
+            "pakku_links": [
+                "wbqDq9fJtqVyhDr4",
+                "LxLPTnlONxclmbtJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "undergarden-delight",
+                "modrinth": "undergarden-delight"
+            },
+            "name": {
+                "curseforge": "[NoCube's] Undergarden Delight (A Farmer's Delight Add-on)",
+                "modrinth": "[NoCube's] Undergarden Delight"
+            },
+            "id": {
+                "curseforge": "960662",
+                "modrinth": "H340jsJv"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/H340jsJv/versions/d4iOIkV2/undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "id": "d4iOIkV2",
+                    "parent_id": "H340jsJv",
+                    "hashes": {
+                        "sha512": "b455938e6aec26d1a30f2e942377b8d0b1d88137d02be2ab781299f60e8446a6841fc290d8f40d7585805b0d7edbf6ca863bb42f1793e8fb6eef100d9af706ff",
+                        "sha1": "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d"
+                    },
+                    "required_dependencies": [],
+                    "size": 102797,
+                    "date_published": "2025-02-03T04:08:21.984314Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6152/519/undergarden_delight_1.0.1_forge_1.19.2.jar",
+                    "id": "6152519",
+                    "parent_id": "960662",
+                    "hashes": {
+                        "sha1": "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d",
+                        "md5": "f9f20d4d6dcb00c8254cf4eeeeb9a176"
+                    },
+                    "required_dependencies": [
+                        "379849",
+                        "398521"
+                    ],
+                    "size": 102797,
+                    "date_published": "2025-02-03T03:28:57.820Z"
                 }
             ]
         },

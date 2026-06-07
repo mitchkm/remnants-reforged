@@ -253,6 +253,14 @@
     "curseForgeHash": 1828044926,
     "modrinthHash": "a55e17db774bd5ab957966a09b42297ceafc70e1"
   },
+  "cyanide-forge-1.19.2-3.0.1.jar": {
+    "jarName": "cyanide-forge-1.19.2-3.0.1.jar",
+    "modId": "cyanide",
+    "name": "Cyanide",
+    "version": "3.0.1",
+    "curseForgeHash": 1527937693,
+    "modrinthHash": "963954282d8dcc8e59579d89372689c00d406ad8"
+  },
   "DarkerDepths-1.19.2-1.0.0.jar": {
     "jarName": "DarkerDepths-1.19.2-1.0.0.jar",
     "modId": "darkerdepths",
@@ -348,6 +356,14 @@
     "version": "1.19.2-2.1.5",
     "curseForgeHash": 4276181451,
     "modrinthHash": "06d8363b7c460621755d512a488a31bcd8777988"
+  },
+  "FPS-Monitor-1.19.2-1.3.0.jar": {
+    "jarName": "FPS-Monitor-1.19.2-1.3.0.jar",
+    "modId": "fps",
+    "name": "FPS Monitor",
+    "version": "1.3.0",
+    "curseForgeHash": 3033148859,
+    "modrinthHash": "a2795455ae9f406c9aeed0334c87d09ac014f893"
   },
   "geckolib-forge-1.19-3.1.40.jar": {
     "jarName": "geckolib-forge-1.19-3.1.40.jar",
@@ -793,6 +809,14 @@
     "version": "1.1.0+1.19.2-forge",
     "curseForgeHash": 1839465396,
     "modrinthHash": "9245c14a76063eda55f0e57c6f3cc9b603e98033"
+  },
+  "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar": {
+    "jarName": "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+    "modId": "yeetusexperimentus",
+    "name": "Yeetus Experimentus",
+    "version": "1.0.1-build.2+mc1.19.1",
+    "curseForgeHash": 4191000563,
+    "modrinthHash": "18fb59ed7b6ff320b532e76e7f3607a70345dc02"
   },
   "YungsApi-1.19.2-Forge-3.8.10.jar": {
     "jarName": "YungsApi-1.19.2-Forge-3.8.10.jar",
