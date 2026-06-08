@@ -730,6 +730,67 @@
             ]
         },
         {
+            "pakku_id": "z8JZ6jDpmTHOE0p4",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "attributefix",
+                "modrinth": "attributefix"
+            },
+            "name": {
+                "curseforge": "AttributeFix",
+                "modrinth": "AttributeFix"
+            },
+            "id": {
+                "curseforge": "280510",
+                "modrinth": "lOOpEntO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AttributeFix-Forge-1.19.2-17.2.8.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5126/457/AttributeFix-Forge-1.19.2-17.2.8.jar",
+                    "id": "5126457",
+                    "parent_id": "280510",
+                    "hashes": {
+                        "sha1": "aa119b01daac09532715eb147f7990f2ae377c09",
+                        "md5": "a45a50f9c1e37f85b7fdba144ec30288"
+                    },
+                    "required_dependencies": [],
+                    "size": 19478,
+                    "date_published": "2024-02-21T22:00:01.463Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AttributeFix-Forge-1.19.2-17.2.7.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/SD6j6TWD/AttributeFix-Forge-1.19.2-17.2.7.jar",
+                    "id": "SD6j6TWD",
+                    "parent_id": "lOOpEntO",
+                    "hashes": {
+                        "sha512": "7265525a40225abe2b58050d1013aa9f29ec00a92448e971531245b307f9e69585d5e6766944570200c45038d12fda6754a1529f50a6d8e4bd2ab8c6c4aa1556",
+                        "sha1": "a70b6fc0aea412f33036f4a992449af6e49fd065"
+                    },
+                    "required_dependencies": [],
+                    "size": 19425,
+                    "date_published": "2023-07-10T16:44:54.784191Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xL6wStNX9LTe0532",
             "type": "MOD",
             "slug": {
@@ -3354,6 +3415,71 @@
             ]
         },
         {
+            "pakku_id": "Phlq3u5TdjYGO9p9",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "lmft",
+                "modrinth": "lmft"
+            },
+            "name": {
+                "curseforge": "Load My F***ing Tags",
+                "modrinth": "Load My F***ing Tags"
+            },
+            "id": {
+                "curseforge": "656346",
+                "modrinth": "67kVxsaO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lmft-1.0.2+1.19-forge.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4687/807/lmft-1.0.2+1.19-forge.jar",
+                    "id": "4687807",
+                    "parent_id": "656346",
+                    "hashes": {
+                        "sha1": "62f93b13244d7f69c79912261765657d98d4cb6c",
+                        "md5": "5744276f6cbd2b58f82c130e7855ea40"
+                    },
+                    "required_dependencies": [],
+                    "size": 179873,
+                    "date_published": "2023-08-07T23:53:10.770Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lmft-1.0.2+1.19-forge.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/D7tQvUmL/lmft-1.0.2+1.19-forge.jar",
+                    "id": "D7tQvUmL",
+                    "parent_id": "67kVxsaO",
+                    "hashes": {
+                        "sha512": "0a39212a722fbcb66816ce45e3684543bb049a4f1c170f76383f97d81d7048fc2d53e906dc32fc28ef2e43cc3798b57661efae8f20a82a01107dd8a9086cb56e",
+                        "sha1": "62f93b13244d7f69c79912261765657d98d4cb6c"
+                    },
+                    "required_dependencies": [],
+                    "size": 179873,
+                    "date_published": "2023-08-07T23:45:26.122184Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7hXYxYsZ75SFydCP",
             "type": "MOD",
             "side": "BOTH",
@@ -3431,6 +3557,133 @@
                     "required_dependencies": [],
                     "size": 5886,
                     "date_published": "2025-07-31T04:03:46.820Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "X32F7JD7P5L86h26",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "max-health-fix",
+                "modrinth": "max-health-fix"
+            },
+            "name": {
+                "curseforge": "Max Health Fix",
+                "modrinth": "Max Health Fix"
+            },
+            "id": {
+                "curseforge": "492246",
+                "modrinth": "mH8wdmqr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MaxHealthFix-Forge-1.19.2-8.0.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4658/481/MaxHealthFix-Forge-1.19.2-8.0.2.jar",
+                    "id": "4658481",
+                    "parent_id": "492246",
+                    "hashes": {
+                        "sha1": "cfc1455a63dcb11ed5b1162c02a20f5454d5f0ab",
+                        "md5": "36056ec637a50cc79c1bee9fc06c174c"
+                    },
+                    "required_dependencies": [],
+                    "size": 8580,
+                    "date_published": "2023-07-22T16:20:50.137Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MaxHealthFix-Forge-1.19.2-8.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mH8wdmqr/versions/vnPhPrwg/MaxHealthFix-Forge-1.19.2-8.0.1.jar",
+                    "id": "vnPhPrwg",
+                    "parent_id": "mH8wdmqr",
+                    "hashes": {
+                        "sha512": "80acc4bd3bdd13124b89dcf4544ccfa6e135fe28f5473bb8fab07b1e49af65a4b084802690ca7795b3dfcdb4337f925faf5bf250f7ba291a395c722a8c7a2beb",
+                        "sha1": "4946f5b8f0b0d842d5c2cc100354c82ef5ce3e87"
+                    },
+                    "required_dependencies": [],
+                    "size": 8572,
+                    "date_published": "2023-06-08T21:03:47.228894Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hBoCklCqXGCppKfI",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "modelfix",
+                "curseforge": "model-gap-fix"
+            },
+            "name": {
+                "modrinth": "Model Gap Fix",
+                "curseforge": "Model Gap Fix"
+            },
+            "id": {
+                "modrinth": "QdG47OkI",
+                "curseforge": "676136"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modelfix-1.8.jar",
+                    "mc_versions": [
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/EglYgeMq/modelfix-1.8.jar",
+                    "id": "EglYgeMq",
+                    "parent_id": "QdG47OkI",
+                    "hashes": {
+                        "sha512": "e237d5cf08f8c785b13265758ad1748b14e82753204eb42088a04273c4b31b11ca1d0fe92761a3a01d1a5e286d138fb57a95dba2e80740dccbd8979e4212b0e9",
+                        "sha1": "ef1882c6244ffb09fed6251b647dec1ffebdca4f"
+                    },
+                    "required_dependencies": [],
+                    "size": 26382,
+                    "date_published": "2022-10-28T00:54:07.534784Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modelfix-1.8.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4024/855/modelfix-1.8.jar",
+                    "id": "4024855",
+                    "parent_id": "676136",
+                    "hashes": {
+                        "sha1": "ef1882c6244ffb09fed6251b647dec1ffebdca4f",
+                        "md5": "94dd393d878d22be69f6f8fb90361572"
+                    },
+                    "required_dependencies": [],
+                    "size": 26382,
+                    "date_published": "2022-10-10T19:50:57.843Z"
                 }
             ]
         },
@@ -3605,6 +3858,78 @@
                     "required_dependencies": [],
                     "size": 344436,
                     "date_published": "2023-08-31T15:25:30.320Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9YE24WMcZuQSlHR2",
+            "pakku_links": [
+                "Jjf5NGGFo73hZ1K1"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "netherportalfix",
+                "modrinth": "netherportalfix"
+            },
+            "name": {
+                "curseforge": "NetherPortalFix",
+                "modrinth": "NetherPortalFix"
+            },
+            "id": {
+                "curseforge": "241160",
+                "modrinth": "nPZr02ET"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "netherportalfix-forge-1.19-10.0.1.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4412/699/netherportalfix-forge-1.19-10.0.1.jar",
+                    "id": "4412699",
+                    "parent_id": "241160",
+                    "hashes": {
+                        "sha1": "56f4cecf220a965d50dc96c26d0fb4563ecaf6f4",
+                        "md5": "8f3d4e86dad9fe2b80eb1c1bdb570508"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 216681,
+                    "date_published": "2023-02-26T13:27:40.590Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "netherportalfix-forge-1.19-10.0.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/WJBCsJlq/netherportalfix-forge-1.19-10.0.2.jar",
+                    "id": "WJBCsJlq",
+                    "parent_id": "nPZr02ET",
+                    "hashes": {
+                        "sha512": "ad3d4709a2dc3908fb8525690ab28353f3f1ca36db0cd6d617914b4a248df2af5fed1e611be28fe5c600189421b27babe9ae76f73edf9624a695a0058e413bcc",
+                        "sha1": "6d1c4f4b54fa23f9af3228943a3582822290dac9"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 216869,
+                    "date_published": "2023-12-08T13:28:21.642929Z"
                 }
             ]
         },
@@ -4545,6 +4870,74 @@
                     "required_dependencies": [],
                     "size": 14343089,
                     "date_published": "2022-10-14T00:34:44.353Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FLfvSsn8DqqhR074",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "simple-snowy-fix-forge-fabric",
+                "modrinth": "simple-snowy-fix-(forge-fabric)"
+            },
+            "name": {
+                "curseforge": "Simple Snowy Fix (Forge / Fabric)",
+                "modrinth": "Simple Snowy Fix (Forge / Fabric)"
+            },
+            "id": {
+                "curseforge": "1211256",
+                "modrinth": "3WP3HZRG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7205/120/simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar",
+                    "id": "7205120",
+                    "parent_id": "1211256",
+                    "hashes": {
+                        "sha1": "13ebae3a2daa7b8291a7f2be7847a5cd1aafd079",
+                        "md5": "ec6a016bb4ba5958ca0280547c8b767b"
+                    },
+                    "required_dependencies": [],
+                    "size": 123109,
+                    "date_published": "2025-11-10T00:05:29.833Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3WP3HZRG/versions/tEfULPyd/simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar",
+                    "id": "tEfULPyd",
+                    "parent_id": "3WP3HZRG",
+                    "hashes": {
+                        "sha512": "21c093bd872240987b674f3e1fb18574ba190963385ae61829caec15b12a4780e63732be775011b608357725d9ebca30e182c56f51ae8f676d810e13a6642cfe",
+                        "sha1": "13ebae3a2daa7b8291a7f2be7847a5cd1aafd079"
+                    },
+                    "required_dependencies": [],
+                    "size": 123109,
+                    "date_published": "2025-11-10T00:05:31.414282Z"
                 }
             ]
         },

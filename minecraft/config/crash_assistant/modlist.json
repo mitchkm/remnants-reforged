@@ -117,6 +117,14 @@
     "curseForgeHash": 4101366554,
     "modrinthHash": "1eb1f126bc0515f1fe96a1671045b05e73c11010"
   },
+  "AttributeFix-Forge-1.19.2-17.2.8.jar": {
+    "jarName": "AttributeFix-Forge-1.19.2-17.2.8.jar",
+    "modId": "attributefix",
+    "name": "AttributeFix",
+    "version": "17.2.8",
+    "curseForgeHash": 2448644446,
+    "modrinthHash": "aa119b01daac09532715eb147f7990f2ae377c09"
+  },
   "balm-forge-1.19.2-4.6.0.jar": {
     "jarName": "balm-forge-1.19.2-4.6.0.jar",
     "modId": "balm",
@@ -477,6 +485,22 @@
     "curseForgeHash": 3445794797,
     "modrinthHash": "6cbc21969ffe10e2dbf23465eb3d818a0818bc82"
   },
+  "lmft-1.0.2+1.19-forge.jar": {
+    "jarName": "lmft-1.0.2+1.19-forge.jar",
+    "modId": "lmft",
+    "name": "Load My F***ing Tags",
+    "version": "1.0.2+1.19",
+    "curseForgeHash": 147434653,
+    "modrinthHash": "62f93b13244d7f69c79912261765657d98d4cb6c"
+  },
+  "MaxHealthFix-Forge-1.19.2-8.0.2.jar": {
+    "jarName": "MaxHealthFix-Forge-1.19.2-8.0.2.jar",
+    "modId": "maxhealthfix",
+    "name": "MaxHealthFix",
+    "version": "8.0.2",
+    "curseForgeHash": 314984348,
+    "modrinthHash": "cfc1455a63dcb11ed5b1162c02a20f5454d5f0ab"
+  },
   "MCretector-1.1.0.jar": {
     "jarName": "MCretector-1.1.0.jar",
     "modId": "mcretector",
@@ -484,6 +508,14 @@
     "version": "1.1.0",
     "curseForgeHash": 3099056133,
     "modrinthHash": "5718e2c29e2be79eeb553655742ac4d123ebbd36"
+  },
+  "modelfix-1.8.jar": {
+    "jarName": "modelfix-1.8.jar",
+    "modId": "modelfix",
+    "name": "Model Gap Fix",
+    "version": "1.8",
+    "curseForgeHash": 2475064624,
+    "modrinthHash": "ef1882c6244ffb09fed6251b647dec1ffebdca4f"
   },
   "moonlight-1.19.2-2.3.7-forge.jar": {
     "jarName": "moonlight-1.19.2-2.3.7-forge.jar",
@@ -508,6 +540,14 @@
     "version": "3.4.1",
     "curseForgeHash": 4216530972,
     "modrinthHash": "da67ed0cd8f6e8cfaf98d9c59ddd4669d3210099"
+  },
+  "netherportalfix-forge-1.19-10.0.2.jar": {
+    "jarName": "netherportalfix-forge-1.19-10.0.2.jar",
+    "modId": "netherportalfix",
+    "name": "NetherPortalFix",
+    "version": "10.0.2",
+    "curseForgeHash": 3566829801,
+    "modrinthHash": "6d1c4f4b54fa23f9af3228943a3582822290dac9"
   },
   "NethersDelight-1.19-3.1.jar": {
     "jarName": "NethersDelight-1.19-3.1.jar",
@@ -625,6 +665,14 @@
     "jarName": "ScalableCatsForce-2.13.10-build-10-with-library.jar",
     "curseForgeHash": 2734568795,
     "modrinthHash": "5aca620e735b96107bb1daf4244347acaed3b8a9"
+  },
+  "simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar": {
+    "jarName": "simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar",
+    "modId": "simple_snowy_fix",
+    "name": "Simple Snowy Fix",
+    "version": "2.1.5",
+    "curseForgeHash": 3955384355,
+    "modrinthHash": "13ebae3a2daa7b8291a7f2be7847a5cd1aafd079"
   },
   "smallships-forge-1.19.2-2.0.0-b1.3.1.jar": {
     "jarName": "smallships-forge-1.19.2-2.0.0-b1.3.1.jar",

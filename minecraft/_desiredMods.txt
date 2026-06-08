@@ -1,4 +1,4 @@
-# Mod List: 189
+# Mod List: 188
 Audio, cf=extrasounds-forge | Extrasounds
 Audio, cf=auditory | Auditory
 Compat, cf=polymorph | Polymorph
@@ -44,8 +44,6 @@ Fix, mr=modelfix | Model Gap Fix
 Fix, cf=max-health-fix | Max Health Fix
 Fix, cf=lmft | Load My Fing Tags
 Fix, cf=attributefix | AttributeFix
-Fix-server, cf=neruina | Neruina - Ticking Entity Fixer
-Fix-server, cf=connectivity | Connectivity
 Food/Farming, cf=undergarden-delight | Undergarden Delight
 Food/Farming, cf=undergarden-botany-pots-compats | Undergarden Botany Pots Compats
 Food/Farming, cf=strawgolem-reborn | Straw Golem
@@ -89,6 +87,7 @@ Mob, cf=chococraft | ChocoCraft
 Mob, cf=canes-wonderful-spiders | Canes Wonderful Spiders
 Multiplayer, cf=no-chat-reports | No Chat Reports
 Multiplayer, cf=mighty-mail | Mighty Mail
+Perf, cf=notenoughrecipebook | Not Enough Recipe Book
 Perf, mr=structure-layout-optimizer | Structure Layout Optimizer
 Perf, cf=quick-pack | quick pack
 Perf, mr=async-locator | Async Locator
