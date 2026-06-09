@@ -11,7 +11,7 @@
 	#Text Shadow [Applies Drop-Shadow to Font]
 	has_text_shadow = true
 	#Displays Information on the Game-Window Bar
-	game_window_info = true
+	game_window_info = false
 
 [components]
 

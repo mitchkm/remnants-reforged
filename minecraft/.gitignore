@@ -26,6 +26,9 @@ config/bettermineshafts/**/[rR][eE][aA][dD][mM][eE].txt
 ### YUNG's Better Strongholds
 config/betterstrongholds/**/[rR][eE][aA][dD][mM][eE].txt
 
+## Spark
+config/spark/activity.json
+
 ## Crash Assistant
 config/crash_assistant/lang/*
 config/crash_assistant/crash_assistant_localization_overrides/*
