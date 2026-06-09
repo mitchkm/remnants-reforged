@@ -93,6 +93,14 @@
     "curseForgeHash": 3098578737,
     "modrinthHash": "c6f33f3e123ee8f2fce6250a26fc1ac404f98ce7"
   },
+  "alternate-current-mc1.19-1.7.0.jar": {
+    "jarName": "alternate-current-mc1.19-1.7.0.jar",
+    "modId": "alternate_current",
+    "name": "Alternate Current",
+    "version": "1.7.0",
+    "curseForgeHash": 2899343663,
+    "modrinthHash": "1fffdc728e190d1615d1d4c000683500de5f4daf"
+  },
   "appliedenergistics2-forge-12.9.12.jar": {
     "jarName": "appliedenergistics2-forge-12.9.12.jar",
     "modId": "ae2",
@@ -116,6 +124,14 @@
     "version": "1.1.2",
     "curseForgeHash": 4101366554,
     "modrinthHash": "1eb1f126bc0515f1fe96a1671045b05e73c11010"
+  },
+  "async-locator-forge-1.19.2-1.3.0.jar": {
+    "jarName": "async-locator-forge-1.19.2-1.3.0.jar",
+    "modId": "asynclocator",
+    "name": "Async Locator",
+    "version": "1.3.0",
+    "curseForgeHash": 2987084998,
+    "modrinthHash": "f1809e3aac6fe7b690127a09716aadfc56012899"
   },
   "AttributeFix-Forge-1.19.2-17.2.8.jar": {
     "jarName": "AttributeFix-Forge-1.19.2-17.2.8.jar",
@@ -220,6 +236,14 @@
     "version": "8.3.134",
     "curseForgeHash": 3310488925,
     "modrinthHash": "e2a3a4e9eeae37b7e79aa8e72bb2834675fe4fe5"
+  },
+  "Clumps-forge-1.19.2-9.0.0+14.jar": {
+    "jarName": "Clumps-forge-1.19.2-9.0.0+14.jar",
+    "modId": "clumps",
+    "name": "Clumps",
+    "version": "9.0.0+14",
+    "curseForgeHash": 480320721,
+    "modrinthHash": "fa1ea47e0da5a219355bd5b6cf5df6e821b2baf8"
   },
   "CodeChickenLib-1.19.2-4.3.2.490-universal.jar": {
     "jarName": "CodeChickenLib-1.19.2-4.3.2.490-universal.jar",
@@ -357,6 +381,38 @@
     "curseForgeHash": 1878537033,
     "modrinthHash": "df109f2a9ea5a051a29cd3d393d1e098dc00a6fc"
   },
+  "FastFurnace-1.19.2-7.0.0.jar": {
+    "jarName": "FastFurnace-1.19.2-7.0.0.jar",
+    "modId": "fastfurnace",
+    "name": "FastFurnace",
+    "version": "7.0.0",
+    "curseForgeHash": 2026152198,
+    "modrinthHash": "3135756b5a0b8f34643f34ad2807f3a32a7b041e"
+  },
+  "FastSuite-1.19.2-4.1.1.jar": {
+    "jarName": "FastSuite-1.19.2-4.1.1.jar",
+    "modId": "fastsuite",
+    "name": "Fast Suite",
+    "version": "4.1.1",
+    "curseForgeHash": 4150887569,
+    "modrinthHash": "d17b34d2e3018e24aa6704edeb70e74cab0a1e38"
+  },
+  "FastWorkbench-1.19.2-7.1.4.jar": {
+    "jarName": "FastWorkbench-1.19.2-7.1.4.jar",
+    "modId": "fastbench",
+    "name": "Fast Workbench",
+    "version": "7.1.4",
+    "curseForgeHash": 898734096,
+    "modrinthHash": "92b819982fffa6a2c36ed2a76f5e68e164d7c7eb"
+  },
+  "ferritecore-5.0.3-forge.jar": {
+    "jarName": "ferritecore-5.0.3-forge.jar",
+    "modId": "ferritecore",
+    "name": "Ferrite Core",
+    "version": "5.0.3",
+    "curseForgeHash": 252252793,
+    "modrinthHash": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb"
+  },
   "forbidden_arcanus-1.19.2-2.1.5.jar": {
     "jarName": "forbidden_arcanus-1.19.2-2.1.5.jar",
     "modId": "forbidden_arcanus",
@@ -485,6 +541,22 @@
     "curseForgeHash": 3445794797,
     "modrinthHash": "6cbc21969ffe10e2dbf23465eb3d818a0818bc82"
   },
+  "lazydfu-1.19-1.0.2.jar": {
+    "jarName": "lazydfu-1.19-1.0.2.jar",
+    "modId": "lazydfu",
+    "name": "LazyDFU",
+    "version": "0.1.3",
+    "curseForgeHash": 3961126436,
+    "modrinthHash": "e120fbcc1704fcf0e661494771ba50ffe5a43b40"
+  },
+  "lightspeed-1.19.2-1.0.5.jar": {
+    "jarName": "lightspeed-1.19.2-1.0.5.jar",
+    "modId": "lightspeed",
+    "name": "Lightspeed",
+    "version": "1.19.2-1.1.0",
+    "curseForgeHash": 2851476559,
+    "modrinthHash": "acbd57a65c46bc1cbeaf3a41792c6187a8c22a9d"
+  },
   "lmft-1.0.2+1.19-forge.jar": {
     "jarName": "lmft-1.0.2+1.19-forge.jar",
     "modId": "lmft",
@@ -517,6 +589,14 @@
     "curseForgeHash": 2475064624,
     "modrinthHash": "ef1882c6244ffb09fed6251b647dec1ffebdca4f"
   },
+  "modernfix-forge-5.18.1+mc1.19.2.jar": {
+    "jarName": "modernfix-forge-5.18.1+mc1.19.2.jar",
+    "modId": "modernfix",
+    "name": "ModernFix",
+    "version": "5.18.1+mc1.19.2",
+    "curseForgeHash": 3662382347,
+    "modrinthHash": "532d4dcc05095d7aa2289e4758e5c8265c759c9b"
+  },
   "moonlight-1.19.2-2.3.7-forge.jar": {
     "jarName": "moonlight-1.19.2-2.3.7-forge.jar",
     "modId": "moonlight",
@@ -540,6 +620,14 @@
     "version": "3.4.1",
     "curseForgeHash": 4216530972,
     "modrinthHash": "da67ed0cd8f6e8cfaf98d9c59ddd4669d3210099"
+  },
+  "nerb-1.19.2-0.3-FORGE.jar": {
+    "jarName": "nerb-1.19.2-0.3-FORGE.jar",
+    "modId": "nerb",
+    "name": "Not Enough Recipe Book",
+    "version": "0.3",
+    "curseForgeHash": 3424986663,
+    "modrinthHash": "a9e64d7ccc0b2ad8f08764da22a59dc075269dbd"
   },
   "netherportalfix-forge-1.19-10.0.2.jar": {
     "jarName": "netherportalfix-forge-1.19-10.0.2.jar",
@@ -580,6 +668,14 @@
     "version": "10.8",
     "curseForgeHash": 2251515499,
     "modrinthHash": "729c426381c8ae9f2c67cc0a59ef02d15f174fbd"
+  },
+  "Placebo-1.19.2-7.4.1.jar": {
+    "jarName": "Placebo-1.19.2-7.4.1.jar",
+    "modId": "placebo",
+    "name": "Placebo",
+    "version": "7.4.1",
+    "curseForgeHash": 1230217372,
+    "modrinthHash": "791c7a8eaf9a83b7efc21d58bd81f23b574db033"
   },
   "polylib-forge-1900.0.3-build.144.jar": {
     "jarName": "polylib-forge-1900.0.3-build.144.jar",
@@ -652,6 +748,14 @@
     "version": "4.19.0-beta+33",
     "curseForgeHash": 4098173130,
     "modrinthHash": "f1fc2b474a61d27cadaf591602adcd5a18345bd0"
+  },
+  "quick-pack-forge-1.3.1+1.19.2-all.jar": {
+    "jarName": "quick-pack-forge-1.3.1+1.19.2-all.jar",
+    "modId": "quick_pack",
+    "name": "quick-pack",
+    "version": "1.3.1",
+    "curseForgeHash": 119379542,
+    "modrinthHash": "083f9ab6c87647192ab482f11f0dc1723c026319"
   },
   "rhino-forge-1902.2.3-build.284.jar": {
     "jarName": "rhino-forge-1902.2.3-build.284.jar",
@@ -745,6 +849,14 @@
     "version": "2.2.0",
     "curseForgeHash": 1661058873,
     "modrinthHash": "5c6eb529f8cb6807ab4e1c9fbb930945a35ee48b"
+  },
+  "structure_layout_optimizer-forge-1.0.10.jar": {
+    "jarName": "structure_layout_optimizer-forge-1.0.10.jar",
+    "modId": "structure_layout_optimizer",
+    "name": "Structure Layout Optimizer",
+    "version": "1.0.10",
+    "curseForgeHash": 1536124902,
+    "modrinthHash": "dc4cab288c1b6be28d153ecdfc240ae63d3c1400"
   },
   "supermartijn642configlib-1.1.8-forge-mc1.19.jar": {
     "jarName": "supermartijn642configlib-1.1.8-forge-mc1.19.jar",

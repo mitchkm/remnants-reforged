@@ -13,6 +13,7 @@ filters=(
     "cloth-config"
     "codechicken-lib"
     "geckolib"
+    "placebo"
     "polylib"
     "rhino"
     "scalable-cats-force"

@@ -1,4 +1,4 @@
-# Mod List: 188
+# Mod List: 185
 Audio, cf=extrasounds-forge | Extrasounds
 Audio, cf=auditory | Auditory
 Compat, cf=polymorph | Polymorph
@@ -23,10 +23,8 @@ Cosmetic, cf=chimes | Chimes
 Cosmetic, cf=beautify-decorate | Beautify!
 Cosmetic, cf=additional-lanterns | Additional Lanterns
 Debug, cf=spark | Spark
-Debug, cf=fps-monitor | FPS Monitor
 Debug, cf=cyanide | Cyanide
 Debug, cf=crash-assistant | Crash Assistant
-Debug, cf=betterf3 | BetterF3
 DevTool, cf=wits | WITS (What Is This Structure)
 Dimension, cf=the-undergarden | The Undergarden
 Dimension, cf=aether | The Aether
@@ -92,7 +90,6 @@ Perf, mr=structure-layout-optimizer | Structure Layout Optimizer
 Perf, cf=quick-pack | quick pack
 Perf, mr=async-locator | Async Locator
 Perf, cf=immediatelyfast | ImmediatelyFast
-Perf, cf=zfastnoise | Fast Noise
 Perf, cf=modernfix | ModernFix
 Perf, cf=lightspeedmod | Lightspeed - Launch optimizations
 Perf, cf=lazy-dfu-forge | LazyDFU Forge
