@@ -16,6 +16,12 @@
         "wits": {
             "export": false
         },
+        "fps-monitor": {
+            "export": false
+        },
+        "betterf3": {
+            "export": false
+        },
         "spark": {
             "side": "SERVER"
         },
