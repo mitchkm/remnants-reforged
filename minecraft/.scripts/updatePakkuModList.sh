@@ -2,6 +2,8 @@
 
 filters=(
     # utility mods
+    "betterf3"
+    "fps-monitor"
     "mcretector"
     # libs
     "aeroblender"
@@ -12,6 +14,7 @@ filters=(
     "cb-multipart"
     "cloth-config"
     "codechicken-lib"
+    "framework"
     "geckolib"
     "placebo"
     "polylib"

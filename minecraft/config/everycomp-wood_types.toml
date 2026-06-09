@@ -130,3 +130,6 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
+		[entries.wood_type.mighty_mail]
+			mail_box = true
+

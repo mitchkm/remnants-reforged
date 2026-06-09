@@ -1014,6 +1014,7 @@
                 "curseforge": "401648",
                 "modrinth": "8shC1gFX"
             },
+            "export": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -2669,6 +2670,7 @@
                 "curseforge": "548447",
                 "modrinth": "3AHrP4M0"
             },
+            "export": false,
             "files": [
                 {
                     "type": "curseforge",
@@ -3069,6 +3071,42 @@
                     ],
                     "size": 2412071,
                     "date_published": "2023-11-08T21:03:51.740Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "18VKeuAkNKy0e6LA",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "framework"
+            },
+            "name": {
+                "curseforge": "Framework"
+            },
+            "id": {
+                "curseforge": "549225"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "framework-forge-1.19.2-0.7.12.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5692/394/framework-forge-1.19.2-0.7.12.jar",
+                    "id": "5692394",
+                    "parent_id": "549225",
+                    "hashes": {
+                        "sha1": "ea587fadaf4be71b7dc392029884b8018cf1610b",
+                        "md5": "64492eb1516c8606c7fda382a72e238c"
+                    },
+                    "required_dependencies": [],
+                    "size": 301078,
+                    "date_published": "2024-09-04T14:07:41.387Z"
                 }
             ]
         },
@@ -4223,6 +4261,47 @@
             ]
         },
         {
+            "pakku_id": "TcuUiSKIbT9Shw9k",
+            "pakku_links": [
+                "18VKeuAkNKy0e6LA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "mighty-mail"
+            },
+            "name": {
+                "curseforge": "Mighty Mail"
+            },
+            "id": {
+                "curseforge": "902986"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mighty_mail-forge-1.19.2-1.1.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5733/301/mighty_mail-forge-1.19.2-1.1.2.jar",
+                    "id": "5733301",
+                    "parent_id": "902986",
+                    "hashes": {
+                        "sha1": "b9ea90508dfc1e172a3f12bfc9e6d904069fa60e",
+                        "md5": "3622b7e2cdbe966f1f4263b2f2f7e045"
+                    },
+                    "required_dependencies": [
+                        "549225"
+                    ],
+                    "size": 194317,
+                    "date_published": "2024-09-18T04:05:18.853Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hBoCklCqXGCppKfI",
             "type": "MOD",
             "side": "CLIENT",
@@ -4592,6 +4671,67 @@
                     ],
                     "size": 216869,
                     "date_published": "2023-12-08T13:28:21.642929Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1fqAb5LmfzyZuc4d",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "no-chat-reports",
+                "modrinth": "no-chat-reports"
+            },
+            "name": {
+                "curseforge": "No Chat Reports",
+                "modrinth": "No Chat Reports"
+            },
+            "id": {
+                "curseforge": "634062",
+                "modrinth": "qQyHxfxd"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NoChatReports-FORGE-1.19.2-v1.5.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4082/456/NoChatReports-FORGE-1.19.2-v1.5.1.jar",
+                    "id": "4082456",
+                    "parent_id": "634062",
+                    "hashes": {
+                        "sha1": "476312ba20f6da0a9d4a21b874e41d7efe719d2f",
+                        "md5": "05dcb9bf88cd31a942ea8b686ddca0de"
+                    },
+                    "required_dependencies": [],
+                    "size": 204615,
+                    "date_published": "2022-11-12T14:18:27.030Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "NoChatReports-FORGE-1.19.2-v1.5.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/RNAG69Zu/NoChatReports-FORGE-1.19.2-v1.5.1.jar",
+                    "id": "RNAG69Zu",
+                    "parent_id": "qQyHxfxd",
+                    "hashes": {
+                        "sha512": "1a7f516dd3fa9e8ebd58b7488ef971773a2d370827869b9f567ad07dc48926ac7ad52498e0ae691976faadf96793ad688aeb102209f4f439e12920e2769e8b20",
+                        "sha1": "476312ba20f6da0a9d4a21b874e41d7efe719d2f"
+                    },
+                    "required_dependencies": [],
+                    "size": 204615,
+                    "date_published": "2022-11-12T14:18:30.045795Z"
                 }
             ]
         },

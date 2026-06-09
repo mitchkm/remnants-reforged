@@ -40,6 +40,10 @@ config/towns_and_towers/resources/*
 ## JEI
 config/jei/world/*
 
+## No Chat Reports
+config/NoChatReports/[rR][eE][aA][dD][mM][eE].md
+config/NoChatReports/NCR-ServerWhitelist.json
+
 # Pakku
 !.pakku/
 !pakku.json
