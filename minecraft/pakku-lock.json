@@ -4835,6 +4835,71 @@
             ]
         },
         {
+            "pakku_id": "5EWYRB0Q9ySHikSX",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "lootr",
+                "modrinth": "lootr"
+            },
+            "name": {
+                "curseforge": "Lootr (Forge & NeoForge)",
+                "modrinth": "Lootr"
+            },
+            "id": {
+                "curseforge": "361276",
+                "modrinth": "EltpO5cN"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lootr-forge-1.19-0.4.29.76.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5976/195/lootr-forge-1.19-0.4.29.76.jar",
+                    "id": "5976195",
+                    "parent_id": "361276",
+                    "hashes": {
+                        "sha1": "80b9f8ab72ac4c17303e74ef59bd0c5f7772304b",
+                        "md5": "90c87a8626b49b35d6f0eba7c680c421"
+                    },
+                    "required_dependencies": [],
+                    "size": 463767,
+                    "date_published": "2024-12-09T02:54:45.257Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lootr-forge-1.19-0.4.29.76.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/6ULhni05/lootr-forge-1.19-0.4.29.76.jar",
+                    "id": "6ULhni05",
+                    "parent_id": "EltpO5cN",
+                    "hashes": {
+                        "sha512": "d5587b26a675ceb01c6c22918deec45a0ce91da75dd1a8b6d54d0697820c553737177be7608284ca72ab2d1f72543e43038cc1b1113f2b12d543559cff2ddae7",
+                        "sha1": "80b9f8ab72ac4c17303e74ef59bd0c5f7772304b"
+                    },
+                    "required_dependencies": [],
+                    "size": 463767,
+                    "date_published": "2024-12-09T02:55:27.107211Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7hXYxYsZ75SFydCP",
             "type": "MOD",
             "side": "BOTH",
@@ -5765,6 +5830,48 @@
                     "required_dependencies": [],
                     "size": 1550691,
                     "date_published": "2025-09-23T03:00:39.583Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yuf7zabnCov2iQJw",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ping",
+                "modrinth": "ping"
+            },
+            "name": {
+                "curseforge": "Ping",
+                "modrinth": "Ping"
+            },
+            "id": {
+                "curseforge": "222967",
+                "modrinth": "lp1S4OVU"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Ping-1.19-1.9.1.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3865/500/Ping-1.19-1.9.1.jar",
+                    "id": "3865500",
+                    "parent_id": "222967",
+                    "hashes": {
+                        "sha1": "da1d09ccc233b5461111f2bf976750d6d9fdd75a",
+                        "md5": "5177e9c56f69822a420c755c3878e40b"
+                    },
+                    "required_dependencies": [],
+                    "size": 77562,
+                    "date_published": "2022-07-09T13:10:37.340Z"
                 }
             ]
         },

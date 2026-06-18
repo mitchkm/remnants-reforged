@@ -677,6 +677,14 @@
     "curseForgeHash": 147434653,
     "modrinthHash": "62f93b13244d7f69c79912261765657d98d4cb6c"
   },
+  "lootr-forge-1.19-0.4.29.76.jar": {
+    "jarName": "lootr-forge-1.19-0.4.29.76.jar",
+    "modId": "lootr",
+    "name": "Lootr",
+    "version": "0.4.28.75",
+    "curseForgeHash": 1926282995,
+    "modrinthHash": "80b9f8ab72ac4c17303e74ef59bd0c5f7772304b"
+  },
   "MaxHealthFix-Forge-1.19.2-8.0.2.jar": {
     "jarName": "MaxHealthFix-Forge-1.19.2-8.0.2.jar",
     "modId": "maxhealthfix",
@@ -804,6 +812,14 @@
     "version": "10.8",
     "curseForgeHash": 2251515499,
     "modrinthHash": "729c426381c8ae9f2c67cc0a59ef02d15f174fbd"
+  },
+  "Ping-1.19-1.9.1.jar": {
+    "jarName": "Ping-1.19-1.9.1.jar",
+    "modId": "ping",
+    "name": "Ping",
+    "version": "1.19-1.9.1",
+    "curseForgeHash": 1078737185,
+    "modrinthHash": "da1d09ccc233b5461111f2bf976750d6d9fdd75a"
   },
   "Placebo-1.19.2-7.4.1.jar": {
     "jarName": "Placebo-1.19.2-7.4.1.jar",
