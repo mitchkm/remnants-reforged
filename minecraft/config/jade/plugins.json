@@ -87,5 +87,11 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "bee_attributes": true,
+    "productive_bee": true
   }
 }

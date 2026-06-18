@@ -229,6 +229,14 @@
     "curseForgeHash": 870453789,
     "modrinthHash": "d5ff7d1358afc7576c7eb7e6f8b841c8e4f16168"
   },
+  "chococraft-1.19.2-forge-0.6.14.jar": {
+    "jarName": "chococraft-1.19.2-forge-0.6.14.jar",
+    "modId": "chococraft",
+    "name": "Chococraft 4",
+    "version": "0.6.14",
+    "curseForgeHash": 2681969317,
+    "modrinthHash": "792e30757aebeb28ab7707630a6442e1184c93e7"
+  },
   "cloth-config-8.3.134-forge.jar": {
     "jarName": "cloth-config-8.3.134-forge.jar",
     "modId": "cloth_config",
@@ -245,6 +253,14 @@
     "curseForgeHash": 480320721,
     "modrinthHash": "fa1ea47e0da5a219355bd5b6cf5df6e821b2baf8"
   },
+  "CNB-1.19-1.5.4.jar": {
+    "jarName": "CNB-1.19-1.5.4.jar",
+    "modId": "cnb",
+    "name": "Creatures and Beasts",
+    "version": "1.5.4",
+    "curseForgeHash": 3675948766,
+    "modrinthHash": "0941e384d4ecd947bc442d9bcbd5a77dfedc4ddb"
+  },
   "CodeChickenLib-1.19.2-4.3.2.490-universal.jar": {
     "jarName": "CodeChickenLib-1.19.2-4.3.2.490-universal.jar",
     "modId": "codechickenlib",
@@ -252,6 +268,14 @@
     "version": "4.3.2.490",
     "curseForgeHash": 3141074100,
     "modrinthHash": "684294eeb2a11a89482fc8742e82c9fbac7a2257"
+  },
+  "Companion-1.19.2-forge-3.1.3.jar": {
+    "jarName": "Companion-1.19.2-forge-3.1.3.jar",
+    "modId": "companion",
+    "name": "Companion",
+    "version": "3.1.3",
+    "curseForgeHash": 95668919,
+    "modrinthHash": "796d7b30f74d6ab44704fe1d490a82bd4fc02246"
   },
   "Compat-O-Plenty-1.19.2-2.0.1.jar": {
     "jarName": "Compat-O-Plenty-1.19.2-2.0.1.jar",
@@ -269,13 +293,21 @@
     "curseForgeHash": 3104155174,
     "modrinthHash": "d4f0dd0adc62ef695fbf52df5ad92e9c888082a0"
   },
-  "CrashAssistant-forge-1.19-1.20.1-1.11.9.jar": {
-    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.9.jar",
+  "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
     "modId": "crash_assistant",
     "name": "Crash Assistant",
-    "version": "1.11.9",
-    "curseForgeHash": 289595968,
-    "modrinthHash": "e94c49268c83301ee066dca9501c4b5fa902b33d"
+    "version": "1.11.10",
+    "curseForgeHash": 915431175,
+    "modrinthHash": "b70324f326cffc2c01e4eee9bf48f808f92bda10"
+  },
+  "crittersandcompanions-1.19.2-2.1.2.jar": {
+    "jarName": "crittersandcompanions-1.19.2-2.1.2.jar",
+    "modId": "crittersandcompanions",
+    "name": "Critters and Companions",
+    "version": "1.19.2-2.1.2",
+    "curseForgeHash": 1107707952,
+    "modrinthHash": "294077cc7f38a4a25a60f70b95e1bc251e2b6588"
   },
   "curios-forge-1.19.2-5.1.6.4.jar": {
     "jarName": "curios-forge-1.19.2-5.1.6.4.jar",
@@ -445,6 +477,14 @@
     "curseForgeHash": 2816383851,
     "modrinthHash": "ea587fadaf4be71b7dc392029884b8018cf1610b"
   },
+  "friendsandfoes-forge-mc1.19.2-3.0.9.jar": {
+    "jarName": "friendsandfoes-forge-mc1.19.2-3.0.9.jar",
+    "modId": "friendsandfoes",
+    "name": "Friends\u0026Foes",
+    "version": "3.0.9",
+    "curseForgeHash": 514780042,
+    "modrinthHash": "453082dd851f13f4e50fe724a55b49ad74e08389"
+  },
   "geckolib-forge-1.19-3.1.40.jar": {
     "jarName": "geckolib-forge-1.19-3.1.40.jar",
     "modId": "geckolib3",
@@ -460,6 +500,22 @@
     "version": "1.2.0",
     "curseForgeHash": 3485858576,
     "modrinthHash": "412650ce355803e91d54ad8c44cdcf8857c09e2a"
+  },
+  "ghosts-1.19.2-1.1.0.jar": {
+    "jarName": "ghosts-1.19.2-1.1.0.jar",
+    "modId": "ghosts",
+    "name": "Ghosts",
+    "version": "1.1.0",
+    "curseForgeHash": 419256815,
+    "modrinthHash": "719bf60cfdf56ffedc5a92f23ea5b6bfd3e74430"
+  },
+  "goblintraders-1.8.0-1.19.2.jar": {
+    "jarName": "goblintraders-1.8.0-1.19.2.jar",
+    "modId": "goblintraders",
+    "name": "Goblin Traders",
+    "version": "1.8.0",
+    "curseForgeHash": 501603960,
+    "modrinthHash": "fd3d025dce031ecf6d143d2ca16bf1e06349b672"
   },
   "gravestone-forge-1.19.2-1.0.24.jar": {
     "jarName": "gravestone-forge-1.19.2-1.0.24.jar",
@@ -572,6 +628,14 @@
     "version": "0.1.3",
     "curseForgeHash": 3961126436,
     "modrinthHash": "e120fbcc1704fcf0e661494771ba50ffe5a43b40"
+  },
+  "letfishlove-1.0.6.jar": {
+    "jarName": "letfishlove-1.0.6.jar",
+    "modId": "letfishlove",
+    "name": "Let Fish Love",
+    "version": "1.0.6",
+    "curseForgeHash": 514817003,
+    "modrinthHash": "5761f3465b2cf1e466873d3603ea36dce3039f26"
   },
   "lightspeed-1.19.2-1.0.5.jar": {
     "jarName": "lightspeed-1.19.2-1.0.5.jar",
@@ -732,6 +796,14 @@
     "version": "0.46.6+1.19.2",
     "curseForgeHash": 3859795086,
     "modrinthHash": "80a182ed8a832c4df04620cedb3b8fda2757223c"
+  },
+  "productivebees-1.19.2-0.10.7.2.jar": {
+    "jarName": "productivebees-1.19.2-0.10.7.2.jar",
+    "modId": "productivebees",
+    "name": "Productive Bees",
+    "version": "1.19.2-0.10.7.2",
+    "curseForgeHash": 2032739251,
+    "modrinthHash": "e2f9a98243766b581c611c3ce18e7a702810005a"
   },
   "ProjectRed-1.19.2-4.19.0-beta+33-core.jar": {
     "jarName": "ProjectRed-1.19.2-4.19.0-beta+33-core.jar",

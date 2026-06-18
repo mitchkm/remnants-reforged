@@ -133,3 +133,10 @@
 		[entries.wood_type.mighty_mail]
 			mail_box = true
 
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.productivebees]
+			expansion_box = true
+			advanced_beehive = true
+
