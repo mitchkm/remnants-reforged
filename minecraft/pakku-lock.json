@@ -185,6 +185,78 @@
             ]
         },
         {
+            "pakku_id": "YwWDEQpp9IaJKlOp",
+            "pakku_links": [
+                "kgGbelfExU0zLcq9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "advancement-plaques",
+                "modrinth": "advancement-plaques"
+            },
+            "name": {
+                "curseforge": "Advancement Plaques [Neo/Forge]",
+                "modrinth": "Advancement Plaques"
+            },
+            "id": {
+                "curseforge": "499826",
+                "modrinth": "9NM0dXub"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AdvancementPlaques-1.19.2-1.4.7.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4029/209/AdvancementPlaques-1.19.2-1.4.7.jar",
+                    "id": "4029209",
+                    "parent_id": "499826",
+                    "hashes": {
+                        "sha1": "a52677eb955bde82bec4552e0e084b5ffff6e37a",
+                        "md5": "b167331abe438731f132eb339ad03682"
+                    },
+                    "required_dependencies": [
+                        "520110"
+                    ],
+                    "size": 206511,
+                    "date_published": "2022-10-15T03:27:34.797Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AdvancementPlaques-1.19.2-1.4.7.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/i82iP1q7/AdvancementPlaques-1.19.2-1.4.7.jar",
+                    "id": "i82iP1q7",
+                    "parent_id": "9NM0dXub",
+                    "hashes": {
+                        "sha512": "fcbd49173198def2f1ec6fcbce10993b2667b98bf4eacb48825a9d96a70c2a25f612cdf539d1424d4ed7c19ea57f4e052fbdf0f49b8180dac29c4d616f789058",
+                        "sha1": "a52677eb955bde82bec4552e0e084b5ffff6e37a"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 206511,
+                    "date_published": "2022-11-15T08:11:27.557120Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "3Oz96Ibhk7rBgs5a",
             "pakku_links": [
                 "TdVMM0gye3g6sjYW",
@@ -612,6 +684,73 @@
                     "required_dependencies": [],
                     "size": 36844,
                     "date_published": "2023-06-25T20:36:59.763028Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "c0nGBzZglyE8c5gK",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "appleskin",
+                "modrinth": "appleskin"
+            },
+            "name": {
+                "curseforge": "AppleSkin",
+                "modrinth": "AppleSkin"
+            },
+            "id": {
+                "curseforge": "248787",
+                "modrinth": "EsAfCjCV"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "appleskin-forge-mc1.19-2.4.2.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3872/808/appleskin-forge-mc1.19-2.4.2.jar",
+                    "id": "3872808",
+                    "parent_id": "248787",
+                    "hashes": {
+                        "sha1": "20f4e36e5c78bdef303683ccb96d77b2036da3ce",
+                        "md5": "3cd43c763f6e9a244a115606faaecf4f"
+                    },
+                    "required_dependencies": [],
+                    "size": 46991,
+                    "date_published": "2022-07-12T22:39:02.983Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "appleskin-forge-mc1.19-2.4.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.2/appleskin-forge-mc1.19-2.4.2.jar",
+                    "id": "YRzksfaH",
+                    "parent_id": "EsAfCjCV",
+                    "hashes": {
+                        "sha512": "c564c6772cf42b4d07141baf334a95176b66238c7b500324595e53f1a45cb0e0a181599e3b5a3b3654a7a0d229c3f3a8d88374005cfb89a56264dcc2898309be",
+                        "sha1": "20f4e36e5c78bdef303683ccb96d77b2036da3ce"
+                    },
+                    "required_dependencies": [],
+                    "size": 46991,
+                    "date_published": "2022-07-12T22:50:15.801449Z"
                 }
             ]
         },
@@ -3940,6 +4079,71 @@
             ]
         },
         {
+            "pakku_id": "kgGbelfExU0zLcq9",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "iceberg",
+                "modrinth": "iceberg"
+            },
+            "name": {
+                "curseforge": "Iceberg [Neo/Forge]",
+                "modrinth": "Iceberg"
+            },
+            "id": {
+                "curseforge": "520110",
+                "modrinth": "5faXoLqX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Iceberg-1.19.2-forge-1.1.4.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4300/529/Iceberg-1.19.2-forge-1.1.4.jar",
+                    "id": "4300529",
+                    "parent_id": "520110",
+                    "hashes": {
+                        "sha1": "d41dcb0a6397e889603b59a52a12f5d0ce7e675f",
+                        "md5": "f11f7ab27b5391e838562cb86a8908dc"
+                    },
+                    "required_dependencies": [],
+                    "size": 109565,
+                    "date_published": "2023-01-04T22:11:13.420Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Iceberg-1.19.2-forge-1.1.4.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/wog3r1ZM/Iceberg-1.19.2-forge-1.1.4.jar",
+                    "id": "wog3r1ZM",
+                    "parent_id": "5faXoLqX",
+                    "hashes": {
+                        "sha512": "5cfc45a1622e2c0ece90d76f6a95e33e50f981b4a3c3847334451192756a6d08b564793c8aa451156cb2fbe99c7254b705c921c1bdc072c4515e248952552c92",
+                        "sha1": "d41dcb0a6397e889603b59a52a12f5d0ce7e675f"
+                    },
+                    "required_dependencies": [],
+                    "size": 109565,
+                    "date_published": "2023-01-04T23:48:08.895166Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "AQRPItGFeRClXD3A",
             "type": "MOD",
             "side": "CLIENT",
@@ -5375,6 +5579,74 @@
             ]
         },
         {
+            "pakku_id": "YdQcDvRSx5sz3QJX",
+            "pakku_links": [
+                "86k4oWUrVPvoAb4g"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "overflowing-bars",
+                "modrinth": "overflowing-bars"
+            },
+            "name": {
+                "curseforge": "Overflowing Bars",
+                "modrinth": "Overflowing Bars"
+            },
+            "id": {
+                "curseforge": "852662",
+                "modrinth": "XD7XOrAF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OverflowingBars-v4.0.1-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4515/133/OverflowingBars-v4.0.1-1.19.2-Forge.jar",
+                    "id": "4515133",
+                    "parent_id": "852662",
+                    "hashes": {
+                        "sha1": "5da4ceed495cf6eb014393411f789e29e2a57d39",
+                        "md5": "752a37b8c2f5e59627f943ae5ff590b5"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 69881,
+                    "date_published": "2023-05-01T07:24:14.057Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "OverflowingBars-v4.0.1-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/H2znAbYq/OverflowingBars-v4.0.1-1.19.2-Forge.jar",
+                    "id": "H2znAbYq",
+                    "parent_id": "XD7XOrAF",
+                    "hashes": {
+                        "sha512": "8f7aa4ba9515b5de9c059175baaf10c89cd84709e1cb8373381df690b4c57ca75f755ca86e523840ef6b3e95712e9fb46cdea0f3e0eaaabd1eda0133d9c24b23",
+                        "sha1": "5da4ceed495cf6eb014393411f789e29e2a57d39"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 69881,
+                    "date_published": "2023-05-01T07:24:19.672070Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "noEfSUwFVINchXhW",
             "type": "MOD",
             "side": "BOTH",
@@ -6224,6 +6496,67 @@
                     ],
                     "size": 453543,
                     "date_published": "2025-01-26T19:40:49.110Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "86k4oWUrVPvoAb4g",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "puzzles-lib",
+                "modrinth": "puzzles-lib"
+            },
+            "name": {
+                "curseforge": "Puzzles Lib",
+                "modrinth": "Puzzles Lib"
+            },
+            "id": {
+                "curseforge": "495476",
+                "modrinth": "QAGBst4M"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4600/775/PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+                    "id": "4600775",
+                    "parent_id": "495476",
+                    "hashes": {
+                        "sha1": "ad531f214a2def16ff670cc94c0ea2ab40773b09",
+                        "md5": "ada0a5030dfcecdfd37f18cc9deca7c6"
+                    },
+                    "required_dependencies": [],
+                    "size": 395272,
+                    "date_published": "2023-06-21T12:00:42.830Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/UbCrBSit/PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+                    "id": "UbCrBSit",
+                    "parent_id": "QAGBst4M",
+                    "hashes": {
+                        "sha512": "a17fae22581d7a2c6947ba6fc58b38f34197e22aec430dbaa6eee7104cf891b9e9abbea5a322c04b1f3f1df04fa7462f603ca5c2d7ad3657198cc3989fda7bd2",
+                        "sha1": "ad531f214a2def16ff670cc94c0ea2ab40773b09"
+                    },
+                    "required_dependencies": [],
+                    "size": 395272,
+                    "date_published": "2023-06-21T12:00:47.576724Z"
                 }
             ]
         },
@@ -7289,6 +7622,51 @@
             ]
         },
         {
+            "pakku_id": "gh8BFnqw7updxrR2",
+            "pakku_links": [
+                "4wnkUw702Zpfj8dZ"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "toast-control",
+                "modrinth": "toast-control"
+            },
+            "name": {
+                "curseforge": "Toast Control",
+                "modrinth": "Toast Control"
+            },
+            "id": {
+                "curseforge": "271740",
+                "modrinth": "CnOG2wlS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ToastControl-1.19.2-7.0.0.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4028/343/ToastControl-1.19.2-7.0.0.jar",
+                    "id": "4028343",
+                    "parent_id": "271740",
+                    "hashes": {
+                        "sha1": "69cee2db429ceaaaa66f38505ef9b41e3c357541",
+                        "md5": "bd7091d48d6f68d1d61b9c9446ab1e8b"
+                    },
+                    "required_dependencies": [
+                        "283644"
+                    ],
+                    "size": 25747,
+                    "date_published": "2022-10-14T08:39:02.747Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wglu08nxfLO3a0Ly",
             "type": "MOD",
             "side": "SERVER",
@@ -7350,6 +7728,74 @@
                     "required_dependencies": [],
                     "size": 2822026,
                     "date_published": "2022-11-14T20:26:12.840Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uatppxgTvn9TLYdL",
+            "pakku_links": [
+                "ujt44f25IY1Zb90f"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "travelers-titles",
+                "modrinth": "travelers-titles"
+            },
+            "name": {
+                "curseforge": "Traveler's Titles (Forge/NeoForge)",
+                "modrinth": "Traveler's Titles"
+            },
+            "id": {
+                "curseforge": "504908",
+                "modrinth": "JtifUr64"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "TravelersTitles-1.19.2-Forge-3.1.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4034/656/TravelersTitles-1.19.2-Forge-3.1.2.jar",
+                    "id": "4034656",
+                    "parent_id": "504908",
+                    "hashes": {
+                        "sha1": "c31d85ddd4b3bebafff0d47862f913d06248c509",
+                        "md5": "04103abe29cc77972dcb23bc5d75f0a5"
+                    },
+                    "required_dependencies": [
+                        "421850"
+                    ],
+                    "size": 219061,
+                    "date_published": "2022-10-19T18:20:51.340Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "TravelersTitles-1.19.2-Forge-3.1.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JtifUr64/versions/nIfqKsvT/TravelersTitles-1.19.2-Forge-3.1.2.jar",
+                    "id": "nIfqKsvT",
+                    "parent_id": "JtifUr64",
+                    "hashes": {
+                        "sha512": "e466d863dcbf946e5065da827de7fc9ba3632967adbd28045c8f4049a79a089b37f7a9b0f025ab5ece35eaca1b72e79839bc9b7da8ed92c1e4b3560b8640d8b5",
+                        "sha1": "c31d85ddd4b3bebafff0d47862f913d06248c509"
+                    },
+                    "required_dependencies": [
+                        "Ua7DFN59"
+                    ],
+                    "size": 219061,
+                    "date_published": "2022-11-28T23:54:36.442099Z"
                 }
             ]
         },
@@ -7630,6 +8076,132 @@
                     ],
                     "size": 409113,
                     "date_published": "2023-12-09T15:35:54.878106Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nAvsdC9gtrtSNEqb",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "xaeros-minimap",
+                "modrinth": "xaeros-minimap"
+            },
+            "name": {
+                "curseforge": "Xaero's Minimap",
+                "modrinth": "Xaero's Minimap"
+            },
+            "id": {
+                "curseforge": "263420",
+                "modrinth": "1bokaNcj"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xaerominimap-forge-1.19.2-26.1.0.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8231/194/xaerominimap-forge-1.19.2-26.1.0.jar",
+                    "id": "8231194",
+                    "parent_id": "263420",
+                    "hashes": {
+                        "sha1": "c5ca28382b87b5a3049e89b79b4ab8d3a632b68e",
+                        "md5": "a54966d26780bfcc869f24a93b23e126"
+                    },
+                    "required_dependencies": [],
+                    "size": 2124981,
+                    "date_published": "2026-06-11T11:12:57.903Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "xaerominimap-forge-1.19.2-26.1.0.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/t0qPvgpA/xaerominimap-forge-1.19.2-26.1.0.jar",
+                    "id": "t0qPvgpA",
+                    "parent_id": "1bokaNcj",
+                    "hashes": {
+                        "sha512": "4e3d3695edbbe22466c1a4749c4994ebda5dcb7adc25ab8fa09dcce30d19f04c562f8f865cf87052504aee7f55a89bb88cfe53a943b07a25966744fd8632a443",
+                        "sha1": "c5ca28382b87b5a3049e89b79b4ab8d3a632b68e"
+                    },
+                    "required_dependencies": [],
+                    "size": 2124981,
+                    "date_published": "2026-06-11T11:32:50.653626Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "pQnCmIQY1fBZVuUH",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "xaeros-world-map",
+                "modrinth": "xaeros-world-map"
+            },
+            "name": {
+                "curseforge": "Xaero's World Map",
+                "modrinth": "Xaero's World Map"
+            },
+            "id": {
+                "curseforge": "317780",
+                "modrinth": "NcUtCpym"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.0.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8231/8/xaeroworldmap-forge-1.19.2-1.41.0.jar",
+                    "id": "8231008",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "fe11a4298e01ef6029081288f6e4173153f90155",
+                        "md5": "611b48dbbb0063d4433fd72bc592499a"
+                    },
+                    "required_dependencies": [],
+                    "size": 1368746,
+                    "date_published": "2026-06-11T10:37:00.620Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.0.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gvbdvHnu/xaeroworldmap-forge-1.19.2-1.41.0.jar",
+                    "id": "gvbdvHnu",
+                    "parent_id": "NcUtCpym",
+                    "hashes": {
+                        "sha512": "d3755cae13921697f72b299637e9f99b86decd4ca1b8c7c2181c9050fe1fbb9154b59aaf639ab05359b8561961b64e35b27261c584f2d23b701ea21d9333f306",
+                        "sha1": "fe11a4298e01ef6029081288f6e4173153f90155"
+                    },
+                    "required_dependencies": [],
+                    "size": 1368746,
+                    "date_published": "2026-06-11T11:49:17.440672Z"
                 }
             ]
         },

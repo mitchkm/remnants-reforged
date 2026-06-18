@@ -44,6 +44,9 @@ config/jei/world/*
 config/NoChatReports/[rR][eE][aA][dD][mM][eE].md
 config/NoChatReports/NCR-ServerWhitelist.json
 
+## Xaero's minimap/world map
+config/xaeropatreon.txt
+
 # Pakku
 !.pakku/
 !pakku.json
