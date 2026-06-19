@@ -1264,6 +1264,67 @@
             ]
         },
         {
+            "pakku_id": "4QStwdGe2H3fVLlo",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "better-advancements",
+                "modrinth": "better-advancements"
+            },
+            "name": {
+                "curseforge": "Better Advancements",
+                "modrinth": "Better Advancements"
+            },
+            "id": {
+                "curseforge": "272515",
+                "modrinth": "Q2OqKxDG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterAdvancements-1.19.2-0.3.0.148.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4276/529/BetterAdvancements-1.19.2-0.3.0.148.jar",
+                    "id": "4276529",
+                    "parent_id": "272515",
+                    "hashes": {
+                        "sha1": "0612af535b9a66316987bb0f1f851be94816eca0",
+                        "md5": "ca838d5324c38503df6250924cfdb380"
+                    },
+                    "required_dependencies": [],
+                    "size": 73255,
+                    "date_published": "2022-12-28T16:09:24.940Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BetterAdvancements-1.19.2-0.3.0.148.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/Zmn6s0Hf/BetterAdvancements-1.19.2-0.3.0.148.jar",
+                    "id": "Zmn6s0Hf",
+                    "parent_id": "Q2OqKxDG",
+                    "hashes": {
+                        "sha512": "978ad6041d935615a25a25e71fcdcd267293e0914faef62fc6dd91ebd028ff14eb56aeaf9d03f95d7f2d53d291281c1bf185291cb7ef82de542bcd4996934fe2",
+                        "sha1": "0612af535b9a66316987bb0f1f851be94816eca0"
+                    },
+                    "required_dependencies": [],
+                    "size": 73255,
+                    "date_published": "2023-07-16T18:16:42.162544Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "yEpnxt9UF0yycz3k",
             "pakku_links": [
                 "6xvYhuKiH4QViSeF"
@@ -2220,6 +2281,71 @@
             ]
         },
         {
+            "pakku_id": "4Dfps5Dnng32jeaF",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "collective",
+                "modrinth": "collective"
+            },
+            "name": {
+                "curseforge": "Collective",
+                "modrinth": "Collective"
+            },
+            "id": {
+                "curseforge": "342584",
+                "modrinth": "e0M1UDsY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "collective-1.19.2-7.64.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5460/518/collective-1.19.2-7.64.jar",
+                    "id": "5460518",
+                    "parent_id": "342584",
+                    "hashes": {
+                        "sha1": "3973b06887af84262f33a9e3b6927f61d4c918ff",
+                        "md5": "891ac069984a1d0d957dc63898f6654b"
+                    },
+                    "required_dependencies": [],
+                    "size": 618144,
+                    "date_published": "2024-06-22T22:52:01.113Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "collective-1.19.2-7.64.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/RKCtWE4y/collective-1.19.2-7.64.jar",
+                    "id": "RKCtWE4y",
+                    "parent_id": "e0M1UDsY",
+                    "hashes": {
+                        "sha512": "b4ec218f374f660c4c19a91d8fd798aebe50c396296459c5ed080a4c74e4dad44440ed57be1c3bc03ed610fce4560f0062026798e6e40815f776d92c9c99ba31",
+                        "sha1": "3973b06887af84262f33a9e3b6927f61d4c918ff"
+                    },
+                    "required_dependencies": [],
+                    "size": 618144,
+                    "date_published": "2024-06-22T22:52:13.928892Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "jeDvJUYbIsJFLumn",
             "type": "MOD",
             "side": "BOTH",
@@ -2539,6 +2665,76 @@
                     ],
                     "size": 43647,
                     "date_published": "2023-02-17T15:48:59.382881Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bx3lbsJFNlb9sU9c",
+            "pakku_links": [
+                "Jjf5NGGFo73hZ1K1"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "crafting-tweaks",
+                "modrinth": "crafting-tweaks"
+            },
+            "name": {
+                "curseforge": "Crafting Tweaks",
+                "modrinth": "Crafting Tweaks"
+            },
+            "id": {
+                "curseforge": "233071",
+                "modrinth": "DMu0oBKf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "craftingtweaks-forge-1.19.2-15.1.9.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4939/198/craftingtweaks-forge-1.19.2-15.1.9.jar",
+                    "id": "4939198",
+                    "parent_id": "233071",
+                    "hashes": {
+                        "sha1": "34fb82b1a5a9e10d364bff57041e5e50f3b3d5b7",
+                        "md5": "033279f85c73db759d7945193e9101dc"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 182830,
+                    "date_published": "2023-12-08T10:31:20.307Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "craftingtweaks-forge-1.19.2-15.1.9.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/c6e4xjFu/craftingtweaks-forge-1.19.2-15.1.9.jar",
+                    "id": "c6e4xjFu",
+                    "parent_id": "DMu0oBKf",
+                    "hashes": {
+                        "sha512": "b76af43f3c112049d7e7da76d1b251c9b00d9a590a9cdea527409a89e98d9716e90d96dab6c2aad0a5384c1527f735ea4fc53afa284e938323f74017d7f5f178",
+                        "sha1": "aa37b290cd5ce6e2b35cb041f8cbdc2f84863ddb"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 182830,
+                    "date_published": "2023-12-08T10:33:23.242995Z"
                 }
             ]
         },
@@ -4989,6 +5185,78 @@
             ]
         },
         {
+            "pakku_id": "E58nedbaa8yRTYWo",
+            "pakku_links": [
+                "Jjf5NGGFo73hZ1K1"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "inventory-essentials",
+                "modrinth": "inventory-essentials"
+            },
+            "name": {
+                "curseforge": "Inventory Essentials",
+                "modrinth": "Inventory Essentials"
+            },
+            "id": {
+                "curseforge": "368825",
+                "modrinth": "Boon8xwi"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "inventoryessentials-forge-1.19.2-5.4.0.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4751/198/inventoryessentials-forge-1.19.2-5.4.0.jar",
+                    "id": "4751198",
+                    "parent_id": "368825",
+                    "hashes": {
+                        "sha1": "f7fb23bede71b223a1863580d458711d9fa7c72c",
+                        "md5": "e8d9127e767146ed94140f714cf28bf5"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 133410,
+                    "date_published": "2023-09-13T21:18:39.313Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "inventoryessentials-forge-1.19.2-5.4.0.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Boon8xwi/versions/cRTkO1l6/inventoryessentials-forge-1.19.2-5.4.0.jar",
+                    "id": "cRTkO1l6",
+                    "parent_id": "Boon8xwi",
+                    "hashes": {
+                        "sha512": "edb2ca1173c7b687215d87d5afef1bdd6380a19605afda6cf684720cd2b8617adf6604e11c69342af0134fa7e09d950102c38843ce08903e1a333b724da4f4f1",
+                        "sha1": "1907f42d34dbf774a74d5d03be5552df68f744cb"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 133410,
+                    "date_published": "2023-09-13T21:18:39.135548Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ya8SdyMYGLNQmmUg",
             "type": "MOD",
             "side": "BOTH",
@@ -6132,6 +6400,71 @@
                     "required_dependencies": [],
                     "size": 836351,
                     "date_published": "2024-07-26T06:34:18.667Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "pQUROff6d7l4oQCc",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mouse-tweaks",
+                "modrinth": "mouse-tweaks"
+            },
+            "name": {
+                "curseforge": "Mouse Tweaks",
+                "modrinth": "Mouse Tweaks"
+            },
+            "id": {
+                "curseforge": "60089",
+                "modrinth": "aC3cM3Vq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MouseTweaks-forge-mc1.19-2.23.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar",
+                    "id": "3871353",
+                    "parent_id": "60089",
+                    "hashes": {
+                        "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4",
+                        "md5": "855222f31f7a2ebfe84cd57480b9e011"
+                    },
+                    "required_dependencies": [],
+                    "size": 75983,
+                    "date_published": "2022-07-12T02:55:21.113Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MouseTweaks-forge-mc1.19-2.23.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.19-2.23-forge/MouseTweaks-forge-mc1.19-2.23.jar",
+                    "id": "Un7oJEL8",
+                    "parent_id": "aC3cM3Vq",
+                    "hashes": {
+                        "sha512": "ba7c37155f252ee10176d2209cd168a80dd9cecb999e815096f381ff8662bfd3c903c06619bb836c2ed5d1771f7de7bf3be0d7cf4d0ea1de989a92517a4b7b93",
+                        "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4"
+                    },
+                    "required_dependencies": [],
+                    "size": 75983,
+                    "date_published": "2022-07-12T02:57:28.725513Z"
                 }
             ]
         },
@@ -8325,6 +8658,78 @@
                     "required_dependencies": [],
                     "size": 659911,
                     "date_published": "2024-01-24T17:40:44.023Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hAC6thI2rEaWAjhs",
+            "pakku_links": [
+                "4Dfps5Dnng32jeaF"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "stack-refill",
+                "modrinth": "stack-refill"
+            },
+            "name": {
+                "curseforge": "Stack Refill",
+                "modrinth": "Stack Refill"
+            },
+            "id": {
+                "curseforge": "411813",
+                "modrinth": "mQWkB9ON"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "stackrefill-1.19.2-4.4.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5362/496/stackrefill-1.19.2-4.4.jar",
+                    "id": "5362496",
+                    "parent_id": "411813",
+                    "hashes": {
+                        "sha1": "270854f6e4125ba7887213b8ea5565cec755cd80",
+                        "md5": "178e4c02113307ada90aca0419addc4f"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 34761,
+                    "date_published": "2024-05-21T21:14:28.043Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "stackrefill-1.19.2-4.4.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mQWkB9ON/versions/MDA9IAE3/stackrefill-1.19.2-4.4.jar",
+                    "id": "MDA9IAE3",
+                    "parent_id": "mQWkB9ON",
+                    "hashes": {
+                        "sha512": "8d9ff558fcee15ea707e9cf3b01e6d0580ba2b880b507877a2484d883a588f6f9952c120a77f977e69e8e2b4c3fb571ab76c192e00b65de6937d681999b91ec6",
+                        "sha1": "270854f6e4125ba7887213b8ea5565cec755cd80"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 34761,
+                    "date_published": "2024-05-21T21:14:40.454348Z"
                 }
             ]
         },

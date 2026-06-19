@@ -15,6 +15,7 @@ filters=(
     "cb-multipart"
     "cloth-config"
     "codechicken-lib"
+    "collective"
     "framework"
     "geckolib"
     "iceberg"

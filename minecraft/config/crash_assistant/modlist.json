@@ -181,6 +181,14 @@
     "curseForgeHash": 3144690841,
     "modrinthHash": "6852096f62899f58951a105426385f7ec89b0391"
   },
+  "BetterAdvancements-1.19.2-0.3.0.148.jar": {
+    "jarName": "BetterAdvancements-1.19.2-0.3.0.148.jar",
+    "modId": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.3.0.148",
+    "curseForgeHash": 1272731465,
+    "modrinthHash": "0612af535b9a66316987bb0f1f851be94816eca0"
+  },
   "BetterF3-4.0.1-Forge-1.19.2.jar": {
     "jarName": "BetterF3-4.0.1-Forge-1.19.2.jar",
     "modId": "betterf3",
@@ -325,6 +333,14 @@
     "curseForgeHash": 3141074100,
     "modrinthHash": "684294eeb2a11a89482fc8742e82c9fbac7a2257"
   },
+  "collective-1.19.2-7.64.jar": {
+    "jarName": "collective-1.19.2-7.64.jar",
+    "modId": "collective",
+    "name": "Collective",
+    "version": "7.64",
+    "curseForgeHash": 1407452489,
+    "modrinthHash": "3973b06887af84262f33a9e3b6927f61d4c918ff"
+  },
   "comforts-forge-6.0.7+1.19.2.jar": {
     "jarName": "comforts-forge-6.0.7+1.19.2.jar",
     "modId": "comforts",
@@ -364,6 +380,14 @@
     "version": "12_forge-1.19.2",
     "curseForgeHash": 304954135,
     "modrinthHash": "01319e80e2c29f95a77ef382fbafd1d37536c7c7"
+  },
+  "craftingtweaks-forge-1.19.2-15.1.9.jar": {
+    "jarName": "craftingtweaks-forge-1.19.2-15.1.9.jar",
+    "modId": "craftingtweaks",
+    "name": "CraftingTweaks",
+    "version": "15.1.9",
+    "curseForgeHash": 1162348891,
+    "modrinthHash": "aa37b290cd5ce6e2b35cb041f8cbdc2f84863ddb"
   },
   "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar": {
     "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
@@ -693,6 +717,22 @@
     "curseForgeHash": 3192694056,
     "modrinthHash": "dc98d35f181ab6d574666310e9bd6687b3f84bf5"
   },
+  "inventoryessentials-forge-1.19.2-5.4.0.jar": {
+    "jarName": "inventoryessentials-forge-1.19.2-5.4.0.jar",
+    "modId": "inventoryessentials",
+    "name": "Inventory Essentials",
+    "version": "5.4.0",
+    "curseForgeHash": 4127994609,
+    "modrinthHash": "f7fb23bede71b223a1863580d458711d9fa7c72c"
+  },
+  "inventorysorter-1.19.2-21.0.4.jar": {
+    "jarName": "inventorysorter-1.19.2-21.0.4.jar",
+    "modId": "inventorysorter",
+    "name": "Simple Inventory Sorter",
+    "version": "21.0.4",
+    "curseForgeHash": 3179847912,
+    "modrinthHash": "ddac4a5e079539a49963ff220ad5be49876f61fa"
+  },
   "Jade-1.19.1-forge-8.9.2.jar": {
     "jarName": "Jade-1.19.1-forge-8.9.2.jar",
     "modId": "jade",
@@ -844,6 +884,14 @@
     "version": "1.19.2-2.3.7",
     "curseForgeHash": 3927285687,
     "modrinthHash": "088769d428106abf7c9de9bb8729b291cfa35392"
+  },
+  "MouseTweaks-forge-mc1.19-2.23.jar": {
+    "jarName": "MouseTweaks-forge-mc1.19-2.23.jar",
+    "modId": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.23",
+    "curseForgeHash": 2506249165,
+    "modrinthHash": "9d6e76a331c0598edb6293dc658af2d1672864b4"
   },
   "mutil-1.19.2-5.2.0.jar": {
     "jarName": "mutil-1.19.2-5.2.0.jar",
@@ -1145,6 +1193,14 @@
     "version": "2.2.7",
     "curseForgeHash": 988609856,
     "modrinthHash": "7870766bd04ab6c488b42e320297ebb5d8e9da12"
+  },
+  "stackrefill-1.19.2-4.4.jar": {
+    "jarName": "stackrefill-1.19.2-4.4.jar",
+    "modId": "stackrefill",
+    "name": "Stack Refill",
+    "version": "4.4",
+    "curseForgeHash": 3740476781,
+    "modrinthHash": "270854f6e4125ba7887213b8ea5565cec755cd80"
   },
   "stevescarts-1.19.2-1.1.3.jar": {
     "jarName": "stevescarts-1.19.2-1.1.3.jar",
