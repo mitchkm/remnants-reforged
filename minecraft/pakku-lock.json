@@ -144,6 +144,69 @@
             ]
         },
         {
+            "pakku_id": "SaKmOJvcLb9zhJj8",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "addonslib",
+                "modrinth": "addonslib"
+            },
+            "name": {
+                "curseforge": "AddonsLib",
+                "modrinth": "AddonsLib"
+            },
+            "id": {
+                "curseforge": "1090999",
+                "modrinth": "cl5ec0Qm"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "addonslib-1.19-1.8.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7401/671/addonslib-1.19-1.8.jar",
+                    "id": "7401671",
+                    "parent_id": "1090999",
+                    "hashes": {
+                        "sha1": "3bfc82eab550a55e75a1aa4c4246d1191e337a99",
+                        "md5": "44a90a9456e02ab1da571214fe543d28"
+                    },
+                    "required_dependencies": [],
+                    "size": 115467,
+                    "date_published": "2025-12-31T19:21:45.550Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "addonslib-1.19-1.8.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dGsh8WGN/addonslib-1.19-1.8.jar",
+                    "id": "dGsh8WGN",
+                    "parent_id": "cl5ec0Qm",
+                    "hashes": {
+                        "sha512": "d8aea8f8d518ab2221682b3690aa618696669382e57831eb561ac0b6e7d341172ef90df9ad4c629bc031ff4e26bf197a14f3a1ff5205c6b7341386f3f97f29ed",
+                        "sha1": "3bfc82eab550a55e75a1aa4c4246d1191e337a99"
+                    },
+                    "required_dependencies": [],
+                    "size": 115467,
+                    "date_published": "2026-01-01T02:43:02.673770Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "RM9PpD3Rvj5ZUuCe",
             "pakku_links": [
                 "ncY4dG6HiPBTOqlB"
@@ -1666,6 +1729,48 @@
             ]
         },
         {
+            "pakku_id": "EoIUJKjLFyDjjEqt",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "chimes",
+                "modrinth": "chimes"
+            },
+            "name": {
+                "curseforge": "Chimes",
+                "modrinth": "Chimes"
+            },
+            "id": {
+                "curseforge": "350464",
+                "modrinth": "mjGOuygR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Chimes-v2.0.1-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4671/793/Chimes-v2.0.1-1.19.2.jar",
+                    "id": "4671793",
+                    "parent_id": "350464",
+                    "hashes": {
+                        "sha1": "6e69de1a9e0c20a8c4d26608b4523f06647bd21e",
+                        "md5": "4dbfa2ae54ea3872b8349d98251c2575"
+                    },
+                    "required_dependencies": [],
+                    "size": 12083121,
+                    "date_published": "2023-07-29T23:51:22.030Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "NKrIOcYGW06Mfj8z",
             "pakku_links": [
                 "PLFENFSZUxNZuqeE"
@@ -2776,6 +2881,139 @@
                     ],
                     "size": 952298,
                     "date_published": "2025-01-20T23:11:43.669543Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dfQTydGaVI84kJgb",
+            "pakku_links": [
+                "86k4oWUrVPvoAb4g"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "diagonal-fences",
+                "modrinth": "diagonal-fences"
+            },
+            "name": {
+                "curseforge": "Diagonal Fences",
+                "modrinth": "Diagonal Fences"
+            },
+            "id": {
+                "curseforge": "458048",
+                "modrinth": "IKARgflD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DiagonalFences-v4.2.6-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4658/720/DiagonalFences-v4.2.6-1.19.2-Forge.jar",
+                    "id": "4658720",
+                    "parent_id": "458048",
+                    "hashes": {
+                        "sha1": "b68f9dc270dda188bd0eb48c29b58b6e0a843a46",
+                        "md5": "fc5822a25da5e4305bf17b659f0bcfef"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 109348,
+                    "date_published": "2023-07-22T18:40:26.017Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DiagonalFences-v4.2.6-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IKARgflD/versions/KbmgjzHt/DiagonalFences-v4.2.6-1.19.2-Forge.jar",
+                    "id": "KbmgjzHt",
+                    "parent_id": "IKARgflD",
+                    "hashes": {
+                        "sha512": "903e13e97a357df4d1761a7fa7965cae0283f26001e662d6fd5bfcfac3fd90c423439dd10a9fbbfbb3412ed4a108f1e6004525ee07a9b55786d00962ddcfc21c",
+                        "sha1": "b68f9dc270dda188bd0eb48c29b58b6e0a843a46"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 109348,
+                    "date_published": "2023-07-22T18:40:30.978270Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aVsrXhOeH6h1cCZH",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dramatic-doors",
+                "modrinth": "dramatic-doors"
+            },
+            "name": {
+                "curseforge": "Dramatic Doors",
+                "modrinth": "Dramatic Doors"
+            },
+            "id": {
+                "curseforge": "380617",
+                "modrinth": "aQ7h7gal"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5688/563/DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar",
+                    "id": "5688563",
+                    "parent_id": "380617",
+                    "hashes": {
+                        "sha1": "0a81eaa911bd588dd5447cab08bc3ad34fcc5daf",
+                        "md5": "796f613df040f09577a548a0dbc38fbc"
+                    },
+                    "required_dependencies": [],
+                    "size": 12333771,
+                    "date_published": "2024-09-03T05:52:09.233Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aQ7h7gal/versions/vcv0tlY4/DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar",
+                    "id": "vcv0tlY4",
+                    "parent_id": "aQ7h7gal",
+                    "hashes": {
+                        "sha512": "e751646d9a637d05281f327009c8529e7ade1c7d250bc196c6ab2288be9da6ebb563af4c508cd70d283fdb01c12fd3779c0b689198068a05a22f72671dbc5884",
+                        "sha1": "0a81eaa911bd588dd5447cab08bc3ad34fcc5daf"
+                    },
+                    "required_dependencies": [],
+                    "size": 12333771,
+                    "date_published": "2024-09-03T16:29:12.178720Z"
                 }
             ]
         },
@@ -4981,6 +5219,146 @@
             ]
         },
         {
+            "pakku_id": "4asF9kH6t53nC4dt",
+            "pakku_links": [
+                "6ZvGne6eshJBoVFK",
+                "SaKmOJvcLb9zhJj8",
+                "kcDps7BJyOP2HhLF"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "macaws-biomes-o-plenty",
+                "modrinth": "macaws-biomes-o-plenty"
+            },
+            "name": {
+                "curseforge": "Macaw's Biomes O' Plenty",
+                "modrinth": "Macaw's Biomes O' Plenty"
+            },
+            "id": {
+                "curseforge": "533382",
+                "modrinth": "Tanquv9C"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mcwbiomesoplenty-1.19-1.5.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7324/163/mcwbiomesoplenty-1.19-1.5.jar",
+                    "id": "7324163",
+                    "parent_id": "533382",
+                    "hashes": {
+                        "sha1": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0",
+                        "md5": "2851986927be63b8f48f03983d191555"
+                    },
+                    "required_dependencies": [
+                        "940057",
+                        "563928",
+                        "1090999",
+                        "220318",
+                        "565956",
+                        "955399"
+                    ],
+                    "size": 6150465,
+                    "date_published": "2025-12-12T12:33:11.443Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mcwbiomesoplenty-1.19-1.5.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Tanquv9C/versions/nXGczTAZ/mcwbiomesoplenty-1.19-1.5.jar",
+                    "id": "nXGczTAZ",
+                    "parent_id": "Tanquv9C",
+                    "hashes": {
+                        "sha512": "f8afe2f4c13a28be169799bfe4b219c099860735f112de5df5f919243c628c57919cef0b005993150ce5a66b790cc0a9bfd5a6952a79719bd9516cc33b53874a",
+                        "sha1": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0"
+                    },
+                    "required_dependencies": [
+                        "HXF82T3G",
+                        "cl5ec0Qm",
+                        "kkmrDlKT"
+                    ],
+                    "size": 6150465,
+                    "date_published": "2025-12-12T12:36:12.739495Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9i0sblt4pIJoedgu",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "macaws-bridges",
+                "modrinth": "macaws-bridges"
+            },
+            "name": {
+                "curseforge": "Macaw's Bridges",
+                "modrinth": "Macaw's Bridges"
+            },
+            "id": {
+                "curseforge": "351725",
+                "modrinth": "GURcjz8O"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mcw-bridges-3.1.2-mc1.19.2forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7627/949/mcw-bridges-3.1.2-mc1.19.2forge.jar",
+                    "id": "7627949",
+                    "parent_id": "351725",
+                    "hashes": {
+                        "sha1": "9b5c0aec909977a83c528eeeb0fd69bca8262bdf",
+                        "md5": "cd40bbb722f13f4cdb603aa07988c9f2"
+                    },
+                    "required_dependencies": [],
+                    "size": 667626,
+                    "date_published": "2026-02-15T10:48:39.217Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mcw-bridges-3.1.2-mc1.19.2forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/YHruX2gA/mcw-bridges-3.1.2-mc1.19.2forge.jar",
+                    "id": "YHruX2gA",
+                    "parent_id": "GURcjz8O",
+                    "hashes": {
+                        "sha512": "b35610095120cc9113dd6ab11d850fbb9fa3ad5e2197dd5058d01d17afc78646b7d228fcbb8e497984f5a2dc812f46c822ad8be114fb34d4745aaa4a0a2823ba",
+                        "sha1": "9b5c0aec909977a83c528eeeb0fd69bca8262bdf"
+                    },
+                    "required_dependencies": [],
+                    "size": 667626,
+                    "date_published": "2026-02-15T11:44:58.172194Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "X32F7JD7P5L86h26",
             "type": "MOD",
             "side": "BOTH",
@@ -5336,6 +5714,71 @@
                     ],
                     "size": 1392463,
                     "date_published": "2024-08-31T03:59:36.720Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oQUdnbg2pHiKTpqS",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "nekos-enchanted-books",
+                "modrinth": "nekos-enchanted-books"
+            },
+            "name": {
+                "curseforge": "Neko's Enchanted Books",
+                "modrinth": "Neko's Enchanted Books"
+            },
+            "id": {
+                "curseforge": "441114",
+                "modrinth": "VZWuyRVr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NekosEnchantedBooks-1.19-2.0.3.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6180/640/NekosEnchantedBooks-1.19-2.0.3.jar",
+                    "id": "6180640",
+                    "parent_id": "441114",
+                    "hashes": {
+                        "sha1": "67ccf8b5daf2671fecec35660ca42685a5aee769",
+                        "md5": "e0b2ba24f6c7489951e3bd3d1b17b481"
+                    },
+                    "required_dependencies": [],
+                    "size": 418757,
+                    "date_published": "2025-02-11T03:51:56.453Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "NekosEnchantedBooks-1.19-2.0.3.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/VZWuyRVr/versions/G0oQtyG8/NekosEnchantedBooks-1.19-2.0.3.jar",
+                    "id": "G0oQtyG8",
+                    "parent_id": "VZWuyRVr",
+                    "hashes": {
+                        "sha512": "6c048ec7aa885b0532cb0c6467bf52ed1855ac30e7d9b01362ebbaccac5373bfaf1edc29d31c67de0c23eb142dae57ce1bc7673e313a6dd737ae86fe00682b8e",
+                        "sha1": "67ccf8b5daf2671fecec35660ca42685a5aee769"
+                    },
+                    "required_dependencies": [],
+                    "size": 418757,
+                    "date_published": "2025-02-11T04:03:53.431079Z"
                 }
             ]
         },
@@ -5912,6 +6355,67 @@
                     "required_dependencies": [],
                     "size": 249350,
                     "date_published": "2025-03-07T09:16:19.357Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Z3hDmvtDE2hRsB29",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "plushie-mod",
+                "modrinth": "plushie"
+            },
+            "name": {
+                "curseforge": "Plushie Mod",
+                "modrinth": "Plushie Mod"
+            },
+            "id": {
+                "curseforge": "544197",
+                "modrinth": "hsOK0gUP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "plushies-1.2-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4095/395/plushies-1.2-1.19.2.jar",
+                    "id": "4095395",
+                    "parent_id": "544197",
+                    "hashes": {
+                        "sha1": "422122ffbb2e01e132be870e65b1d0190f7ef9d0",
+                        "md5": "36ad9801192dbc158c03cd33d2c5d1f3"
+                    },
+                    "required_dependencies": [],
+                    "size": 163957,
+                    "date_published": "2022-11-18T18:44:37.290Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "plushies-1.2-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hsOK0gUP/versions/HrC0DCLg/plushies-1.2-1.19.2.jar",
+                    "id": "HrC0DCLg",
+                    "parent_id": "hsOK0gUP",
+                    "hashes": {
+                        "sha512": "02b0a2fce2a0f1579b7f92cd0a8b2574325c87de9b9609a0965938a4a895159706c9fd0a6efe42d6a16a8f7a5414216034f8572b98640d9edd8465e5c6e4058c",
+                        "sha1": "422122ffbb2e01e132be870e65b1d0190f7ef9d0"
+                    },
+                    "required_dependencies": [],
+                    "size": 163957,
+                    "date_published": "2022-11-18T18:46:35.313812Z"
                 }
             ]
         },
@@ -6915,6 +7419,67 @@
                     "required_dependencies": [],
                     "size": 1786023,
                     "date_published": "2024-06-20T12:33:12.097Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OlRs2b0d4uLMUWTB",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sooty-chimneys",
+                "modrinth": "sooty-chimneys"
+            },
+            "name": {
+                "curseforge": "Sooty Chimneys",
+                "modrinth": "Sooty Chimneys"
+            },
+            "id": {
+                "curseforge": "634005",
+                "modrinth": "b3w1XM9H"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sootychimneys-1.19.2-1.2.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5060/719/sootychimneys-1.19.2-1.2.1.jar",
+                    "id": "5060719",
+                    "parent_id": "634005",
+                    "hashes": {
+                        "sha1": "52381f0fdacfe48987f87fce5826b68bf0b3e338",
+                        "md5": "2a250a7cf76f427c18a2169d3838c3ec"
+                    },
+                    "required_dependencies": [],
+                    "size": 174605,
+                    "date_published": "2024-01-26T12:53:42.757Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sootychimneys-1.19.2-1.2.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/b3w1XM9H/versions/IdmSySlD/sootychimneys-1.19.2-1.2.1.jar",
+                    "id": "IdmSySlD",
+                    "parent_id": "b3w1XM9H",
+                    "hashes": {
+                        "sha512": "6f972f954355c419a3c863caec92ba12f90ece08872501bc8b46cc90224cf538832832eb49923991720ee9268cf62568c60bac9ab5ece23abc77793b05a261f8",
+                        "sha1": "52381f0fdacfe48987f87fce5826b68bf0b3e338"
+                    },
+                    "required_dependencies": [],
+                    "size": 174605,
+                    "date_published": "2024-01-26T12:55:14.851616Z"
                 }
             ]
         },

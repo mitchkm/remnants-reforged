@@ -6,6 +6,7 @@ filters=(
     "fps-monitor"
     "mcretector"
     # libs
+    "addonslib"
     "aeroblender"
     "architectury-api"
     "balm"

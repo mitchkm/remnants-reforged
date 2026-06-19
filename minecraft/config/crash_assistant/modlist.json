@@ -21,6 +21,14 @@
     "curseForgeHash": 2030542060,
     "modrinthHash": "f0791c95469a625f6e0a309a5be1fca43ed2c8ae"
   },
+  "addonslib-1.19-1.8.jar": {
+    "jarName": "addonslib-1.19-1.8.jar",
+    "modId": "addonslib",
+    "name": "AddonsLib",
+    "version": "1.19-1.8",
+    "curseForgeHash": 3090090521,
+    "modrinthHash": "3bfc82eab550a55e75a1aa4c4246d1191e337a99"
+  },
   "advancedsolars-2.1.2.jar": {
     "jarName": "advancedsolars-2.1.2.jar",
     "modId": "advanced_solars",
@@ -245,6 +253,14 @@
     "curseForgeHash": 870453789,
     "modrinthHash": "d5ff7d1358afc7576c7eb7e6f8b841c8e4f16168"
   },
+  "Chimes-v2.0.1-1.19.2.jar": {
+    "jarName": "Chimes-v2.0.1-1.19.2.jar",
+    "modId": "chimes",
+    "name": "Chimes",
+    "version": "2.0.1",
+    "curseForgeHash": 122187102,
+    "modrinthHash": "6e69de1a9e0c20a8c4d26608b4523f06647bd21e"
+  },
   "chococraft-1.19.2-forge-0.6.14.jar": {
     "jarName": "chococraft-1.19.2-forge-0.6.14.jar",
     "modId": "chococraft",
@@ -380,6 +396,22 @@
     "version": "3.4.1",
     "curseForgeHash": 4220579098,
     "modrinthHash": "531b4031e28fc5c72ae2584f9123f9439d633342"
+  },
+  "DiagonalFences-v4.2.6-1.19.2-Forge.jar": {
+    "jarName": "DiagonalFences-v4.2.6-1.19.2-Forge.jar",
+    "modId": "diagonalfences",
+    "name": "Diagonal Fences",
+    "version": "4.2.6",
+    "curseForgeHash": 1092878536,
+    "modrinthHash": "b68f9dc270dda188bd0eb48c29b58b6e0a843a46"
+  },
+  "DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar": {
+    "jarName": "DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar",
+    "modId": "dramaticdoors",
+    "name": "Dramatic Doors",
+    "version": "1.19.2-3.2.7",
+    "curseForgeHash": 2780062432,
+    "modrinthHash": "0a81eaa911bd588dd5447cab08bc3ad34fcc5daf"
   },
   "durabilitytooltip-1.1.6a-forge-mc1.19.jar": {
     "jarName": "durabilitytooltip-1.1.6a-forge-mc1.19.jar",
@@ -701,6 +733,22 @@
     "curseForgeHash": 3099056133,
     "modrinthHash": "5718e2c29e2be79eeb553655742ac4d123ebbd36"
   },
+  "mcw-bridges-3.1.2-mc1.19.2forge.jar": {
+    "jarName": "mcw-bridges-3.1.2-mc1.19.2forge.jar",
+    "modId": "mcwbridges",
+    "name": "Macaw\u0027s Bridges",
+    "version": "3.1.2",
+    "curseForgeHash": 2935400036,
+    "modrinthHash": "9b5c0aec909977a83c528eeeb0fd69bca8262bdf"
+  },
+  "mcwbiomesoplenty-1.19-1.5.jar": {
+    "jarName": "mcwbiomesoplenty-1.19-1.5.jar",
+    "modId": "mcwbiomesoplenty",
+    "name": "Macaw\u0027s Biomes O\u0027 Plenty",
+    "version": "1.19-1.5",
+    "curseForgeHash": 719136003,
+    "modrinthHash": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0"
+  },
   "mighty_mail-forge-1.19.2-1.1.2.jar": {
     "jarName": "mighty_mail-forge-1.19.2-1.1.2.jar",
     "modId": "mighty_mail",
@@ -748,6 +796,14 @@
     "version": "3.4.1",
     "curseForgeHash": 4216530972,
     "modrinthHash": "da67ed0cd8f6e8cfaf98d9c59ddd4669d3210099"
+  },
+  "NekosEnchantedBooks-1.19-2.0.3.jar": {
+    "jarName": "NekosEnchantedBooks-1.19-2.0.3.jar",
+    "modId": "nebs",
+    "name": "Neko\u0027s Enchanted Books",
+    "version": "2.0.3",
+    "curseForgeHash": 1507862639,
+    "modrinthHash": "67ccf8b5daf2671fecec35660ca42685a5aee769"
   },
   "nerb-1.19.2-0.3-FORGE.jar": {
     "jarName": "nerb-1.19.2-0.3-FORGE.jar",
@@ -828,6 +884,14 @@
     "version": "7.4.1",
     "curseForgeHash": 1230217372,
     "modrinthHash": "791c7a8eaf9a83b7efc21d58bd81f23b574db033"
+  },
+  "plushies-1.2-1.19.2.jar": {
+    "jarName": "plushies-1.2-1.19.2.jar",
+    "modId": "plushies",
+    "name": "Plushie Mod",
+    "version": "1.2",
+    "curseForgeHash": 1137395693,
+    "modrinthHash": "422122ffbb2e01e132be870e65b1d0190f7ef9d0"
   },
   "polylib-forge-1900.0.3-build.144.jar": {
     "jarName": "polylib-forge-1900.0.3-build.144.jar",
@@ -961,6 +1025,14 @@
     "version": "1.19.2-1.14.0",
     "curseForgeHash": 1926177548,
     "modrinthHash": "55625f32bc8e0c5b28a4420fc6bc6211bb771a8a"
+  },
+  "sootychimneys-1.19.2-1.2.1.jar": {
+    "jarName": "sootychimneys-1.19.2-1.2.1.jar",
+    "modId": "sootychimneys",
+    "name": "Sooty Chimneys",
+    "version": "1.2.1",
+    "curseForgeHash": 414357711,
+    "modrinthHash": "52381f0fdacfe48987f87fce5826b68bf0b3e338"
   },
   "sophisticatedbackpacks-1.19.2-3.20.2.1035.jar": {
     "jarName": "sophisticatedbackpacks-1.19.2-3.20.2.1035.jar",

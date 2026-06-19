@@ -140,3 +140,15 @@
 			expansion_box = true
 			advanced_beehive = true
 
+		[entries.wood_type.mcwbridges]
+			rope_bridge = true
+			rope_bridge_stair = true
+			log_bridge_stair = true
+			rail_bridge = true
+			bridge_pier = true
+			log_bridge_middle = true
+
+		[entries.wood_type.dramaticdoors]
+			short_door = true
+			tall_door = true
+
