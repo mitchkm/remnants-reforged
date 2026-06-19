@@ -253,6 +253,14 @@
     "curseForgeHash": 3744433078,
     "modrinthHash": "a28ab3f8be98224bb41f59a0a52d5cf20dda02ac"
   },
+  "caelus-forge-1.19.2-3.0.0.6.jar": {
+    "jarName": "caelus-forge-1.19.2-3.0.0.6.jar",
+    "modId": "caelus",
+    "name": "Caelus API",
+    "version": "1.19.2-3.0.0.6",
+    "curseForgeHash": 2509104207,
+    "modrinthHash": "bd9d920381a8e539c27492b3ebb77863fe3dd064"
+  },
   "CarbonConfig-1.19.2-2.0.2.jar": {
     "jarName": "CarbonConfig-1.19.2-2.0.2.jar",
     "modId": "carbonconfig",
@@ -364,6 +372,14 @@
     "version": "1.19.2-2.0.1",
     "curseForgeHash": 2647204635,
     "modrinthHash": "bbd9ac0bcd1799f4df97c195f8bc215394622aae"
+  },
+  "constructionwand-1.19.2-2.10.jar": {
+    "jarName": "constructionwand-1.19.2-2.10.jar",
+    "modId": "constructionwand",
+    "name": "Construction Wand",
+    "version": "1.19.2-2.10",
+    "curseForgeHash": 4293344041,
+    "modrinthHash": "fb8862cd690e1d2f1ef179a1fb895d8de8d8b46e"
   },
   "Controlling-forge-1.19.2-10.0+7.jar": {
     "jarName": "Controlling-forge-1.19.2-10.0+7.jar",
@@ -485,6 +501,14 @@
     "curseForgeHash": 2647093398,
     "modrinthHash": "0dc49a71eec641755a06528a130a8d73078c1267"
   },
+  "elytraslot-forge-6.1.2+1.19.2.jar": {
+    "jarName": "elytraslot-forge-6.1.2+1.19.2.jar",
+    "modId": "elytraslot",
+    "name": "Elytra Slot",
+    "version": "6.1.2+1.19.2",
+    "curseForgeHash": 2562540183,
+    "modrinthHash": "584f6a21fd2452094fe4023f909775e35be19c28"
+  },
   "embeddium-0.3.18.1+mc1.19.2.jar": {
     "jarName": "embeddium-0.3.18.1+mc1.19.2.jar",
     "modId": "embeddium",
@@ -500,6 +524,22 @@
     "version": "1.1.24+1.19.2+forge",
     "curseForgeHash": 2588136210,
     "modrinthHash": "f9204f839906f986ffb824877c33d7e2ba977085"
+  },
+  "EnchantmentDescriptions-Forge-1.19.2-13.0.20.jar": {
+    "jarName": "EnchantmentDescriptions-Forge-1.19.2-13.0.20.jar",
+    "modId": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "13.0.20",
+    "curseForgeHash": 2792631761,
+    "modrinthHash": "d2b94b8d824bb3bbb1b28a015f84926b415ad49d"
+  },
+  "EquipmentCompare-1.19.2-forge-1.3.2.jar": {
+    "jarName": "EquipmentCompare-1.19.2-forge-1.3.2.jar",
+    "modId": "equipmentcompare",
+    "name": "Equipment Compare",
+    "version": "1.3.2",
+    "curseForgeHash": 870935786,
+    "modrinthHash": "d6ba00aede79ddc716fa3e6af0c995185663f191"
   },
   "euconverter-1.19.2-1.0.5.jar": {
     "jarName": "euconverter-1.19.2-1.0.5.jar",
@@ -725,14 +765,6 @@
     "curseForgeHash": 4127994609,
     "modrinthHash": "f7fb23bede71b223a1863580d458711d9fa7c72c"
   },
-  "inventorysorter-1.19.2-21.0.4.jar": {
-    "jarName": "inventorysorter-1.19.2-21.0.4.jar",
-    "modId": "inventorysorter",
-    "name": "Simple Inventory Sorter",
-    "version": "21.0.4",
-    "curseForgeHash": 3179847912,
-    "modrinthHash": "ddac4a5e079539a49963ff220ad5be49876f61fa"
-  },
   "Jade-1.19.1-forge-8.9.2.jar": {
     "jarName": "Jade-1.19.1-forge-8.9.2.jar",
     "modId": "jade",
@@ -852,6 +884,14 @@
     "version": "1.19-1.5",
     "curseForgeHash": 719136003,
     "modrinthHash": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0"
+  },
+  "Measurements-forge-1.19.2-1.3.2.jar": {
+    "jarName": "Measurements-forge-1.19.2-1.3.2.jar",
+    "modId": "measurements",
+    "name": "Measurements",
+    "version": "1.3.2",
+    "curseForgeHash": 2543161204,
+    "modrinthHash": "4d3db9b77f6f5842a691ce6e2782f86775475331"
   },
   "mighty_mail-forge-1.19.2-1.1.2.jar": {
     "jarName": "mighty_mail-forge-1.19.2-1.1.2.jar",

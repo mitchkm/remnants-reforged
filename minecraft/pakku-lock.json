@@ -1795,6 +1795,71 @@
             ]
         },
         {
+            "pakku_id": "IUUzKg6GHKFe7jf6",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "caelus",
+                "modrinth": "caelus"
+            },
+            "name": {
+                "curseforge": "Caelus API",
+                "modrinth": "Caelus API"
+            },
+            "id": {
+                "curseforge": "308989",
+                "modrinth": "40FYwb4z"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "caelus-forge-1.19.2-3.0.0.6.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3929/284/caelus-forge-1.19.2-3.0.0.6.jar",
+                    "id": "3929284",
+                    "parent_id": "308989",
+                    "hashes": {
+                        "sha1": "bd9d920381a8e539c27492b3ebb77863fe3dd064",
+                        "md5": "918f8c78474edc74a7b489b803124492"
+                    },
+                    "required_dependencies": [],
+                    "size": 37254,
+                    "date_published": "2022-08-11T09:17:55.637Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "caelus-forge-1.19.2-3.0.0.6.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/hmlQQjAc/caelus-forge-1.19.2-3.0.0.6.jar",
+                    "id": "hmlQQjAc",
+                    "parent_id": "40FYwb4z",
+                    "hashes": {
+                        "sha512": "11141abfb145983c207499bb89a3bd3673b0888b8b7d01a43e81c97586628ae5ca3ad0d2c9558c33ef0ddd80c15ca9b091c1752487ccf7eb70f37e2cc9c836b3",
+                        "sha1": "bd9d920381a8e539c27492b3ebb77863fe3dd064"
+                    },
+                    "required_dependencies": [],
+                    "size": 37254,
+                    "date_published": "2023-02-03T04:40:47.077644Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "a9wKBpjtWNedbhhb",
             "type": "MOD",
             "side": "BOTH",
@@ -2532,6 +2597,71 @@
                     ],
                     "size": 1889566,
                     "date_published": "2022-11-25T20:17:40.390Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "swYlZ51IcfOAlkdM",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "construction-wand",
+                "modrinth": "construction-wand"
+            },
+            "name": {
+                "curseforge": "Construction Wand",
+                "modrinth": "Construction Wand"
+            },
+            "id": {
+                "curseforge": "399558",
+                "modrinth": "bV2crgLh"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "constructionwand-1.19.2-2.10.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4455/719/constructionwand-1.19.2-2.10.jar",
+                    "id": "4455719",
+                    "parent_id": "399558",
+                    "hashes": {
+                        "sha1": "fb8862cd690e1d2f1ef179a1fb895d8de8d8b46e",
+                        "md5": "c0cc17a90298505d707ebd5f49229863"
+                    },
+                    "required_dependencies": [],
+                    "size": 209396,
+                    "date_published": "2023-03-24T22:57:21.657Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "constructionwand-1.19.2-2.10.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bV2crgLh/versions/aHdfYfXB/constructionwand-1.19.2-2.10.jar",
+                    "id": "aHdfYfXB",
+                    "parent_id": "bV2crgLh",
+                    "hashes": {
+                        "sha512": "6bb66f38bb4c2d6bc530982cc692bc9f604435626c9855c3423f4ccb71fca37b1d176c946eb1d37d6194c9c812dcefed3d19990c2a044be266ef5f240efaee5b",
+                        "sha1": "fb8862cd690e1d2f1ef179a1fb895d8de8d8b46e"
+                    },
+                    "required_dependencies": [],
+                    "size": 209396,
+                    "date_published": "2023-03-24T22:45:12.266788Z"
                 }
             ]
         },
@@ -3721,6 +3851,81 @@
             ]
         },
         {
+            "pakku_id": "dwRYFdZ3Zvs5pdVV",
+            "pakku_links": [
+                "IUUzKg6GHKFe7jf6",
+                "ubIKP3OQlixp5fZy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "elytra-slot",
+                "modrinth": "elytra-slot"
+            },
+            "name": {
+                "curseforge": "Elytra Slot",
+                "modrinth": "Elytra Slot"
+            },
+            "id": {
+                "curseforge": "317716",
+                "modrinth": "mSQF1NpT"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "elytraslot-forge-6.1.2+1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5417/799/elytraslot-forge-6.1.2+1.19.2.jar",
+                    "id": "5417799",
+                    "parent_id": "317716",
+                    "hashes": {
+                        "sha1": "584f6a21fd2452094fe4023f909775e35be19c28",
+                        "md5": "46bd0686e3495f6d2541bedb3e525ccd"
+                    },
+                    "required_dependencies": [
+                        "308989",
+                        "309927"
+                    ],
+                    "size": 88019,
+                    "date_published": "2024-06-11T10:10:51.820Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "elytraslot-forge-6.1.2+1.19.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/vH9hd5hp/elytraslot-forge-6.1.2+1.19.2.jar",
+                    "id": "vH9hd5hp",
+                    "parent_id": "mSQF1NpT",
+                    "hashes": {
+                        "sha512": "42fc347ba378a054fb18793bb5cfb4af4bd94943ccd408dbdc7638dcc9bd10be7faba8d658d40da21b16ee9ed445c4dee89b8560790ce8b87ff445bff2706058",
+                        "sha1": "584f6a21fd2452094fe4023f909775e35be19c28"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH",
+                        "40FYwb4z"
+                    ],
+                    "size": 88019,
+                    "date_published": "2024-06-12T09:25:15.824671Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0ZuaWgPLEGSJDgtA",
             "type": "MOD",
             "side": "CLIENT",
@@ -3778,6 +3983,146 @@
                     "required_dependencies": [],
                     "size": 1578835,
                     "date_published": "2024-07-17T01:14:34.792581Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2qYIsWsKXbU7ZCC4",
+            "pakku_links": [
+                "sPbnD2HSXK76rANW"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "enchantment-descriptions",
+                "modrinth": "enchantment-descriptions"
+            },
+            "name": {
+                "curseforge": "Enchantment Descriptions",
+                "modrinth": "Enchantment Descriptions"
+            },
+            "id": {
+                "curseforge": "250419",
+                "modrinth": "UVtY3ZAC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EnchantmentDescriptions-Forge-1.19.2-13.0.20.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/5015/22/EnchantmentDescriptions-Forge-1.19.2-13.0.20.jar",
+                    "id": "5015022",
+                    "parent_id": "250419",
+                    "hashes": {
+                        "sha1": "d2b94b8d824bb3bbb1b28a015f84926b415ad49d",
+                        "md5": "26171f3870100d5201d1df7365a462ea"
+                    },
+                    "required_dependencies": [
+                        "228525"
+                    ],
+                    "size": 65124,
+                    "date_published": "2024-01-07T17:01:24.780Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/Gw7efrux/EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar",
+                    "id": "Gw7efrux",
+                    "parent_id": "UVtY3ZAC",
+                    "hashes": {
+                        "sha512": "73665746d41828a175f6e6bc6a422a0ffe0f10605a72b80f10841aee151ec96c16c1a7c594c3e5209abab3bdbf068368f67bf896a640de773bb147fb6dd0c3ce",
+                        "sha1": "20bf3e1c6e100e0e34d0b5f3d92512afead735ad"
+                    },
+                    "required_dependencies": [
+                        "uy4Cnpcm"
+                    ],
+                    "size": 63128,
+                    "date_published": "2023-06-07T08:22:47.043198Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9vIbALU9i77B53nX",
+            "pakku_links": [
+                "kgGbelfExU0zLcq9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "equipment-compare",
+                "modrinth": "equipment-compare"
+            },
+            "name": {
+                "curseforge": "Equipment Compare [Neo/Forge]",
+                "modrinth": "Equipment Compare"
+            },
+            "id": {
+                "curseforge": "502561",
+                "modrinth": "CYSUVOdj"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EquipmentCompare-1.19.2-forge-1.3.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4282/5/EquipmentCompare-1.19.2-forge-1.3.2.jar",
+                    "id": "4282005",
+                    "parent_id": "502561",
+                    "hashes": {
+                        "sha1": "d6ba00aede79ddc716fa3e6af0c995185663f191",
+                        "md5": "65fecd4c23a3d9afa4522e17fbe1f04d"
+                    },
+                    "required_dependencies": [
+                        "520110"
+                    ],
+                    "size": 29726,
+                    "date_published": "2022-12-30T22:07:28.903Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EquipmentCompare-1.19.1-1.3.1.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CYSUVOdj/versions/rFb9ikqH/EquipmentCompare-1.19.1-1.3.1.jar",
+                    "id": "rFb9ikqH",
+                    "parent_id": "CYSUVOdj",
+                    "hashes": {
+                        "sha512": "25d8e6256bb73457480e1abf362005a6616f274695d9d92e5b8a16c48898430b59eaf70ec244374cc05be0ede5327c77f5256b0452fe323f09e7658a6355d4e9",
+                        "sha1": "bccdabd3bbd13356de419530808e66e98459df94"
+                    },
+                    "required_dependencies": [
+                        "5faXoLqX"
+                    ],
+                    "size": 29458,
+                    "date_published": "2022-11-15T20:04:41.080225Z"
                 }
             ]
         },
@@ -6171,6 +6516,67 @@
                     "required_dependencies": [],
                     "size": 8572,
                     "date_published": "2023-06-08T21:03:47.228894Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "89oYWHKfggZ8sjpL",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "measurements",
+                "modrinth": "measurements"
+            },
+            "name": {
+                "curseforge": "Measurements",
+                "modrinth": "Measurements"
+            },
+            "id": {
+                "curseforge": "478559",
+                "modrinth": "wLINU2AB"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Measurements-forge-1.19.2-1.3.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6426/680/Measurements-forge-1.19.2-1.3.2.jar",
+                    "id": "6426680",
+                    "parent_id": "478559",
+                    "hashes": {
+                        "sha1": "630ccbaa682df08bc86da584a55927e3267c3bc7",
+                        "md5": "896403c173160675c60be708fc55d0a7"
+                    },
+                    "required_dependencies": [],
+                    "size": 42835,
+                    "date_published": "2025-04-15T18:47:34.550Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Measurements-forge-1.19.2-1.3.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wLINU2AB/versions/ZNlwakjv/Measurements-forge-1.19.2-1.3.2.jar",
+                    "id": "ZNlwakjv",
+                    "parent_id": "wLINU2AB",
+                    "hashes": {
+                        "sha512": "55994e124dabfb15b07ac6aab4be653cae81065233165e729f00a17ef9d3a31c1cc24a63edd667d38e1c1365a7bac3e3df3ba3874e8d811a3f8fe499ec0efce7",
+                        "sha1": "4d3db9b77f6f5842a691ce6e2782f86775475331"
+                    },
+                    "required_dependencies": [],
+                    "size": 42835,
+                    "date_published": "2025-04-15T18:48:02.554753Z"
                 }
             ]
         },

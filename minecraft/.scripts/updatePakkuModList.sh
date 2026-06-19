@@ -12,6 +12,7 @@ filters=(
     "balm"
     "blueprint"
     "bookshelf"
+    "caelus"
     "cb-multipart"
     "cloth-config"
     "codechicken-lib"
