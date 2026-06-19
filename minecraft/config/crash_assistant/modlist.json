@@ -245,6 +245,14 @@
     "curseForgeHash": 1072853488,
     "modrinthHash": "5bf9da43fcfb778f0e510b78580a3491855762b3"
   },
+  "carryon-forge-1.19.2-2.1.2.23.jar": {
+    "jarName": "carryon-forge-1.19.2-2.1.2.23.jar",
+    "modId": "carryon",
+    "name": "Carry On",
+    "version": "2.1.2.23",
+    "curseForgeHash": 2654464313,
+    "modrinthHash": "5d2f59451665f5b703cce9fbd9bd6af1aec4c6ad"
+  },
   "CBMultipart-1.19.2-3.2.0.139-universal.jar": {
     "jarName": "CBMultipart-1.19.2-3.2.0.139-universal.jar",
     "modId": "cb_multipart",
@@ -252,6 +260,14 @@
     "version": "3.2.0.139",
     "curseForgeHash": 870453789,
     "modrinthHash": "d5ff7d1358afc7576c7eb7e6f8b841c8e4f16168"
+  },
+  "charmofundying-forge-6.2.1+1.19.2.jar": {
+    "jarName": "charmofundying-forge-6.2.1+1.19.2.jar",
+    "modId": "charmofundying",
+    "name": "Charm of Undying",
+    "version": "6.2.1+1.19.2",
+    "curseForgeHash": 108260842,
+    "modrinthHash": "4b40bb55774e241ba81d556b00f273feba787088"
   },
   "Chimes-v2.0.1-1.19.2.jar": {
     "jarName": "Chimes-v2.0.1-1.19.2.jar",
@@ -324,6 +340,14 @@
     "version": "10.0+7",
     "curseForgeHash": 3104155174,
     "modrinthHash": "d4f0dd0adc62ef695fbf52df5ad92e9c888082a0"
+  },
+  "convenientcurioscontainer-1.12-1.19.2.jar": {
+    "jarName": "convenientcurioscontainer-1.12-1.19.2.jar",
+    "modId": "convenientcurioscontainer",
+    "name": "Convenient Curios Container",
+    "version": "12_forge-1.19.2",
+    "curseForgeHash": 304954135,
+    "modrinthHash": "01319e80e2c29f95a77ef382fbafd1d37536c7c7"
   },
   "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar": {
     "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
@@ -476,6 +500,14 @@
     "version": "7.0.0",
     "curseForgeHash": 2026152198,
     "modrinthHash": "3135756b5a0b8f34643f34ad2807f3a32a7b041e"
+  },
+  "FastLeafDecay-30.jar": {
+    "jarName": "FastLeafDecay-30.jar",
+    "modId": "fastleafdecay",
+    "name": "FastLeafDecay",
+    "version": "30",
+    "curseForgeHash": 827526645,
+    "modrinthHash": "f273fca159131a930c694e47f3734597db95cb6d"
   },
   "FastSuite-1.19.2-4.1.1.jar": {
     "jarName": "FastSuite-1.19.2-4.1.1.jar",
@@ -997,6 +1029,14 @@
     "curseForgeHash": 3234742533,
     "modrinthHash": "964b684c5f94918be9fa2d4c77934dba8773c8cf"
   },
+  "right-click-harvest-3.2.3+1.19.2-forge.jar": {
+    "jarName": "right-click-harvest-3.2.3+1.19.2-forge.jar",
+    "modId": "rightclickharvest",
+    "name": "Right Click Harvest",
+    "version": "3.2.3+1.19.2-forge",
+    "curseForgeHash": 2354892757,
+    "modrinthHash": "7107b636aeea5818cb953091735941b0821bf5bf"
+  },
   "ScalableCatsForce-2.13.10-build-10-with-library.jar": {
     "jarName": "ScalableCatsForce-2.13.10-build-10-with-library.jar",
     "curseForgeHash": 2734568795,
@@ -1209,6 +1249,14 @@
     "version": "1.19.2-0.5.0",
     "curseForgeHash": 1726591227,
     "modrinthHash": "b8f5d35d4cece636d25108e2f3afcb4f55d1e0aa"
+  },
+  "VisualWorkbench-v4.2.4-1.19.2-Forge.jar": {
+    "jarName": "VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+    "modId": "visualworkbench",
+    "name": "Visual Workbench",
+    "version": "4.2.4",
+    "curseForgeHash": 4170575531,
+    "modrinthHash": "fcaee8ed15ce4d9597f6b6c3d7ef22443e0e94f6"
   },
   "waystones-forge-1.19.2-11.4.2.jar": {
     "jarName": "waystones-forge-1.19.2-11.4.2.jar",

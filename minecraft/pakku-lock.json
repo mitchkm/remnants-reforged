@@ -1729,6 +1729,137 @@
             ]
         },
         {
+            "pakku_id": "SqPqRn6GFCd38pHB",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "carry-on",
+                "modrinth": "carry-on"
+            },
+            "name": {
+                "curseforge": "Carry On",
+                "modrinth": "Carry On"
+            },
+            "id": {
+                "curseforge": "274259",
+                "modrinth": "joEfVgkn"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "carryon-forge-1.19.2-2.1.2.23.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5141/759/carryon-forge-1.19.2-2.1.2.23.jar",
+                    "id": "5141759",
+                    "parent_id": "274259",
+                    "hashes": {
+                        "sha1": "5d2f59451665f5b703cce9fbd9bd6af1aec4c6ad",
+                        "md5": "a07a32c8d0d66ac6e7eded211e1584d9"
+                    },
+                    "required_dependencies": [],
+                    "size": 440569,
+                    "date_published": "2024-02-27T22:43:11.090Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "carryon-forge-1.19.2-2.1.2.23.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/CE3MquDi/carryon-forge-1.19.2-2.1.2.23.jar",
+                    "id": "CE3MquDi",
+                    "parent_id": "joEfVgkn",
+                    "hashes": {
+                        "sha512": "9f7ae581150bdce38f60e2abae8e2cb49efe68e4f6fd2e5b8a47b955bc792cd8514c5a58a53fa036dc975664e6584cc1a2bb33c372fbb868a6e0eb1bc3aa57a2",
+                        "sha1": "5d2f59451665f5b703cce9fbd9bd6af1aec4c6ad"
+                    },
+                    "required_dependencies": [],
+                    "size": 440569,
+                    "date_published": "2024-02-27T22:39:49.075922Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Ry3PVZEvulheeRZw",
+            "pakku_links": [
+                "ubIKP3OQlixp5fZy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "charm-of-undying",
+                "modrinth": "charm-of-undying"
+            },
+            "name": {
+                "curseforge": "Charm of Undying (Fabric/Forge/Quilt)",
+                "modrinth": "Charm of Undying"
+            },
+            "id": {
+                "curseforge": "316873",
+                "modrinth": "b5GyyYkp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "charmofundying-forge-6.2.1+1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4603/643/charmofundying-forge-6.2.1+1.19.2.jar",
+                    "id": "4603643",
+                    "parent_id": "316873",
+                    "hashes": {
+                        "sha1": "4b40bb55774e241ba81d556b00f273feba787088",
+                        "md5": "63d806f8fb0275e9164ab1ebea6461b6"
+                    },
+                    "required_dependencies": [],
+                    "size": 49719,
+                    "date_published": "2023-06-22T21:30:56.310Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "charmofundying-forge-6.2.1+1.19.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/b5GyyYkp/versions/cdHZ9sTu/charmofundying-forge-6.2.1+1.19.2.jar",
+                    "id": "cdHZ9sTu",
+                    "parent_id": "b5GyyYkp",
+                    "hashes": {
+                        "sha512": "3fc46c23789abf7bd95be34136235364b032274803c6c2864194768eb6b4bb4298c9ce71eb9aa316b188280be738b541467a2e5bd20e2427f74954acbf50f09f",
+                        "sha1": "4b40bb55774e241ba81d556b00f273feba787088"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH"
+                    ],
+                    "size": 49719,
+                    "date_published": "2023-06-22T21:32:40.882804Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EoIUJKjLFyDjjEqt",
             "type": "MOD",
             "side": "BOTH",
@@ -2205,6 +2336,78 @@
                     "required_dependencies": [],
                     "size": 117659,
                     "date_published": "2022-10-25T18:45:47.007Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ttPziifNCXBiyEBz",
+            "pakku_links": [
+                "ubIKP3OQlixp5fZy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "convenient-curios-container",
+                "modrinth": "convenient_curios_container"
+            },
+            "name": {
+                "curseforge": "Convenient Curios Container",
+                "modrinth": "Convenient Curios Container"
+            },
+            "id": {
+                "curseforge": "544033",
+                "modrinth": "jIJyY7rq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "convenientcurioscontainer-1.12-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4399/870/convenientcurioscontainer-1.12-1.19.2.jar",
+                    "id": "4399870",
+                    "parent_id": "544033",
+                    "hashes": {
+                        "sha1": "01319e80e2c29f95a77ef382fbafd1d37536c7c7",
+                        "md5": "17c1f9ac5a77a22d4cdbef798007d597"
+                    },
+                    "required_dependencies": [
+                        "309927"
+                    ],
+                    "size": 43647,
+                    "date_published": "2023-02-17T15:48:58.170Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "convenientcurioscontainer-1.12-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/jIJyY7rq/versions/3CqcMD0v/convenientcurioscontainer-1.12-1.19.2.jar",
+                    "id": "3CqcMD0v",
+                    "parent_id": "jIJyY7rq",
+                    "hashes": {
+                        "sha512": "848e12f046ba89d3680fc28620ee51c3e2c6cf0965f19de435f43a4b3486289f296cb311e268fee28d7221361587e072db123a13ece666c6ce8080a57fed0338",
+                        "sha1": "01319e80e2c29f95a77ef382fbafd1d37536c7c7"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH"
+                    ],
+                    "size": 43647,
+                    "date_published": "2023-02-17T15:48:59.382881Z"
                 }
             ]
         },
@@ -3484,6 +3687,49 @@
                     ],
                     "size": 493349,
                     "date_published": "2022-11-11T19:45:26.363Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dQAYrsb1XBQzNN3s",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fast-leaf-decay",
+                "modrinth": "fast-leaf-decay"
+            },
+            "name": {
+                "curseforge": "Fast Leaf Decay",
+                "modrinth": "Fast Leaf Decay"
+            },
+            "id": {
+                "curseforge": "230976",
+                "modrinth": "PcKMtamx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FastLeafDecay-30.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.19.2",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3894/512/FastLeafDecay-30.jar",
+                    "id": "3894512",
+                    "parent_id": "230976",
+                    "hashes": {
+                        "sha1": "f273fca159131a930c694e47f3734597db95cb6d",
+                        "md5": "9004a418268ab7e5c3529bd9e1922ce7"
+                    },
+                    "required_dependencies": [],
+                    "size": 11295,
+                    "date_published": "2022-07-23T08:19:57.937Z"
                 }
             ]
         },
@@ -7233,6 +7479,69 @@
             ]
         },
         {
+            "pakku_id": "LathJVeY7Lkmdy8m",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "rightclickharvest",
+                "modrinth": "rightclickharvest"
+            },
+            "name": {
+                "curseforge": "RightClickHarvest",
+                "modrinth": "RightClickHarvest"
+            },
+            "id": {
+                "curseforge": "452834",
+                "modrinth": "Cnejf5xM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "right-click-harvest-3.2.3+1.19.2-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4690/534/right-click-harvest-3.2.3+1.19.2-forge.jar",
+                    "id": "4690534",
+                    "parent_id": "452834",
+                    "hashes": {
+                        "sha1": "dcab7d36861a10693c314b71617facc4efa1113d",
+                        "md5": "6343a90eaa02eb8b31e58bc365caa486"
+                    },
+                    "required_dependencies": [],
+                    "size": 264091,
+                    "date_published": "2023-08-09T13:30:40.853Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "right-click-harvest-3.2.3+1.19.2-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/cuNPl7Fo/right-click-harvest-3.2.3+1.19.2-forge.jar",
+                    "id": "cuNPl7Fo",
+                    "parent_id": "Cnejf5xM",
+                    "hashes": {
+                        "sha512": "32a224522bd2a24b06a446bd45651edb7a3de1500a05d033defa6f0b53f32497fe161ab771996f8401ba6473be39a21e28aa18a5d36e8005522f978d25bcfc63",
+                        "sha1": "7107b636aeea5818cb953091735941b0821bf5bf"
+                    },
+                    "required_dependencies": [],
+                    "size": 220717,
+                    "date_published": "2023-08-09T13:30:47.462270Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0RbyycQcUZ5ihybW",
             "type": "MOD",
             "side": "BOTH",
@@ -8645,6 +8954,76 @@
                     "required_dependencies": [],
                     "size": 702728,
                     "date_published": "2022-12-16T13:56:07.840Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bZubVKjrSDPthOup",
+            "pakku_links": [
+                "86k4oWUrVPvoAb4g"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "visual-workbench",
+                "modrinth": "visual-workbench"
+            },
+            "name": {
+                "curseforge": "Visual Workbench",
+                "modrinth": "Visual Workbench"
+            },
+            "id": {
+                "curseforge": "500273",
+                "modrinth": "kfqD1JRw"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4455/250/VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+                    "id": "4455250",
+                    "parent_id": "500273",
+                    "hashes": {
+                        "sha1": "fcaee8ed15ce4d9597f6b6c3d7ef22443e0e94f6",
+                        "md5": "d23680b419036187552f8d5a8a6d3312"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 82918,
+                    "date_published": "2023-03-24T17:34:35.933Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/1u457HoS/VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+                    "id": "1u457HoS",
+                    "parent_id": "kfqD1JRw",
+                    "hashes": {
+                        "sha512": "1e68143492500ce7cbad4742ff8cb53723213f7df1c28320b5b8c8bf6dbec4bd326fbf2350f8aedd586c4eb2b38fa440ad66d18350f4ca6c0e50265b856fbd9a",
+                        "sha1": "fcaee8ed15ce4d9597f6b6c3d7ef22443e0e94f6"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 82918,
+                    "date_published": "2023-03-24T17:34:42.241197Z"
                 }
             ]
         },
