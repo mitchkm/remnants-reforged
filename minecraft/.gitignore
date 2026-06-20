@@ -10,8 +10,15 @@
 #config/**.zip
 #config/**/*.bak
 #config/**/[rR][eE][aA][dD][mM][eE].*
-!defaultconfigs/
+!defaultconfigs
+!defaultconfigs/**
 #TODO: !options.txt
+
+# KubeJS
+!kubejs
+!kubejs/**
+kubejs/**/example.js
+kubejs/**/[rR][eE][aA][dD][mM][eE].txt
 
 ## YUNG's Better Series
 ### YUNG's Better Desert Temples
