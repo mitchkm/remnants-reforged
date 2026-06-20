@@ -3,5 +3,4 @@
 [[curiosSettings]]
 	identifier = "backpack"
 	size = 1
-	icon = "curios:slot/empty_back_slot"
-
+	icon = "curios:slot/empty_backpack_slot"
