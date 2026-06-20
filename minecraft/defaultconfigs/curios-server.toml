@@ -1,0 +1,7 @@
+
+# Dedicated backpack slot for Sophisticated Backpacks. Tag changes dones in KubeJS. 
+[[curiosSettings]]
+	identifier = "backpack"
+	size = 1
+	icon = "curios:slot/empty_back_slot"
+
