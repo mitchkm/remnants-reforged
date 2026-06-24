@@ -541,6 +541,14 @@
     "curseForgeHash": 2792631761,
     "modrinthHash": "d2b94b8d824bb3bbb1b28a015f84926b415ad49d"
   },
+  "entityjs-0.5.0-1.19.2.jar": {
+    "jarName": "entityjs-0.5.0-1.19.2.jar",
+    "modId": "entityjs",
+    "name": "EntityJS",
+    "version": "0.5.0-1.19.2",
+    "curseForgeHash": 2246407223,
+    "modrinthHash": "f0b6c3b99f13cec1d5e2363a74cfe5838694156f"
+  },
   "EquipmentCompare-1.19.2-forge-1.3.2.jar": {
     "jarName": "EquipmentCompare-1.19.2-forge-1.3.2.jar",
     "modId": "equipmentcompare",
@@ -853,6 +861,14 @@
     "curseForgeHash": 2851476559,
     "modrinthHash": "acbd57a65c46bc1cbeaf3a41792c6187a8c22a9d"
   },
+  "liolib-forge-1.19.2-0.0.2.jar": {
+    "jarName": "liolib-forge-1.19.2-0.0.2.jar",
+    "modId": "liolib",
+    "name": "liolib",
+    "version": "1.19-0.0.1",
+    "curseForgeHash": 836237828,
+    "modrinthHash": "d875ad1ead6ff0bd6994ef0caaf70548b7b0d583"
+  },
   "lmft-1.0.2+1.19-forge.jar": {
     "jarName": "lmft-1.0.2+1.19-forge.jar",
     "modId": "lmft",
@@ -940,6 +956,14 @@
     "version": "1.19.2-2.3.7",
     "curseForgeHash": 3927285687,
     "modrinthHash": "088769d428106abf7c9de9bb8729b291cfa35392"
+  },
+  "morejs-forge-1.19.2-0.3.0.jar": {
+    "jarName": "morejs-forge-1.19.2-0.3.0.jar",
+    "modId": "morejs",
+    "name": "MoreJS",
+    "version": "0.3.0",
+    "curseForgeHash": 434217860,
+    "modrinthHash": "c0ab500a06773561704974c8022b28c16125dda3"
   },
   "MouseTweaks-forge-mc1.19-2.23.jar": {
     "jarName": "MouseTweaks-forge-mc1.19-2.23.jar",
@@ -1076,6 +1100,22 @@
     "version": "0.46.6+1.19.2",
     "curseForgeHash": 3859795086,
     "modrinthHash": "80a182ed8a832c4df04620cedb3b8fda2757223c"
+  },
+  "powerfuljs-1.5.0.jar": {
+    "jarName": "powerfuljs-1.5.0.jar",
+    "modId": "powerfuljs",
+    "name": "PowerfulJS",
+    "version": "1.5.0",
+    "curseForgeHash": 36112100,
+    "modrinthHash": "d3e4bb52987f734cdcf72f87360a1ebd97e6692b"
+  },
+  "probejs-5.3.4-forge.jar": {
+    "jarName": "probejs-5.3.4-forge.jar",
+    "modId": "probejs",
+    "name": "ProbeJS",
+    "version": "5.3.4",
+    "curseForgeHash": 1586056200,
+    "modrinthHash": "2bea94dcc58526dccb546dc01a06284a5bc14c28"
   },
   "productivebees-1.19.2-0.10.7.2.jar": {
     "jarName": "productivebees-1.19.2-0.10.7.2.jar",

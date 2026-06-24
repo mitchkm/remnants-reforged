@@ -5,6 +5,7 @@ filters=(
     "betterf3"
     "fps-monitor"
     "mcretector"
+    "probejs"
     # libs
     "addonslib"
     "aeroblender"
@@ -20,6 +21,8 @@ filters=(
     "framework"
     "geckolib"
     "iceberg"
+    "liolib"
+    "mutil"
     "placebo"
     "polylib"
     "puzzles-lib"
@@ -31,7 +34,6 @@ filters=(
     "terrablender"
     "valhelsia-core"
     "yungs-api"
-    "mutil"
 )
 
 pattern=$(IFS='|'; echo "${filters[*]}")

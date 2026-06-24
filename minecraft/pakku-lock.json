@@ -4126,6 +4126,77 @@
             ]
         },
         {
+            "pakku_id": "OxJ6CmjqXtzOsLoF",
+            "pakku_links": [
+                "gSaAankCCw3sHB3N",
+                "rHY2P8dVsAXTht0x"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "entityjs",
+                "modrinth": "entityjs"
+            },
+            "name": {
+                "curseforge": "EntityJS",
+                "modrinth": "EntityJS"
+            },
+            "id": {
+                "curseforge": "967617",
+                "modrinth": "OvPZ16yX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "entityjs-0.5.0-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6599/46/entityjs-0.5.0-1.19.2.jar",
+                    "id": "6599046",
+                    "parent_id": "967617",
+                    "hashes": {
+                        "sha1": "f0b6c3b99f13cec1d5e2363a74cfe5838694156f",
+                        "md5": "31ce64d8f7c4271f66ac5d01f9148239"
+                    },
+                    "required_dependencies": [
+                        "238086",
+                        "973100"
+                    ],
+                    "size": 2158480,
+                    "date_published": "2025-05-30T18:06:22.920Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "entityjs-0.5.0-1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OvPZ16yX/versions/hyVQJWrE/entityjs-0.5.0-1.19.2.jar",
+                    "id": "hyVQJWrE",
+                    "parent_id": "OvPZ16yX",
+                    "hashes": {
+                        "sha512": "9f4dea925e0d1a9706b11a08fa02550480062c0ad84508a3516e462be74025cdae6462bb10d4195df33458c13b51cb47913db0fa6a5c1b961a72fd7e75851f4c",
+                        "sha1": "f0b6c3b99f13cec1d5e2363a74cfe5838694156f"
+                    },
+                    "required_dependencies": [
+                        "Mctbkhid",
+                        "umyGl7zF"
+                    ],
+                    "size": 2158480,
+                    "date_published": "2025-05-30T18:07:32.933936Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9vIbALU9i77B53nX",
             "pakku_links": [
                 "kgGbelfExU0zLcq9"
@@ -6265,6 +6336,67 @@
             ]
         },
         {
+            "pakku_id": "rHY2P8dVsAXTht0x",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "liolib",
+                "modrinth": "liolib"
+            },
+            "name": {
+                "curseforge": "LioLib",
+                "modrinth": "LioLib"
+            },
+            "id": {
+                "curseforge": "973100",
+                "modrinth": "Mctbkhid"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "liolib-forge-1.19.2-0.0.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5937/83/liolib-forge-1.19.2-0.0.2.jar",
+                    "id": "5937083",
+                    "parent_id": "973100",
+                    "hashes": {
+                        "sha1": "d875ad1ead6ff0bd6994ef0caaf70548b7b0d583",
+                        "md5": "a93e28bbbd84e04c40f34e846de2c825"
+                    },
+                    "required_dependencies": [],
+                    "size": 1756029,
+                    "date_published": "2024-11-25T19:39:28.400Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "liolib-forge-1.19.2-0.0.2.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Mctbkhid/versions/gubofSjE/liolib-forge-1.19.2-0.0.2.jar",
+                    "id": "gubofSjE",
+                    "parent_id": "Mctbkhid",
+                    "hashes": {
+                        "sha512": "01a0b44ee496bd27b5a451fb23946ec1d5928aa895a39cb9376ac19b8f703ab4537d23cbf43586b7c1f116524c0296c4b8f0aa7bc6944f9e615e2b87ad1ec8ab",
+                        "sha1": "d875ad1ead6ff0bd6994ef0caaf70548b7b0d583"
+                    },
+                    "required_dependencies": [],
+                    "size": 1756029,
+                    "date_published": "2024-11-25T19:40:41.413552Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Phlq3u5TdjYGO9p9",
             "type": "MOD",
             "side": "SERVER",
@@ -6963,6 +7095,74 @@
                     "required_dependencies": [],
                     "size": 836351,
                     "date_published": "2024-07-26T06:34:18.667Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "31YBtFYiNkscnExw",
+            "pakku_links": [
+                "gSaAankCCw3sHB3N"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "morejs",
+                "modrinth": "morejs"
+            },
+            "name": {
+                "curseforge": "MoreJS",
+                "modrinth": "MoreJS: KubeJS Addon"
+            },
+            "id": {
+                "curseforge": "666198",
+                "modrinth": "mo64mR1W"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "morejs-forge-1.19.2-0.3.0.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5080/707/morejs-forge-1.19.2-0.3.0.jar",
+                    "id": "5080707",
+                    "parent_id": "666198",
+                    "hashes": {
+                        "sha1": "c0ab500a06773561704974c8022b28c16125dda3",
+                        "md5": "2c1e93e0a36b9e3fb2488ff6885e7321"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 164774,
+                    "date_published": "2024-02-04T16:05:10.047Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "morejs-forge-1.19.2-0.3.0.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mo64mR1W/versions/OPrF3dPN/morejs-forge-1.19.2-0.3.0.jar",
+                    "id": "OPrF3dPN",
+                    "parent_id": "mo64mR1W",
+                    "hashes": {
+                        "sha512": "dc231655da2404202f078a5b9e21374f812237c66a1500cd46f209fd6bc129828672522bc0aeeed4532e6ea82061be29e120d5dbe4f707c9e88ce3d12f6772ed",
+                        "sha1": "c0ab500a06773561704974c8022b28c16125dda3"
+                    },
+                    "required_dependencies": [
+                        "umyGl7zF"
+                    ],
+                    "size": 164774,
+                    "date_published": "2024-02-04T16:05:11.708474Z"
                 }
             ]
         },
@@ -7926,6 +8126,116 @@
                     "required_dependencies": [],
                     "size": 257315,
                     "date_published": "2024-03-30T10:53:12.960Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "sOdiTmfWNLtOKbBg",
+            "pakku_links": [
+                "gSaAankCCw3sHB3N"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "powerfuljs"
+            },
+            "name": {
+                "curseforge": "PowerfulJS"
+            },
+            "id": {
+                "curseforge": "819845"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "powerfuljs-1.5.0.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4818/642/powerfuljs-1.5.0.jar",
+                    "id": "4818642",
+                    "parent_id": "819845",
+                    "hashes": {
+                        "sha1": "d3e4bb52987f734cdcf72f87360a1ebd97e6692b",
+                        "md5": "e86e6e6fc45a313fbc1dd2a125a89f86"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 739594,
+                    "date_published": "2023-10-27T02:47:27.887Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BSjpm5jKGc5tpUrd",
+            "pakku_links": [
+                "gSaAankCCw3sHB3N"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "probejs",
+                "modrinth": "probejs"
+            },
+            "name": {
+                "curseforge": "ProbeJS",
+                "modrinth": "ProbeJS"
+            },
+            "id": {
+                "curseforge": "585406",
+                "modrinth": "JJNYRb4B"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "probejs-5.3.4-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5002/340/probejs-5.3.4-forge.jar",
+                    "id": "5002340",
+                    "parent_id": "585406",
+                    "hashes": {
+                        "sha1": "2bea94dcc58526dccb546dc01a06284a5bc14c28",
+                        "md5": "af72253e5eb5650c9f397a64e5082b76"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 826221,
+                    "date_published": "2024-01-02T18:07:20.290Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "probejs-5.3.4-forge.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JJNYRb4B/versions/RHQ11l5Y/probejs-5.3.4-forge.jar",
+                    "id": "RHQ11l5Y",
+                    "parent_id": "JJNYRb4B",
+                    "hashes": {
+                        "sha512": "dcb15c41b9c76cfe1f5fc6eff9a3d31c11806f78fef1fb7987d7b7abc6ff56d05096b9c36f07f8085f6ca22171eae19f9d7a4ff23767882895cb4e13300c4773",
+                        "sha1": "2bea94dcc58526dccb546dc01a06284a5bc14c28"
+                    },
+                    "required_dependencies": [
+                        "umyGl7zF"
+                    ],
+                    "size": 826221,
+                    "date_published": "2024-02-11T13:00:35.161896Z"
                 }
             ]
         },

@@ -10,6 +10,9 @@
         "defaultconfigs"
     ],
     "projects": {
+        "probejs": {
+            "export": false
+        },
         "mcretector": {
             "export": false
         },
