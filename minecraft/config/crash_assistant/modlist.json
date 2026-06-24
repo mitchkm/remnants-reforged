@@ -21,13 +21,13 @@
     "curseForgeHash": 2030542060,
     "modrinthHash": "f0791c95469a625f6e0a309a5be1fca43ed2c8ae"
   },
-  "addonslib-1.19-1.8.jar": {
-    "jarName": "addonslib-1.19-1.8.jar",
+  "addonslib-forge-1.19-1.9.jar": {
+    "jarName": "addonslib-forge-1.19-1.9.jar",
     "modId": "addonslib",
     "name": "AddonsLib",
-    "version": "1.19-1.8",
-    "curseForgeHash": 3090090521,
-    "modrinthHash": "3bfc82eab550a55e75a1aa4c4246d1191e337a99"
+    "version": "1.19-1.9",
+    "curseForgeHash": 559600332,
+    "modrinthHash": "5b3ec28b5ff8eeb83e382b5701f0a7e950df329e"
   },
   "advancedsolars-2.1.2.jar": {
     "jarName": "advancedsolars-2.1.2.jar",
@@ -909,13 +909,13 @@
     "curseForgeHash": 2935400036,
     "modrinthHash": "9b5c0aec909977a83c528eeeb0fd69bca8262bdf"
   },
-  "mcwbiomesoplenty-1.19-1.5.jar": {
-    "jarName": "mcwbiomesoplenty-1.19-1.5.jar",
+  "mcwbiomesoplenty-1.19-1.6.jar": {
+    "jarName": "mcwbiomesoplenty-1.19-1.6.jar",
     "modId": "mcwbiomesoplenty",
     "name": "Macaw\u0027s Biomes O\u0027 Plenty",
-    "version": "1.19-1.5",
-    "curseForgeHash": 719136003,
-    "modrinthHash": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0"
+    "version": "1.19-1.6",
+    "curseForgeHash": 2314695941,
+    "modrinthHash": "c08c5a081098694f1cdbf01dcec74a343ef7de48"
   },
   "Measurements-forge-1.19.2-1.3.2.jar": {
     "jarName": "Measurements-forge-1.19.2-1.3.2.jar",
@@ -1474,13 +1474,13 @@
     "curseForgeHash": 2638134688,
     "modrinthHash": "c5ca28382b87b5a3049e89b79b4ab8d3a632b68e"
   },
-  "xaeroworldmap-forge-1.19.2-1.41.0.jar": {
-    "jarName": "xaeroworldmap-forge-1.19.2-1.41.0.jar",
+  "xaeroworldmap-forge-1.19.2-1.41.2.jar": {
+    "jarName": "xaeroworldmap-forge-1.19.2-1.41.2.jar",
     "modId": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
-    "version": "1.41.0",
-    "curseForgeHash": 3982161128,
-    "modrinthHash": "fe11a4298e01ef6029081288f6e4173153f90155"
+    "version": "1.41.2",
+    "curseForgeHash": 2780364948,
+    "modrinthHash": "71db86168db6bd207351af0462213d15ee1e2b3d"
   },
   "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar": {
     "jarName": "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",

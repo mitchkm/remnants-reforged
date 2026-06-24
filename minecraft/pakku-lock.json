@@ -161,30 +161,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "addonslib-1.19-1.8.jar",
-                    "mc_versions": [
-                        "1.19.2",
-                        "1.19"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7401/671/addonslib-1.19-1.8.jar",
-                    "id": "7401671",
-                    "parent_id": "1090999",
-                    "hashes": {
-                        "sha1": "3bfc82eab550a55e75a1aa4c4246d1191e337a99",
-                        "md5": "44a90a9456e02ab1da571214fe543d28"
-                    },
-                    "required_dependencies": [],
-                    "size": 115467,
-                    "date_published": "2025-12-31T19:21:45.550Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "addonslib-1.19-1.8.jar",
+                    "file_name": "addonslib-forge-1.19-1.9.jar",
                     "mc_versions": [
                         "1.19",
                         "1.19.2"
@@ -193,16 +171,38 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dGsh8WGN/addonslib-1.19-1.8.jar",
-                    "id": "dGsh8WGN",
+                    "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/M4xvKb5V/addonslib-forge-1.19-1.9.jar",
+                    "id": "M4xvKb5V",
                     "parent_id": "cl5ec0Qm",
                     "hashes": {
-                        "sha512": "d8aea8f8d518ab2221682b3690aa618696669382e57831eb561ac0b6e7d341172ef90df9ad4c629bc031ff4e26bf197a14f3a1ff5205c6b7341386f3f97f29ed",
-                        "sha1": "3bfc82eab550a55e75a1aa4c4246d1191e337a99"
+                        "sha512": "809817d17a0306c18a3c5f403c740cd57f19a381822fccdca1d873df655e81d1e51281e77932df333f7db7f0fde110af54820222204f1cfd17d6d00b1cb071ab",
+                        "sha1": "5b3ec28b5ff8eeb83e382b5701f0a7e950df329e"
                     },
                     "required_dependencies": [],
-                    "size": 115467,
-                    "date_published": "2026-01-01T02:43:02.673770Z"
+                    "size": 127755,
+                    "date_published": "2026-06-22T13:50:33.038765Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "addonslib-forge-1.19-1.9.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8300/171/addonslib-forge-1.19-1.9.jar",
+                    "id": "8300171",
+                    "parent_id": "1090999",
+                    "hashes": {
+                        "sha1": "5b3ec28b5ff8eeb83e382b5701f0a7e950df329e",
+                        "md5": "2de1f5cb954d93eb45c0cf57136df3cb"
+                    },
+                    "required_dependencies": [],
+                    "size": 127755,
+                    "date_published": "2026-06-22T13:30:55.407Z"
                 }
             ]
         },
@@ -5317,7 +5317,6 @@
                         "1.19.3"
                     ],
                     "loaders": [
-                        "datapack",
                         "fabric",
                         "forge"
                     ],
@@ -6630,37 +6629,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "mcwbiomesoplenty-1.19-1.5.jar",
-                    "mc_versions": [
-                        "1.19.2",
-                        "1.19"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7324/163/mcwbiomesoplenty-1.19-1.5.jar",
-                    "id": "7324163",
-                    "parent_id": "533382",
-                    "hashes": {
-                        "sha1": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0",
-                        "md5": "2851986927be63b8f48f03983d191555"
-                    },
-                    "required_dependencies": [
-                        "940057",
-                        "563928",
-                        "1090999",
-                        "220318",
-                        "565956",
-                        "955399"
-                    ],
-                    "size": 6150465,
-                    "date_published": "2025-12-12T12:33:11.443Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "mcwbiomesoplenty-1.19-1.5.jar",
+                    "file_name": "mcwbiomesoplenty-1.19-1.6.jar",
                     "mc_versions": [
                         "1.19",
                         "1.19.2"
@@ -6669,20 +6639,46 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Tanquv9C/versions/nXGczTAZ/mcwbiomesoplenty-1.19-1.5.jar",
-                    "id": "nXGczTAZ",
+                    "url": "https://cdn.modrinth.com/data/Tanquv9C/versions/dMxMK1oi/mcwbiomesoplenty-1.19-1.6.jar",
+                    "id": "dMxMK1oi",
                     "parent_id": "Tanquv9C",
                     "hashes": {
-                        "sha512": "f8afe2f4c13a28be169799bfe4b219c099860735f112de5df5f919243c628c57919cef0b005993150ce5a66b790cc0a9bfd5a6952a79719bd9516cc33b53874a",
-                        "sha1": "94d6cb07301edebbdce8b83b1a41a31b7f26ffa0"
+                        "sha512": "478836a5dc8ee8838aeb18a19b48778c2422254982ca7100be1d92d082fb68f4d03772345385de53c1deb273bd157350142c01d8392b6a32db82546a0e68112d",
+                        "sha1": "c08c5a081098694f1cdbf01dcec74a343ef7de48"
                     },
                     "required_dependencies": [
                         "HXF82T3G",
-                        "cl5ec0Qm",
-                        "kkmrDlKT"
+                        "kkmrDlKT",
+                        "cl5ec0Qm"
                     ],
-                    "size": 6150465,
-                    "date_published": "2025-12-12T12:36:12.739495Z"
+                    "size": 6150188,
+                    "date_published": "2026-06-22T13:52:08.454495Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "mcwbiomesoplenty-1.19-1.6.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8300/179/mcwbiomesoplenty-1.19-1.6.jar",
+                    "id": "8300179",
+                    "parent_id": "533382",
+                    "hashes": {
+                        "sha1": "c08c5a081098694f1cdbf01dcec74a343ef7de48",
+                        "md5": "8c47198ba1fde2f17b2e36c302d2b3c5"
+                    },
+                    "required_dependencies": [
+                        "1090999",
+                        "563928",
+                        "220318"
+                    ],
+                    "size": 6150188,
+                    "date_published": "2026-06-22T13:31:49.757Z"
                 }
             ]
         },
@@ -8189,6 +8185,7 @@
                 "curseforge": "585406",
                 "modrinth": "JJNYRb4B"
             },
+            "export": false,
             "files": [
                 {
                     "type": "curseforge",
@@ -10800,30 +10797,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.0.jar",
-                    "mc_versions": [
-                        "1.19.1",
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8231/8/xaeroworldmap-forge-1.19.2-1.41.0.jar",
-                    "id": "8231008",
-                    "parent_id": "317780",
-                    "hashes": {
-                        "sha1": "fe11a4298e01ef6029081288f6e4173153f90155",
-                        "md5": "611b48dbbb0063d4433fd72bc592499a"
-                    },
-                    "required_dependencies": [],
-                    "size": 1368746,
-                    "date_published": "2026-06-11T10:37:00.620Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.0.jar",
+                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.2.jar",
                     "mc_versions": [
                         "1.19.1",
                         "1.19.2"
@@ -10832,16 +10807,38 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gvbdvHnu/xaeroworldmap-forge-1.19.2-1.41.0.jar",
-                    "id": "gvbdvHnu",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KnWKO6kP/xaeroworldmap-forge-1.19.2-1.41.2.jar",
+                    "id": "KnWKO6kP",
                     "parent_id": "NcUtCpym",
                     "hashes": {
-                        "sha512": "d3755cae13921697f72b299637e9f99b86decd4ca1b8c7c2181c9050fe1fbb9154b59aaf639ab05359b8561961b64e35b27261c584f2d23b701ea21d9333f306",
-                        "sha1": "fe11a4298e01ef6029081288f6e4173153f90155"
+                        "sha512": "447002618be26d86490bcf3614d9df5fc130cf99e34c727e27df96862c09b5acbdcd1ecf3249f568c38c92be492a6f101d324d7579f5649ff867a641466fd79a",
+                        "sha1": "71db86168db6bd207351af0462213d15ee1e2b3d"
                     },
                     "required_dependencies": [],
-                    "size": 1368746,
-                    "date_published": "2026-06-11T11:49:17.440672Z"
+                    "size": 1369802,
+                    "date_published": "2026-06-22T08:09:37.158273Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.2.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8298/681/xaeroworldmap-forge-1.19.2-1.41.2.jar",
+                    "id": "8298681",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "71db86168db6bd207351af0462213d15ee1e2b3d",
+                        "md5": "efe2ae7bab5e6496b1ad99abd83e094b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1369802,
+                    "date_published": "2026-06-22T07:37:27.533Z"
                 }
             ]
         },
