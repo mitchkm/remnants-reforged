@@ -3181,6 +3181,77 @@
             ]
         },
         {
+            "pakku_id": "2m61CUb713WoTCld",
+            "pakku_links": [
+                "qbaJfqGb8oTZRDvi",
+                "ubIKP3OQlixp5fZy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "curious-lanterns",
+                "modrinth": "curious-lanterns"
+            },
+            "name": {
+                "curseforge": "Curious Lanterns",
+                "modrinth": "Curious Lanterns"
+            },
+            "id": {
+                "curseforge": "621377",
+                "modrinth": "cE5SLYbv"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "curiouslanterns-1.19.2-1.3.7.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6613/558/curiouslanterns-1.19.2-1.3.7.jar",
+                    "id": "6613558",
+                    "parent_id": "621377",
+                    "hashes": {
+                        "sha1": "c3fc37ef202b79f7e669dc0aac99850c7cd18819",
+                        "md5": "8d18a488f5729369d88fdabc4478541b"
+                    },
+                    "required_dependencies": [
+                        "602199",
+                        "309927"
+                    ],
+                    "size": 33464,
+                    "date_published": "2025-06-04T12:23:59.257Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "curiouslanterns-1.19.2-1.3.7.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/cE5SLYbv/versions/rFrwOluN/curiouslanterns-1.19.2-1.3.7.jar",
+                    "id": "rFrwOluN",
+                    "parent_id": "cE5SLYbv",
+                    "hashes": {
+                        "sha512": "f82c34d46a35ba8f8497a7d54db4999f3cf3abbc1d77e23d99d6a6fb09ddbb100afb0b4d80d43df30f9e977dd8a4f6346dbf2ab3dd8c5294c1b1c142cdc385db",
+                        "sha1": "c3fc37ef202b79f7e669dc0aac99850c7cd18819"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH",
+                        "AtT9wm5O"
+                    ],
+                    "size": 33464,
+                    "date_published": "2025-06-20T09:51:16.897910Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ln8CxGGgFQ60f7uM",
             "type": "MOD",
             "side": "BOTH",
@@ -5059,6 +5130,92 @@
                     "required_dependencies": [],
                     "size": 314755,
                     "date_published": "2024-10-08T09:27:00.711045Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0oIfhZ5aSzyfRWck",
+            "pakku_links": [
+                "ubIKP3OQlixp5fZy",
+                "07CRxzaQhMxZ8Szu"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "gravestone-x-curios-api-compat",
+                "modrinth": "gravestone-x-curios-api-compat"
+            },
+            "name": {
+                "curseforge": "Gravestone x Curios API Compat",
+                "modrinth": "Gravestone x Curios API Compat"
+            },
+            "id": {
+                "curseforge": "1139062",
+                "modrinth": "NaiL8bPN"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6201/439/gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar",
+                    "id": "6201439",
+                    "parent_id": "1139062",
+                    "hashes": {
+                        "sha1": "69f37bf7791b0609d35792b011eae6a07efad6bc",
+                        "md5": "ea17c76c695f4301cd8cd8fb9f28c0b7"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "238551"
+                    ],
+                    "size": 9506,
+                    "date_published": "2025-02-16T23:28:13.017Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar",
+                    "mc_versions": [
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NaiL8bPN/versions/fzueSdVq/gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar",
+                    "id": "fzueSdVq",
+                    "parent_id": "NaiL8bPN",
+                    "hashes": {
+                        "sha512": "57e8c818dd587b5a7d1c7d72d271647a7506746abc3e1a6bcc66182848170c6319cf11e5bacfa4eb2532c0981bb40d841d68d78a97c572734c75513c3c782b0e",
+                        "sha1": "69f37bf7791b0609d35792b011eae6a07efad6bc"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH",
+                        "RYtXKJPr"
+                    ],
+                    "size": 9506,
+                    "date_published": "2025-02-19T16:03:27.875835Z"
                 }
             ]
         },
@@ -8394,6 +8551,76 @@
                     "required_dependencies": [],
                     "size": 395272,
                     "date_published": "2023-06-21T12:00:47.576724Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qbaJfqGb8oTZRDvi",
+            "pakku_links": [
+                "ubIKP3OQlixp5fZy"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "radiant-gear",
+                "modrinth": "radiant-gear"
+            },
+            "name": {
+                "curseforge": "Radiant Gear (Fabric/Forge/Quilt)",
+                "modrinth": "Radiant Gear"
+            },
+            "id": {
+                "curseforge": "602199",
+                "modrinth": "AtT9wm5O"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "radiantgear-forge-2.0.4+1.19.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5385/557/radiantgear-forge-2.0.4+1.19.2.jar",
+                    "id": "5385557",
+                    "parent_id": "602199",
+                    "hashes": {
+                        "sha1": "cc5c6189428b820c7bca229119d45f078d92ca5d",
+                        "md5": "e899a95e3d725fbf9f0b30b8eaf08d6b"
+                    },
+                    "required_dependencies": [],
+                    "size": 41393,
+                    "date_published": "2024-05-30T21:14:35.357Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "radiantgear-forge-2.0.4+1.19.2.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/wkRh0MZp/radiantgear-forge-2.0.4+1.19.2.jar",
+                    "id": "wkRh0MZp",
+                    "parent_id": "AtT9wm5O",
+                    "hashes": {
+                        "sha512": "1530f594e74c6659e71b167a7bbed5656b47162abc46ac027c05df43ece495f57f2a9be660411a4059530eed751ad2ebba306f681a199e3740f57bd2a961ee1e",
+                        "sha1": "cc5c6189428b820c7bca229119d45f078d92ca5d"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH"
+                    ],
+                    "size": 41393,
+                    "date_published": "2024-05-30T21:12:47.947440Z"
                 }
             ]
         },

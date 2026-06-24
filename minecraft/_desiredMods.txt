@@ -1,14 +1,19 @@
-# Mod List: 168
+# Mod List: 174
 Audio, cf=extrasounds-forge | Extrasounds
 Audio, cf=bad-wither-no-cookie-reloaded | Bad Wither No Cookie - Reloaded
 Audio, cf=auditory | Auditory
+Compat, cf=radiant-gear | Radiant Gear
+Compat, cf=gravestone-x-curios-api-compat | Gravestone x Curios API Compat
 Compat, cf=macaws-biomes-o-plenty | Macaw's Biomes O' Plenty
 Compat, cf=polymorph | Polymorph
 Compat, cf=every-compat | Every Compat (Wood Good)
 Compat, cf=compat-o-plenty | Compat O'Plenty
 Compat, cf=almost-unified | Almost Unified
+Configuration, cf=morejs | MoreJS
+Configuration, cf=powerfuljs | PowerfulJS
 Configuration, cf=kubejs | KubeJS
 Configuration, cf=kubejs-botany-pots | KubeJS Botany Pots
+Configuration, cf=entityjs | EntityJS
 Configuration, cf=carbon-config | Carbon Config
 Cosmetic, cf=sooty-chimneys | Sooty Chimneys
 Cosmetic, cf=project-red-illumination | Project Red - Illumination
@@ -117,6 +122,7 @@ Tech, cf=eu-converter | EU Converter
 Tech, mr=ae2 | Applied Energistics 2
 Tech, cf=advanced-solars-classic | Advanced Solars Classic
 Tech, cf=additional-enchanted-miner | Additional Enchanted Miner
+Tool/Equipment, cf=curious-lanterns | Curious Lanterns
 Tool/Equipment, cf=undergarden-tetra-patch | Undergarden-Tetra Patch
 Tool/Equipment, cf=tetranomicon | Tetranomicon
 Tool/Equipment, cf=tetra | Tetra

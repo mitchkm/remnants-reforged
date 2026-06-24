@@ -429,6 +429,14 @@
     "curseForgeHash": 1828044926,
     "modrinthHash": "a55e17db774bd5ab957966a09b42297ceafc70e1"
   },
+  "curiouslanterns-1.19.2-1.3.7.jar": {
+    "jarName": "curiouslanterns-1.19.2-1.3.7.jar",
+    "modId": "curiouslanterns",
+    "name": "Curious Lanterns",
+    "version": "1.19.2-1.3.7",
+    "curseForgeHash": 2204598716,
+    "modrinthHash": "c3fc37ef202b79f7e669dc0aac99850c7cd18819"
+  },
   "cyanide-forge-1.19.2-3.0.1.jar": {
     "jarName": "cyanide-forge-1.19.2-3.0.1.jar",
     "modId": "cyanide",
@@ -692,6 +700,14 @@
     "version": "1.19.2-1.0.24",
     "curseForgeHash": 233121506,
     "modrinthHash": "515df2968e496994e06ea49aaced1351466a25ae"
+  },
+  "gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar": {
+    "jarName": "gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar",
+    "modId": "gravestonecurioscompat",
+    "name": "gravestonecurioscompat",
+    "version": "2.1.0",
+    "curseForgeHash": 403324597,
+    "modrinthHash": "69f37bf7791b0609d35792b011eae6a07efad6bc"
   },
   "Haybale-forge-1.19.2-0.4.2-beta-fixed.jar": {
     "jarName": "Haybale-forge-1.19.2-0.4.2-beta-fixed.jar",
@@ -1140,6 +1156,14 @@
     "version": "1.3.1",
     "curseForgeHash": 119379542,
     "modrinthHash": "083f9ab6c87647192ab482f11f0dc1723c026319"
+  },
+  "radiantgear-forge-2.0.4+1.19.2.jar": {
+    "jarName": "radiantgear-forge-2.0.4+1.19.2.jar",
+    "modId": "radiantgear",
+    "name": "Radiant Gear",
+    "version": "2.0.4+1.19.2",
+    "curseForgeHash": 722614469,
+    "modrinthHash": "cc5c6189428b820c7bca229119d45f078d92ca5d"
   },
   "rhino-forge-1902.2.3-build.284.jar": {
     "jarName": "rhino-forge-1902.2.3-build.284.jar",
