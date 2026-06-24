@@ -53,21 +53,21 @@
     "curseForgeHash": 2157574531,
     "modrinthHash": "935d52c587bc0d0cf62917a5c01fae3a104c5dac"
   },
-  "aether-1.19.2-1.4.2-forge.jar": {
-    "jarName": "aether-1.19.2-1.4.2-forge.jar",
+  "aether-1.19.2-1.5.1-forge.jar": {
+    "jarName": "aether-1.19.2-1.5.1-forge.jar",
     "modId": "aether",
     "name": "The Aether",
-    "version": "1.19.2-1.4.2-forge",
-    "curseForgeHash": 3753512753,
-    "modrinthHash": "faa1b5a28b938b33b5fcf7acc4b036edf5db4e4a"
+    "version": "1.19.2-1.5.1-forge",
+    "curseForgeHash": 3329428469,
+    "modrinthHash": "91ac77d8203a6dd95fb5c0c76e7b13b9a55fe391"
   },
-  "aether-redux-2.0.17-1.19.2-forge.jar": {
-    "jarName": "aether-redux-2.0.17-1.19.2-forge.jar",
+  "aether-redux-2.0.19-1.19.2-forge-custom.jar": {
+    "jarName": "aether-redux-2.0.19-1.19.2-forge-custom.jar",
     "modId": "aether_redux",
     "name": "The Aether: Redux",
-    "version": "2.0.17",
-    "curseForgeHash": 985412127,
-    "modrinthHash": "ea5216772ed4869a14c63691e0842dd2a478e103"
+    "version": "2.0.19",
+    "curseForgeHash": 875284696,
+    "modrinthHash": "0b62cdcc6f8fa5c10048b1c8df37f13ca2612432"
   },
   "aether_delight_1.0.0_forge_1.19.2.jar": {
     "jarName": "aether_delight_1.0.0_forge_1.19.2.jar",

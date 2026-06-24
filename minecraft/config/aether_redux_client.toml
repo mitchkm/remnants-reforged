@@ -23,10 +23,20 @@
 		"Phyg Model Upgrade" = true
 		#Gives the Flying Cow's model some touchups and improvements
 		"Flying Cow Model Upgrade" = true
+		#Gives Whirlwinds a new design, based on Minecraft 1.21's new Breeze mob
+		"Improved Whirlwinds" = true
 
 	[Rendering.GUI]
-		#Cycles between Redux's menus.
-		"Cycle Menu" = true
+
+		[Rendering.GUI.Menu]
+			#Current folder used for the menu panorama
+			"Menu Directory" = "skyfields"
+			#Which menu panorama directories to cycle between. Make empty to disable cycling logic
+			"Menu Choices" = ["skyfields", "dungeon", "blight", "cloudcaps", "gilded"]
+			#Randomize menu panorama ranther than cycling in order.
+			"Randomize Menu Cycling" = false
+			#Center the mod's logo in the menu
+			"Center Aether: Redux Logo" = true
 
 	[Rendering.Particles]
 		#Improves the leaf particles for Golden Oaks, Gilded Oaks, and Crystal Trees, based on Minecraft 1.20's new cherry tree particles.
@@ -41,10 +51,6 @@
 	"Mimic Slam Sound Effect" = true
 	#Adds some nice night tracks to the Aether's music selection. Also disables the default music manager for the Aether, to prevent overlap
 	"Nighttime music tracks" = true
-	#Gives Blue and Gold (when the config is enabled) Aerclouds some nice sounds for their abilities
-	"Aercloud Ability Sounds" = true
-	#Gives Aether Portals their sounds from the Aether II
-	"Aether II Portal Sounds" = true
 
 [Internal]
 	#Internal value to do menu changes. Set this to false in modpacks if you want to use your own menu.
@@ -52,5 +58,5 @@
 	#Internal value to change an Aether config, giving a nicer lightmap in the dimension.
 	"First Startup - Lightmap Change" = false
 	#Value used to track the version of the Aether: Redux most recently used.
-	"Version ID" = "2.0.17"
+	"Version ID" = "2.0.19"
 

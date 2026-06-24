@@ -10028,32 +10028,10 @@
                 "curseforge": "255308",
                 "modrinth": "YhmgMVyu"
             },
-            "update_strategy": "NONE",
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "aether-1.19.2-1.4.2-forge.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5302/176/aether-1.19.2-1.4.2-forge.jar",
-                    "id": "5302176",
-                    "parent_id": "255308",
-                    "hashes": {
-                        "sha1": "cb11e3d83c1d1357b1505d112f401fdcb29de667",
-                        "md5": "af7fd879abd2974fe3b1f64902b7842f"
-                    },
-                    "required_dependencies": [],
-                    "size": 23258002,
-                    "date_published": "2024-04-29T21:22:05.857Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "aether-1.19.2-1.4.2-forge.jar",
+                    "file_name": "aether-1.19.2-1.5.1-forge.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -10061,73 +10039,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/h8VKO9w6/aether-1.19.2-1.4.2-forge.jar",
-                    "id": "h8VKO9w6",
+                    "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/2w4abCet/aether-1.19.2-1.5.1-forge.jar",
+                    "id": "2w4abCet",
                     "parent_id": "YhmgMVyu",
                     "hashes": {
-                        "sha512": "a278e4c288a613f19ab208318a831d2a91e2449cb18ed54234aef66c126c79a2740e2b125fd18551ae623b2930e8cef1b60baa5bb5d6b80cf1c2a0017c9a5cbf",
-                        "sha1": "faa1b5a28b938b33b5fcf7acc4b036edf5db4e4a"
+                        "sha512": "7ffd51a21bd9a981fb43f11fdeee7cdb5bc8b8e21593aab9efc5598514d6a86c5de107faa561695b64dae6763020b116aadfaf691e55baf918b320367447aee5",
+                        "sha1": "91ac77d8203a6dd95fb5c0c76e7b13b9a55fe391"
                     },
                     "required_dependencies": [],
-                    "size": 23258002,
-                    "date_published": "2024-04-29T21:21:54.820441Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "A6Ja49q92RlIDIQm",
-            "pakku_links": [
-                "6ZvGne6eshJBoVFK",
-                "3Oz96Ibhk7rBgs5a",
-                "TdVMM0gye3g6sjYW",
-                "xLC6HbIpuaw8nEVi",
-                "ARkL78ZNA8hF2RPV",
-                "nblYdqHouchY7fxM"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "aether-redux",
-                "modrinth": "the-aether-redux"
-            },
-            "name": {
-                "curseforge": "The Aether: Redux",
-                "modrinth": "The Aether: Redux"
-            },
-            "id": {
-                "curseforge": "867237",
-                "modrinth": "khv3WzAS"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "aether-redux-2.0.17-1.19.2-forge.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5541/738/aether-redux-2.0.17-1.19.2-forge.jar",
-                    "id": "5541738",
-                    "parent_id": "867237",
-                    "hashes": {
-                        "sha1": "ea5216772ed4869a14c63691e0842dd2a478e103",
-                        "md5": "ff1804858345f98bec821f7dc57113f0"
-                    },
-                    "required_dependencies": [
-                        "563928",
-                        "879879",
-                        "255308",
-                        "388172"
-                    ],
-                    "size": 41310074,
-                    "date_published": "2024-07-18T00:32:11.297Z"
+                    "size": 39489162,
+                    "date_published": "2024-11-09T23:43:40.295788Z"
                 },
                 {
-                    "type": "modrinth",
-                    "file_name": "aether-redux-2.0.17-1.19.2-forge.jar",
+                    "type": "curseforge",
+                    "file_name": "aether-1.19.2-1.5.1-forge.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -10135,20 +10060,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/khv3WzAS/versions/ymZSKwbH/aether-redux-2.0.17-1.19.2-forge.jar",
-                    "id": "ymZSKwbH",
-                    "parent_id": "khv3WzAS",
+                    "url": "https://edge.forgecdn.net/files/5889/508/aether-1.19.2-1.5.1-forge.jar",
+                    "id": "5889508",
+                    "parent_id": "255308",
                     "hashes": {
-                        "sha512": "d40d749b3608eadb0164471ee5f98a764e9ab6350f0dab012549330da85c84687fcc07317341a321a3a6e82501f2175e5fdf91ddd9e6872175e68a60ba1251c5",
-                        "sha1": "ea5216772ed4869a14c63691e0842dd2a478e103"
+                        "sha1": "976d6aad71c5d257b34252408c7cd6071034008e",
+                        "md5": "2467004b3d5f79459f74adc4d43f7e77"
                     },
-                    "required_dependencies": [
-                        "8BmcQJ2H",
-                        "1eaq94ok",
-                        "YhmgMVyu"
-                    ],
-                    "size": 41310074,
-                    "date_published": "2024-07-18T00:34:16.639398Z"
+                    "required_dependencies": [],
+                    "size": 39489162,
+                    "date_published": "2024-11-09T23:44:03.190Z"
                 }
             ]
         },

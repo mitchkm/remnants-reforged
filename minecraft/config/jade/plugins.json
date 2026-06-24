@@ -46,6 +46,9 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "aether_redux": {
+    "logicator": true
+  },
   "strawgolem": {
     "strawgolem_barrel": true,
     "strawgolem_decay": true,

@@ -22,8 +22,6 @@
 		"Enderman Spawns" = false
 		#Allows Vanilla Swets to spawn in the Aether
 		"Vanilla Swet Spawns" = true
-		#Allows Dark Swets to spawn in the Aether
-		"Dark Swet Spawns" = true
 
 	["Gameplay Changes"."Existing Content Alterations"]
 		#Nerfs Gummy Swets, but also makes them craftable. Note: Requires the Aether's Gummy Swet Healing config to be false to properly nerf the hunger effect. Requires datapack reload.
@@ -37,10 +35,6 @@
 		"Gravitite Ingots" = true
 		#Makes Light Dungeon stones use better recipes
 		"Better Light Dungeon Stone Recipes" = true
-		#Changes Gold Aercloud behavior to launch entities downwards
-		"Gold Aerclouds launch entities downwards" = true
-		#Changes Gold Parachute behavior cause rapid descension, and to have only one durability
-		"Gold Parachutes push the user downwards" = false
 
 	["Gameplay Changes".Additions]
 		#Use Raw ores for different Aether metals.
@@ -49,18 +43,18 @@
 	["Gameplay Changes".Misc]
 		#Changes the hitboxes of vanilla double plants. Disable if it causes odd behavior.
 		"Change Double Plant Hitboxes" = true
-		#Makes blockstate conversion sounds (ambrosium, swet ball) better
-		"Better Conversion Sounds" = true
+		#Gives blockstate conversion recipes (ambrosium, swet ball) alternate sounds
+		"Alternate Conversion Sounds" = false
 
 [Worldgen]
+	#Uses an alternative island noise for the Aether. By default, this is disabled with the Ancient Aether mod installed.
+	"Redux Noise" = true
 
 	[Worldgen."Additional Features"]
 		#Enables Mossy Holystone as an ore. Configurable so that if you disable it, it's easier to tell if you've come across a dungeon.
 		"Mossy Holystone Ores" = true
 		#Enables Enchanted/Gilded vines on trees
 		"Enable Enchanted and Gilded Vines" = true
-		#Enables roots made of logs and log walls on the sides of Large Cloudcap mushrooms and Blightwillow trees.
-		"Wall Roots on Blightwillows and Large Cloudcaps" = true
 		#Uses the legacy design for the gilded groves, instead of the new one added in 2.0.17 that is an inbetween of 2.0 and 2.1's designs
 		"Legacy Gilded Groves Design" = false
 
@@ -73,15 +67,6 @@
 			#Maximum value for the cloud layer's noise threshold
 			#Range: -4.0 ~ 4.0
 			"Cloud Layer Threshold Max" = 1.0
-
-	[Worldgen.Dungeon]
-		#Adds dungeon mobs from the Aether: Genesis to the spawners added to the Bronze Dungeon if it is installed
-		#Allowed Values: sentry_only, all, no_golems
-		"Genesis Mobs in Spawners" = "all"
-		#Upgrades the Bronze Dungeon structure with new blocks and more depth
-		"Bronze Dungeon Upgrade" = true
-		#Replaces chests in the dungeons with Skyroot Chests. Does not do anything when Ascended Quark is installed.
-		"Skyroot Dungeon Chests" = true
 
 	[Worldgen.Biomes]
 		#When enabled, any biome value config changes will be reset. It is recommended that you disable this if you want to keep any custom biome parameters you may have set.
@@ -106,6 +91,13 @@
 		"Enable Skyroot Shrublands" = true
 		#Uses Enchanted Aether Grass for the ground in the Gilded Groves. May require a Minecraft restart.
 		"Enchanted Gilded Grass" = true
+
+	[Worldgen."Bronze Dungeon"]
+		#Adds dungeon mobs from the Aether: Genesis to the spawners added to the Bronze Dungeon if it is installed
+		#Allowed Values: sentry_only, all, no_golems
+		"Genesis Mobs in Spawners" = "all"
+		#Upgrades the Bronze Dungeon structure with new blocks and more depth
+		"Bronze Dungeon Upgrade" = true
 
 [Internal]
 	#Internal value, used to decide if the Aeroblender configs should be changed

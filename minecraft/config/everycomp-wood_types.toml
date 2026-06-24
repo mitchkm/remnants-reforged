@@ -58,6 +58,7 @@
 			purple_glacia = true
 			gilded_oak = true
 			blighted_skyroot = true
+			fieldsproot = true
 
 		[types.leaves_type.forbidden_arcanus]
 			cherry = true
