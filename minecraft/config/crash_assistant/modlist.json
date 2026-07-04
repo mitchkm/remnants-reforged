@@ -21,13 +21,13 @@
     "curseForgeHash": 2030542060,
     "modrinthHash": "f0791c95469a625f6e0a309a5be1fca43ed2c8ae"
   },
-  "addonslib-forge-1.19-1.9.jar": {
-    "jarName": "addonslib-forge-1.19-1.9.jar",
+  "addonslib-forge-1.19-1.10.jar": {
+    "jarName": "addonslib-forge-1.19-1.10.jar",
     "modId": "addonslib",
     "name": "AddonsLib",
-    "version": "1.19-1.9",
-    "curseForgeHash": 559600332,
-    "modrinthHash": "5b3ec28b5ff8eeb83e382b5701f0a7e950df329e"
+    "version": "1.19-1.10",
+    "curseForgeHash": 1338439871,
+    "modrinthHash": "542ebc66e16c0d5d2b549ee2c63267e5068c0c37"
   },
   "advancedsolars-2.1.2.jar": {
     "jarName": "advancedsolars-2.1.2.jar",
