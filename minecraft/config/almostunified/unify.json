@@ -80,9 +80,6 @@
   "priorityOverrides": {},
   "customTags": {},
   "tagOwnerships": {
-    "forge:raw_materials": [
-      "forge:raw_ores"
-    ],
     "forge:raw_materials/silver": [
       "forge:raw_ores/silver"
     ]
