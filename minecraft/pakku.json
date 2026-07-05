@@ -5,6 +5,7 @@
     "author": "Mitch",
     "overrides": [
         "config",
+        "!config/almostunified/debug.json",
         "!config/**client.{toml,json}",
         "config/defaultoptions/**",
         "defaultconfigs"
