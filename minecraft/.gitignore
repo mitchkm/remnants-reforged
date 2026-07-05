@@ -60,6 +60,8 @@ config/xaeropatreon.txt
 
 # Pakku
 !.pakku/
+!.pakku/**
+.pakku/overrides/mods/
 !pakku.json
 !pakku-lock.json
 
