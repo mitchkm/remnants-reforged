@@ -10638,6 +10638,70 @@
             ]
         },
         {
+            "pakku_id": "ZE9s2oOXNI3I1t2B",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "world-stripper",
+                "modrinth": "world-stripper"
+            },
+            "name": {
+                "curseforge": "World Stripper",
+                "modrinth": "World Stripper"
+            },
+            "id": {
+                "curseforge": "250603",
+                "modrinth": "4jjTCjk3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "World Stripper-1.19.2-3.2.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3921/630/World Stripper-1.19.2-3.2.2.jar",
+                    "id": "3921630",
+                    "parent_id": "250603",
+                    "hashes": {
+                        "sha1": "7a336accbe04de6aa97cb979bfc79f245f91b3b4",
+                        "md5": "65839f326bf9b8093e4709f9d13ba147"
+                    },
+                    "required_dependencies": [],
+                    "size": 78630,
+                    "date_published": "2022-08-06T18:38:32.147Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "World+Stripper-1.19.2-3.2.2-Forge.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4jjTCjk3/versions/eSydc3Td/World+Stripper-1.19.2-3.2.2-Forge.jar",
+                    "id": "eSydc3Td",
+                    "parent_id": "4jjTCjk3",
+                    "hashes": {
+                        "sha512": "f32a92849b40b9e6841fb1a7f904fe7122b00c238701540c000b9f2cb3b40d4dfb9625bcc0b2ad41a0854dd2e862c9a2a0fd70f408e3bed69ae7fa038c7517ca",
+                        "sha1": "7a336accbe04de6aa97cb979bfc79f245f91b3b4"
+                    },
+                    "required_dependencies": [],
+                    "size": 78630,
+                    "date_published": "2023-01-10T22:54:03.944154Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nAvsdC9gtrtSNEqb",
             "type": "MOD",
             "side": "CLIENT",

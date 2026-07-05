@@ -25,6 +25,9 @@
         "betterf3": {
             "export": false
         },
+        "world-stripper": {
+            "export": false
+        },
         "spark": {
             "side": "SERVER"
         }

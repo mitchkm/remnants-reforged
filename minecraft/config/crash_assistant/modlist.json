@@ -1466,6 +1466,14 @@
     "curseForgeHash": 1839465396,
     "modrinthHash": "9245c14a76063eda55f0e57c6f3cc9b603e98033"
   },
+  "World+Stripper-1.19.2-3.2.2-Forge.jar": {
+    "jarName": "World+Stripper-1.19.2-3.2.2-Forge.jar",
+    "modId": "worldstripper",
+    "name": "World Stripper",
+    "version": "3.2.2",
+    "curseForgeHash": 2969536928,
+    "modrinthHash": "7a336accbe04de6aa97cb979bfc79f245f91b3b4"
+  },
   "xaerominimap-forge-1.19.2-26.1.0.jar": {
     "jarName": "xaerominimap-forge-1.19.2-26.1.0.jar",
     "modId": "xaerominimap",
