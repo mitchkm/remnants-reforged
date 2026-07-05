@@ -1159,19 +1159,45 @@
             ]
         },
         {
-            "pakku_id": "Jjf5NGGFo73hZ1K1",
+            "pakku_id": "NQLbRQ99KblSHwtp",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "balm",
                 "modrinth": "balm"
             },
             "name": {
+                "curseforge": "Balm",
                 "modrinth": "Balm"
             },
             "id": {
+                "curseforge": "531761",
                 "modrinth": "MBAkmtvl"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-forge-1.19.2-4.6.0.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4751/735/balm-forge-1.19.2-4.6.0.jar",
+                    "id": "4751735",
+                    "parent_id": "531761",
+                    "hashes": {
+                        "sha1": "26e05173447e692783eb6a92197f6bf45d894e54",
+                        "md5": "009bdfde01e742c98cfe71babbd58fce"
+                    },
+                    "required_dependencies": [],
+                    "size": 314084,
+                    "date_published": "2023-09-14T10:22:26.567Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "balm-forge-1.19.2-4.6.0.jar",
@@ -2801,7 +2827,8 @@
         {
             "pakku_id": "bx3lbsJFNlb9sU9c",
             "pakku_links": [
-                "Jjf5NGGFo73hZ1K1"
+                "Jjf5NGGFo73hZ1K1",
+                "NQLbRQ99KblSHwtp"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3507,19 +3534,50 @@
             ]
         },
         {
-            "pakku_id": "0gHOKrKZjXB6Mtvr",
+            "pakku_id": "3LIXIDdpg6TjB9z4",
+            "pakku_links": [
+                "NQLbRQ99KblSHwtp"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "default-options",
                 "modrinth": "default-options"
             },
             "name": {
+                "curseforge": "Default Options",
                 "modrinth": "Default Options"
             },
             "id": {
+                "curseforge": "232131",
                 "modrinth": "WEg59z5b"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "defaultoptions-forge-1.19-15.0.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4635/884/defaultoptions-forge-1.19-15.0.2.jar",
+                    "id": "4635884",
+                    "parent_id": "232131",
+                    "hashes": {
+                        "sha1": "69fedd91a933f44aba106a94a71023e6940f310e",
+                        "md5": "116f5bdcb8d15d3c1259332b4e883882"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 86980,
+                    "date_published": "2023-07-10T20:45:24.327Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "defaultoptions-forge-1.19-15.0.2.jar",
@@ -5168,19 +5226,43 @@
             ]
         },
         {
-            "pakku_id": "07CRxzaQhMxZ8Szu",
+            "pakku_id": "5cpCiEgkRUwsj3DG",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "gravestone-mod",
                 "modrinth": "gravestone-mod"
             },
             "name": {
+                "curseforge": "GraveStone Mod",
                 "modrinth": "GraveStone Mod"
             },
             "id": {
+                "curseforge": "238551",
                 "modrinth": "RYtXKJPr"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gravestone-forge-1.19.2-1.0.24.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5794/77/gravestone-forge-1.19.2-1.0.24.jar",
+                    "id": "5794077",
+                    "parent_id": "238551",
+                    "hashes": {
+                        "sha1": "de3f1135c252cac322c8e115628044e4b30270db",
+                        "md5": "ded78e981e67cff3e4371ad17bda288f"
+                    },
+                    "required_dependencies": [],
+                    "size": 314755,
+                    "date_published": "2024-10-08T09:26:50.623Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "gravestone-forge-1.19.2-1.0.24.jar",
@@ -5208,7 +5290,8 @@
             "pakku_id": "0oIfhZ5aSzyfRWck",
             "pakku_links": [
                 "ubIKP3OQlixp5fZy",
-                "07CRxzaQhMxZ8Szu"
+                "07CRxzaQhMxZ8Szu",
+                "5cpCiEgkRUwsj3DG"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -5759,7 +5842,8 @@
         {
             "pakku_id": "E58nedbaa8yRTYWo",
             "pakku_links": [
-                "Jjf5NGGFo73hZ1K1"
+                "Jjf5NGGFo73hZ1K1",
+                "NQLbRQ99KblSHwtp"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -7408,7 +7492,8 @@
         {
             "pakku_id": "9YE24WMcZuQSlHR2",
             "pakku_links": [
-                "Jjf5NGGFo73hZ1K1"
+                "Jjf5NGGFo73hZ1K1",
+                "NQLbRQ99KblSHwtp"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -10597,19 +10682,50 @@
             ]
         },
         {
-            "pakku_id": "PQ4YZMr1zft7baBh",
+            "pakku_id": "cl4CWCxRa8rKFEQN",
+            "pakku_links": [
+                "NQLbRQ99KblSHwtp"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "waystones",
                 "modrinth": "waystones"
             },
             "name": {
+                "curseforge": "Waystones",
                 "modrinth": "Waystones"
             },
             "id": {
+                "curseforge": "245755",
                 "modrinth": "LOpKHB2A"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "waystones-forge-1.19.2-11.4.2.jar",
+                    "mc_versions": [
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4943/265/waystones-forge-1.19.2-11.4.2.jar",
+                    "id": "4943265",
+                    "parent_id": "245755",
+                    "hashes": {
+                        "sha1": "a11236a564f8e34e358b8b6207086d030abcc6bb",
+                        "md5": "978372373dda4c4840bad690a6585cf4"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 409113,
+                    "date_published": "2023-12-09T15:35:51.070Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "waystones-forge-1.19.2-11.4.2.jar",
@@ -10653,6 +10769,7 @@
                 "curseforge": "250603",
                 "modrinth": "4jjTCjk3"
             },
+            "export": false,
             "files": [
                 {
                     "type": "curseforge",
