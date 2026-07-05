@@ -1,12 +1,10 @@
 {
   "modPriorities": [
     "minecraft",
+    "remnants",
     "kubejs",
-    "crafttweaker",
-    "create",
-    "thermal",
-    "immersiveengineering",
-    "mekanism"
+    "ic2",
+    "projectred_exploration"
   ],
   "stoneStrata": [
     "stone",
@@ -81,7 +79,14 @@
   ],
   "priorityOverrides": {},
   "customTags": {},
-  "tagOwnerships": {},
+  "tagOwnerships": {
+    "forge:raw_materials": [
+      "forge:raw_ores"
+    ],
+    "forge:raw_materials/silver": [
+      "forge:raw_ores/silver"
+    ]
+  },
   "itemTagInheritanceMode": "ALLOW",
   "itemTagInheritance": {},
   "blockTagInheritanceMode": "ALLOW",
