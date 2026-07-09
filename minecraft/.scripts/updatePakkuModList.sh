@@ -6,6 +6,7 @@ filters=(
     "fps-monitor"
     "mcretector"
     "probejs"
+    "world-stripper"
     # libs
     "addonslib"
     "aeroblender"

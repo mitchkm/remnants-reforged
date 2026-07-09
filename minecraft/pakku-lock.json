@@ -6545,6 +6545,74 @@
             ]
         },
         {
+            "pakku_id": "uIGbvWjn0RQ2wozs",
+            "pakku_links": [
+                "gSaAankCCw3sHB3N"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "lootjs",
+                "modrinth": "lootjs"
+            },
+            "name": {
+                "curseforge": "LootJS: KubeJS Addon",
+                "modrinth": "LootJS: KubeJS Addon"
+            },
+            "id": {
+                "curseforge": "570630",
+                "modrinth": "fJFETWDN"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lootjs-forge-1.19.2-2.9.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4709/99/lootjs-forge-1.19.2-2.9.1.jar",
+                    "id": "4709099",
+                    "parent_id": "570630",
+                    "hashes": {
+                        "sha1": "73d4569729843e1838d15aa0d63f933318d76790",
+                        "md5": "5d5f461a03ec9bc34b9e0b1b676e354d"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 237091,
+                    "date_published": "2023-08-17T12:32:59.873Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lootjs-forge-1.19.2-2.9.1.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fJFETWDN/versions/1BTiNfZJ/lootjs-forge-1.19.2-2.9.1.jar",
+                    "id": "1BTiNfZJ",
+                    "parent_id": "fJFETWDN",
+                    "hashes": {
+                        "sha512": "613e702f057cffd60bb2566802d98818c7a9f3c5db901f3db326ffb5d6ff1afbd19aa66d77a285e73e15be2fd1b3d44c442270c195955ea9f5c8071f8b8a3000",
+                        "sha1": "73d4569729843e1838d15aa0d63f933318d76790"
+                    },
+                    "required_dependencies": [
+                        "umyGl7zF"
+                    ],
+                    "size": 237091,
+                    "date_published": "2023-08-17T12:32:59.321940Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5EWYRB0Q9ySHikSX",
             "type": "MOD",
             "side": "BOTH",

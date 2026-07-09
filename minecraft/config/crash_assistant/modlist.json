@@ -877,6 +877,14 @@
     "curseForgeHash": 147434653,
     "modrinthHash": "62f93b13244d7f69c79912261765657d98d4cb6c"
   },
+  "lootjs-forge-1.19.2-2.9.1.jar": {
+    "jarName": "lootjs-forge-1.19.2-2.9.1.jar",
+    "modId": "lootjs",
+    "name": "LootJS",
+    "version": "2.9.1",
+    "curseForgeHash": 3887243245,
+    "modrinthHash": "73d4569729843e1838d15aa0d63f933318d76790"
+  },
   "lootr-forge-1.19-0.4.29.76.jar": {
     "jarName": "lootr-forge-1.19-0.4.29.76.jar",
     "modId": "lootr",
