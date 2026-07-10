@@ -1,4 +1,3 @@
-//requires: sophisticatedbackpacks
 
 ServerEvents.tags('item', event => {
     // Move backpacks to curios:backpack slot
