@@ -30,7 +30,7 @@
   ],
   "materials": [
     "aeternium",
-    "aluminum",
+    "aluminium",
     "amber",
     "apatite",
     "bitumen",
@@ -82,6 +82,39 @@
   "tagOwnerships": {
     "forge:raw_materials/silver": [
       "forge:raw_ores/silver"
+    ],
+    "forge:nuggets/aluminium": [
+      "forge:nuggets/aluminum"
+    ],
+    "forge:dusts/aluminium": [
+      "forge:dusts/aluminum"
+    ],
+    "forge:gears/aluminium": [
+      "forge:gears/aluminum"
+    ],
+    "forge:ingots/aluminium": [
+      "forge:ingots/aluminum"
+    ],
+    "forge:raw_materials/aluminium": [
+      "forge:raw_materials/aluminum"
+    ],
+    "forge:ores/aluminium": [
+      "forge:ores/aluminum"
+    ],
+    "forge:plates/aluminium": [
+      "forge:plates/aluminum"
+    ],
+    "forge:rods/aluminium": [
+      "forge:rods/aluminum"
+    ],
+    "forge:wires/aluminium": [
+      "forge:wires/aluminum"
+    ],
+    "forge:storage_blocks/aluminium": [
+      "forge:storage_blocks/aluminum"
+    ],
+    "forge:storage_blocks/raw_aluminium": [
+      "forge:storage_blocks/raw_aluminum"
     ]
   },
   "itemTagInheritanceMode": "ALLOW",
