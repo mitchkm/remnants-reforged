@@ -2914,7 +2914,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
+                    "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
                     "mc_versions": [
                         "1.19",
                         "1.19.1",
@@ -2929,20 +2929,20 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/Nl7TL6nT/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
-                    "id": "Nl7TL6nT",
+                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/1UfKorj6/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+                    "id": "1UfKorj6",
                     "parent_id": "ix1qq8Ux",
                     "hashes": {
-                        "sha512": "7748ed84271a44f9a58528cb571ce9229b00762cbaa9daa012414af5ff1ed4df3f3a33dffcf68d4411d0f4414afa5d25d7fcb6bbc583b595a52ee66ad61f7ecc",
-                        "sha1": "b70324f326cffc2c01e4eee9bf48f808f92bda10"
+                        "sha512": "ec1e471ce72c5e920d110ef38ba6bb2d256fdca62e1a4edde1761021b394e40717943af53e64a57e332e1d2aea8fc8666d88bb8ca7bc624d526ecfc460535f3d",
+                        "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809"
                     },
                     "required_dependencies": [],
-                    "size": 3181623,
-                    "date_published": "2026-06-16T23:37:48.167610Z"
+                    "size": 3503813,
+                    "date_published": "2026-08-13T00:58:03.671722Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
+                    "file_name": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
                     "mc_versions": [
                         "1.19.3",
                         "1.19.4",
@@ -2955,16 +2955,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8262/170/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
-                    "id": "8262170",
+                    "url": "https://edge.forgecdn.net/files/8636/649/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+                    "id": "8636649",
                     "parent_id": "1154099",
                     "hashes": {
-                        "sha1": "b70324f326cffc2c01e4eee9bf48f808f92bda10",
-                        "md5": "32c9e89c2fecb46baabe76568158a6d7"
+                        "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
+                        "md5": "04c5948360f29f71eef2fc4628094c33"
                     },
                     "required_dependencies": [],
-                    "size": 3181623,
-                    "date_published": "2026-06-16T23:37:45.690Z"
+                    "size": 3503813,
+                    "date_published": "2026-08-13T00:58:05.147Z"
                 }
             ]
         },
@@ -3176,7 +3176,7 @@
                 "curseforge": "curios"
             },
             "name": {
-                "curseforge": "Curios API (Forge/NeoForge)"
+                "curseforge": "Curios API"
             },
             "id": {
                 "curseforge": "309927"
@@ -5464,33 +5464,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "IC2Classic-1.19.2-2.1.3.3.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8010/709/IC2Classic-1.19.2-2.1.3.3.jar",
-                    "id": "8010709",
-                    "parent_id": "242942",
-                    "hashes": {
-                        "sha1": "1ef1772d7e17c18a16898e953ffcb6945c5c7fec",
-                        "md5": "733381fa69d2f7fbad42e76ff49da507"
-                    },
-                    "required_dependencies": [
-                        "898104",
-                        "309927",
-                        "245211"
-                    ],
-                    "size": 16341024,
-                    "date_published": "2026-04-29T17:01:12.087Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "IC2Classic-1.19.2-2.1.3.3.jar",
+                    "file_name": "IC2Classic-1.19.2-2.1.3.4.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -5498,65 +5473,22 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nIaMQHTd/versions/2qiFT5Hw/IC2Classic-1.19.2-2.1.3.3.jar",
-                    "id": "2qiFT5Hw",
+                    "url": "https://cdn.modrinth.com/data/nIaMQHTd/versions/Qy5qeGTB/IC2Classic-1.19.2-2.1.3.4.jar",
+                    "id": "Qy5qeGTB",
                     "parent_id": "nIaMQHTd",
                     "hashes": {
-                        "sha512": "6ddb49ce8f1e0e2cd56834987bea8d4f6ddf9407a93d996dfdf6d691c999f3cf10d931ef8ac266db08aefd178b754b8615c6022a89d689cb048f0fd9719ede20",
-                        "sha1": "13600571d8a9a837e3e6c3db698f8f71fe7f1528"
+                        "sha512": "41f4881479c2285354ed405518303ce43cb47b85f5e61c0dbc3bb16dfc6207dcf2ea4781e1bb6371f7f5d4a11c3f3ed77acc137aa0f8b314c3a9984a387739be",
+                        "sha1": "eca901b694b5cdbccb25de7db45ea362be603c57"
                     },
                     "required_dependencies": [
                         "Eyw0UxEx"
                     ],
-                    "size": 16341025,
-                    "date_published": "2026-04-29T17:06:23.991182Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "XSfJGu6RZZcvmm7g",
-            "pakku_links": [
-                "ncY4dG6HiPBTOqlB"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "jade-addons-ic2classic",
-                "modrinth": "ic2cjadeaddon"
-            },
-            "name": {
-                "curseforge": "IC2Classic: Jade Addon ",
-                "modrinth": "IC2Classic: Jade Addon"
-            },
-            "id": {
-                "curseforge": "932859",
-                "modrinth": "3hKTUwBj"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "IC2CJadeAddon-1.19.2-2.0.5.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3hKTUwBj/versions/YbMGeBgQ/IC2CJadeAddon-1.19.2-2.0.5.jar",
-                    "id": "YbMGeBgQ",
-                    "parent_id": "3hKTUwBj",
-                    "hashes": {
-                        "sha512": "558ad843ae02adfc9b7dc382fca6caaf5ffc45ad12e5e901a9b514e54f3f068bbb4f1f387cef20e1af590aee1306317740d279721de093435c78fb8fc9f4cb6e",
-                        "sha1": "a113dd1a5344af286f89f8e0f6fa630449ba8617"
-                    },
-                    "required_dependencies": [],
-                    "size": 190593,
-                    "date_published": "2026-04-05T08:14:12.346994Z"
+                    "size": 16353491,
+                    "date_published": "2026-07-31T08:15:45.310733Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "IC2CJadeAddon-1.19.2-2.0.5.jar",
+                    "file_name": "IC2Classic-1.19.2-2.1.3.4.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -5564,19 +5496,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7702/501/IC2CJadeAddon-1.19.2-2.0.5.jar",
-                    "id": "7702501",
-                    "parent_id": "932859",
+                    "url": "https://edge.forgecdn.net/files/8545/995/IC2Classic-1.19.2-2.1.3.4.jar",
+                    "id": "8545995",
+                    "parent_id": "242942",
                     "hashes": {
-                        "sha1": "a113dd1a5344af286f89f8e0f6fa630449ba8617",
-                        "md5": "b6ea9439ba8d9d130c4a4b4e5642dba9"
+                        "sha1": "eca901b694b5cdbccb25de7db45ea362be603c57",
+                        "md5": "beb104c7ff3787d72afebe9bf8ea7ba1"
                     },
                     "required_dependencies": [
-                        "242942",
-                        "324717"
+                        "245211",
+                        "309927",
+                        "898104"
                     ],
-                    "size": 190593,
-                    "date_published": "2026-03-02T20:07:27.893Z"
+                    "size": 16353491,
+                    "date_published": "2026-07-31T08:15:33.103Z"
                 }
             ]
         },
@@ -5913,6 +5846,73 @@
             ]
         },
         {
+            "pakku_id": "XSfJGu6RZZcvmm7g",
+            "pakku_links": [
+                "ncY4dG6HiPBTOqlB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jade-addons-ic2classic",
+                "modrinth": "ic2cjadeaddon"
+            },
+            "name": {
+                "curseforge": "Jade Addons: IC2Classic",
+                "modrinth": "IC2Classic: Jade Addon"
+            },
+            "id": {
+                "curseforge": "932859",
+                "modrinth": "3hKTUwBj"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "IC2CJadeAddon-1.19.2-2.0.5.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3hKTUwBj/versions/YbMGeBgQ/IC2CJadeAddon-1.19.2-2.0.5.jar",
+                    "id": "YbMGeBgQ",
+                    "parent_id": "3hKTUwBj",
+                    "hashes": {
+                        "sha512": "558ad843ae02adfc9b7dc382fca6caaf5ffc45ad12e5e901a9b514e54f3f068bbb4f1f387cef20e1af590aee1306317740d279721de093435c78fb8fc9f4cb6e",
+                        "sha1": "a113dd1a5344af286f89f8e0f6fa630449ba8617"
+                    },
+                    "required_dependencies": [],
+                    "size": 190593,
+                    "date_published": "2026-04-05T08:14:12.346994Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ic2jadeplugin-1.19.2-2.0.6.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8600/498/ic2jadeplugin-1.19.2-2.0.6.jar",
+                    "id": "8600498",
+                    "parent_id": "932859",
+                    "hashes": {
+                        "sha1": "2259431011076ceac58438d84aa91b71e51f3120",
+                        "md5": "9723b6fa51f2abf4d8b941c1b219f88b"
+                    },
+                    "required_dependencies": [
+                        "242942",
+                        "324717"
+                    ],
+                    "size": 192157,
+                    "date_published": "2026-08-08T09:13:29.333Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ya8SdyMYGLNQmmUg",
             "type": "MOD",
             "side": "BOTH",
@@ -5995,7 +5995,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "jei-1.19.2-forge-11.8.1.1034.jar",
+                    "file_name": "jei-1.19.2-forge-11.63.0.1079.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -6003,20 +6003,20 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/LIkb8oaL/jei-1.19.2-forge-11.8.1.1034.jar",
-                    "id": "LIkb8oaL",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/AcXEJOmi/jei-1.19.2-forge-11.63.0.1079.jar",
+                    "id": "AcXEJOmi",
                     "parent_id": "u6dRKJwZ",
                     "hashes": {
-                        "sha512": "69318101ad0286d02f046b5b3e449c1490d37a6256b673132bdc5df577ccafad2cdc1c9d7b2be2f3d1fd0a16b25d6fe3c209b0085544aae58b4f8bd222ec1a5d",
-                        "sha1": "ede94c970271f169a89269cc3c10f88c22328052"
+                        "sha512": "de13e6a66ddef804f68ca5616841cc6a317ea33f80c364f699daf47cf85acb59d5e35913df27444e241e7d1ca78ab57cf22334171f643cb0af3c94c2ccc73ebb",
+                        "sha1": "43c3138749863e90c72f81ef80c4dfd2faa0008e"
                     },
                     "required_dependencies": [],
-                    "size": 1177872,
-                    "date_published": "2024-10-26T08:28:18.774393Z"
+                    "size": 1824307,
+                    "date_published": "2026-09-05T10:50:40.457724Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.19.2-forge-11.8.1.1034.jar",
+                    "file_name": "jei-1.19.2-forge-11.63.0.1079.jar",
                     "mc_versions": [
                         "1.19.2"
                     ],
@@ -6024,16 +6024,16 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5846/858/jei-1.19.2-forge-11.8.1.1034.jar",
-                    "id": "5846858",
+                    "url": "https://edge.forgecdn.net/files/8813/390/jei-1.19.2-forge-11.63.0.1079.jar",
+                    "id": "8813390",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "ede94c970271f169a89269cc3c10f88c22328052",
-                        "md5": "98d31def2ac964ae99575ccb329d8538"
+                        "sha1": "43c3138749863e90c72f81ef80c4dfd2faa0008e",
+                        "md5": "58a01595b062112ec75ecb0b6d48fd34"
                     },
                     "required_dependencies": [],
-                    "size": 1177872,
-                    "date_published": "2024-10-26T08:27:46.933Z"
+                    "size": 1824307,
+                    "date_published": "2026-09-05T10:50:31.733Z"
                 }
             ]
         },
@@ -10904,30 +10904,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "xaerominimap-forge-1.19.2-26.1.0.jar",
-                    "mc_versions": [
-                        "1.19.1",
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8231/194/xaerominimap-forge-1.19.2-26.1.0.jar",
-                    "id": "8231194",
-                    "parent_id": "263420",
-                    "hashes": {
-                        "sha1": "c5ca28382b87b5a3049e89b79b4ab8d3a632b68e",
-                        "md5": "a54966d26780bfcc869f24a93b23e126"
-                    },
-                    "required_dependencies": [],
-                    "size": 2124981,
-                    "date_published": "2026-06-11T11:12:57.903Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "xaerominimap-forge-1.19.2-26.1.0.jar",
+                    "file_name": "xaerominimap-forge-1.19.2-26.4.2.jar",
                     "mc_versions": [
                         "1.19.1",
                         "1.19.2"
@@ -10936,16 +10914,38 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/t0qPvgpA/xaerominimap-forge-1.19.2-26.1.0.jar",
-                    "id": "t0qPvgpA",
+                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/NdDo96fS/xaerominimap-forge-1.19.2-26.4.2.jar",
+                    "id": "NdDo96fS",
                     "parent_id": "1bokaNcj",
                     "hashes": {
-                        "sha512": "4e3d3695edbbe22466c1a4749c4994ebda5dcb7adc25ab8fa09dcce30d19f04c562f8f865cf87052504aee7f55a89bb88cfe53a943b07a25966744fd8632a443",
-                        "sha1": "c5ca28382b87b5a3049e89b79b4ab8d3a632b68e"
+                        "sha512": "41d9849d5d906912d93cd722e9237a163f298fc4215f8965ba6d2755ffce5403a62efec3b6cdb754966f65682bb03fe45b9e2e7fca28bce7c91021296c94075e",
+                        "sha1": "27c42aa0fd8bfc074df67fbc450f89a355d67943"
                     },
                     "required_dependencies": [],
-                    "size": 2124981,
-                    "date_published": "2026-06-11T11:32:50.653626Z"
+                    "size": 2172911,
+                    "date_published": "2026-07-17T08:49:02.481758Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "xaerominimap-forge-1.19.2-26.4.2.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8449/806/xaerominimap-forge-1.19.2-26.4.2.jar",
+                    "id": "8449806",
+                    "parent_id": "263420",
+                    "hashes": {
+                        "sha1": "27c42aa0fd8bfc074df67fbc450f89a355d67943",
+                        "md5": "59f9ee21ecd8057a49a3bfeea7122f76"
+                    },
+                    "required_dependencies": [],
+                    "size": 2172911,
+                    "date_published": "2026-07-17T08:09:08.997Z"
                 }
             ]
         },
@@ -10968,7 +10968,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.2.jar",
+                    "file_name": "xaeroworldmap-forge-1.19.2-1.45.0.jar",
                     "mc_versions": [
                         "1.19.1",
                         "1.19.2"
@@ -10977,20 +10977,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KnWKO6kP/xaeroworldmap-forge-1.19.2-1.41.2.jar",
-                    "id": "KnWKO6kP",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UYgfmqrN/xaeroworldmap-forge-1.19.2-1.45.0.jar",
+                    "id": "UYgfmqrN",
                     "parent_id": "NcUtCpym",
                     "hashes": {
-                        "sha512": "447002618be26d86490bcf3614d9df5fc130cf99e34c727e27df96862c09b5acbdcd1ecf3249f568c38c92be492a6f101d324d7579f5649ff867a641466fd79a",
-                        "sha1": "71db86168db6bd207351af0462213d15ee1e2b3d"
+                        "sha512": "bcb0c5907db4fcf5d18e108ecb167b9fde5a2f66d4a40f897799178c1b9b27a2a17d8817ca31f78f01d2951ebdf2c1784cc223a1ea8c2a28091a65921465b82a",
+                        "sha1": "1697462e6d0375d9533d7519e7c306d11277707f"
                     },
                     "required_dependencies": [],
-                    "size": 1369802,
-                    "date_published": "2026-06-22T08:09:37.158273Z"
+                    "size": 1404113,
+                    "date_published": "2026-08-21T12:02:49.281186Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "xaeroworldmap-forge-1.19.2-1.41.2.jar",
+                    "file_name": "xaeroworldmap-forge-1.19.2-1.45.0.jar",
                     "mc_versions": [
                         "1.19.1",
                         "1.19.2"
@@ -10999,16 +10999,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8298/681/xaeroworldmap-forge-1.19.2-1.41.2.jar",
-                    "id": "8298681",
+                    "url": "https://edge.forgecdn.net/files/8698/642/xaeroworldmap-forge-1.19.2-1.45.0.jar",
+                    "id": "8698642",
                     "parent_id": "317780",
                     "hashes": {
-                        "sha1": "71db86168db6bd207351af0462213d15ee1e2b3d",
-                        "md5": "efe2ae7bab5e6496b1ad99abd83e094b"
+                        "sha1": "1697462e6d0375d9533d7519e7c306d11277707f",
+                        "md5": "cb97daeea5922f447d1e6fd59484b809"
                     },
                     "required_dependencies": [],
-                    "size": 1369802,
-                    "date_published": "2026-06-22T07:37:27.533Z"
+                    "size": 1404113,
+                    "date_published": "2026-08-21T11:45:50.247Z"
                 }
             ]
         },

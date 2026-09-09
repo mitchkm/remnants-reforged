@@ -71,6 +71,7 @@
     "renderer": true,
     "remove_modid": true,
     "force_top_style": true,
+    "show_wiki": true,
     "wrenchable_info": true
   },
   "waystones": {

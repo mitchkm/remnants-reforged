@@ -1,0 +1,4 @@
+#Milliseconds to wait before updating HUD info from the server
+#Range: 1 ~ 100000
+updateRate = 250
+
