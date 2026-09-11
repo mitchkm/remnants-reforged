@@ -1,4 +1,4 @@
-//priority:800
+//priority:700
 
 // Modify ore loot tables to always return unified raw material item.
 LootJS.modifiers(event => {
