@@ -1,5 +1,20 @@
 {
     "remove": [
-        
+        "projectred_exploration:white_backpack",
+        "projectred_exploration:orange_backpack",
+        "projectred_exploration:magenta_backpack",
+        "projectred_exploration:light_blue_backpack",
+        "projectred_exploration:yellow_backpack",
+        "projectred_exploration:lime_backpack",
+        "projectred_exploration:pink_backpack",
+        "projectred_exploration:gray_backpack",
+        "projectred_exploration:light_gray_backpack",
+        "projectred_exploration:cyan_backpack",
+        "projectred_exploration:purple_backpack",
+        "projectred_exploration:blue_backpack",
+        "projectred_exploration:brown_backpack",
+        "projectred_exploration:green_backpack",
+        "projectred_exploration:red_backpack",
+        "projectred_exploration:black_backpack"
     ]
 }
