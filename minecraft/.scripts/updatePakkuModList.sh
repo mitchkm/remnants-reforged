@@ -11,6 +11,7 @@ filters=(
     "addonslib"
     "aeroblender"
     "architectury-api"
+    "autoreglib"
     "balm"
     "blueprint"
     "bookshelf"

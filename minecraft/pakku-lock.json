@@ -1123,6 +1123,67 @@
             ]
         },
         {
+            "pakku_id": "0Kyb08jILBDjVAu3",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "autoreglib",
+                "modrinth": "autoreglib"
+            },
+            "name": {
+                "curseforge": "AutoRegLib",
+                "modrinth": "AutoRegLib"
+            },
+            "id": {
+                "curseforge": "250363",
+                "modrinth": "NvZ9ZhwE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AutoRegLib-1.8.2-55.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4100/299/AutoRegLib-1.8.2-55.jar",
+                    "id": "4100299",
+                    "parent_id": "250363",
+                    "hashes": {
+                        "sha1": "342cac5511fe7009a260bc0a25fee777179ba530",
+                        "md5": "8d0cfc46ea0c7334ff511eff2bb3e9ce"
+                    },
+                    "required_dependencies": [],
+                    "size": 45741,
+                    "date_published": "2022-11-20T13:29:02.113Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AutoRegLib-1.8.2-55.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NvZ9ZhwE/versions/pwEa2yJ2/AutoRegLib-1.8.2-55.jar",
+                    "id": "pwEa2yJ2",
+                    "parent_id": "NvZ9ZhwE",
+                    "hashes": {
+                        "sha512": "3673c1b43dfc666ad5ee276d7f4653642111c3b0f75d084666fdaa1c860b6edf9e9e907763b507dab679f7022acd5a7125be4031a7e9e7e486ef1a4d9b0ad0b2",
+                        "sha1": "342cac5511fe7009a260bc0a25fee777179ba530"
+                    },
+                    "required_dependencies": [],
+                    "size": 45741,
+                    "date_published": "2022-11-20T13:29:35.443398Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xL6wStNX9LTe0532",
             "type": "MOD",
             "slug": {
@@ -9011,6 +9072,74 @@
                     "required_dependencies": [],
                     "size": 395272,
                     "date_published": "2023-06-21T12:00:47.576724Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DuqKdqr6iyoPi7yP",
+            "pakku_links": [
+                "0Kyb08jILBDjVAu3"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "quark",
+                "modrinth": "quark"
+            },
+            "name": {
+                "curseforge": "Quark",
+                "modrinth": "Quark"
+            },
+            "id": {
+                "curseforge": "243121",
+                "modrinth": "qnQsVE2z"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Quark-3.4-418.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4812/6/Quark-3.4-418.jar",
+                    "id": "4812006",
+                    "parent_id": "243121",
+                    "hashes": {
+                        "sha1": "3d4bf7bf166b3f30f74100e91d6760fbd93e660f",
+                        "md5": "3cac1bb0a53b47bd7dec351b6d675de7"
+                    },
+                    "required_dependencies": [
+                        "250363"
+                    ],
+                    "size": 15024651,
+                    "date_published": "2023-10-22T22:46:32.140Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Quark-3.4-418.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8po5DGR8/Quark-3.4-418.jar",
+                    "id": "8po5DGR8",
+                    "parent_id": "qnQsVE2z",
+                    "hashes": {
+                        "sha512": "716a0b27b62c8870aceb11ef3c5a44d479d700b14163e6f5e52d3e4d380659e49d07971d4502f68f20fc0477cb5bb94f69abab0ca862b6952d9e58985b7ca953",
+                        "sha1": "3d4bf7bf166b3f30f74100e91d6760fbd93e660f"
+                    },
+                    "required_dependencies": [
+                        "NvZ9ZhwE"
+                    ],
+                    "size": 15024651,
+                    "date_published": "2023-10-22T22:46:30.469397Z"
                 }
             ]
         },
