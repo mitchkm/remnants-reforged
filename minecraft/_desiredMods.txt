@@ -1,4 +1,4 @@
-# Mod List: 177
+# Mod List: 176
 All-In-One, cf=quark | Quark
 Audio, cf=extrasounds-forge | Extrasounds
 Audio, cf=bad-wither-no-cookie-reloaded | Bad Wither No Cookie - Reloaded
@@ -138,7 +138,6 @@ Tool/Equipment, cf=aetheric-tetranomicon | Aetheric Tetranomicon
 Tooltip, cf=equipment-compare | Equipment Compare
 Tooltip, cf=enchantment-descriptions | Enchantment Descriptions
 Tooltip, cf=durability-tooltip | Durability Tooltip
-UI/UX, mr=stack-refill | Stack Refill
 UI/UX, cf=mouse-tweaks | Mouse Tweaks
 UI/UX, cf=inventory-essentials | Inventory Essentials
 UI/UX, cf=crafting-tweaks | Crafting Tweaks
