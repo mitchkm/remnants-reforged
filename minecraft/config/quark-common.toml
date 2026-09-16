@@ -1,12 +1,12 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
-	"Disable Q Menu Effects" = false
+	"Disable Q Menu Effects" = true
 	#Disable this to turn off the quark system that makes features turn off when specified mods with the same content are loaded
 	"Use Anti Overlap" = true
 	#Quark replaces the Piston logic to allow for its piston features to work. If you're having troubles, try turning this off.
-	"Use Piston Logic Replacement" = true
+	"Use Piston Logic Replacement" = false
 	#Allowed values: (0,)
 	"Piston Push Limit" = 12
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -33,9 +33,9 @@
 	#Set to false to stop quark from adding its own items to multi-requirement vanilla advancements
 	"Enable Advancement Modification" = true
 	#Set to false to stop quark from adding its own advancements
-	"Enable Quark Advancements" = true
+	"Enable Quark Advancements" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#Set to false to disable the behavior where quark will automatically hide any disabled items
 	"Hide Disabled Content" = true
 	#Set to false to disable Quark's item info when viewing recipe/uses for an item in JEI
@@ -52,22 +52,22 @@
 	World = true
 	Mobs = true
 	Client = true
-	Experimental = true
-	Oddities = true
+	Experimental = false
+	Oddities = false
 
 [automation]
-	"Pistons Move Tile Entities" = true
-	"Ender Watcher" = true
+	"Pistons Move Tile Entities" = false
+	"Ender Watcher" = false
 	"Redstone Randomizer" = true
 	"Feeding Trough" = true
-	"Metal Buttons" = true
-	"Iron Rod" = true
+	"Metal Buttons" = false
+	"Iron Rod" = false
 	"Obsidian Plate" = true
-	"Chains Connect Blocks" = true
-	Gravisand = true
-	"Jukebox Automation" = true
-	"Dispensers Place Blocks" = true
-	Chute = true
+	"Chains Connect Blocks" = false
+	Gravisand = false
+	"Jukebox Automation" = false
+	"Dispensers Place Blocks" = false
+	Chute = false
 
 	[automation.pistons_move_tile_entities]
 		"Enable Chests Moving Together" = true
@@ -108,32 +108,32 @@
 	"Variant Ladders" = true
 	"Variant Bookshelves" = true
 	"Bamboo Backport" = true
-	"Compressed Blocks" = true
+	"Compressed Blocks" = false
 	"More Potted Plants" = true
 	"Duskbound Blocks" = true
 	"Wooden Posts" = true
 	Thatch = true
-	"More Stone Variants" = true
+	"More Stone Variants" = false
 	"Shear Vines" = true
 	"Nether Brick Fence Gate" = true
 	"Gold Bars" = true
 	Rope = true
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Soul Sandstone" = true
 	"Variant Chests" = true
 	"Leaf Carpet" = true
 	"Framed Glass" = true
-	"Vertical Planks" = true
-	"Variant Furnaces" = true
+	"Vertical Planks" = false
+	"Variant Furnaces" = false
 	Hedges = true
-	"Hollow Logs" = true
-	Midori = true
-	"Rainbow Lamps" = true
-	"Vertical Slabs" = true
-	Shingles = true
-	"Sturdy Stone" = true
+	"Hollow Logs" = false
+	Midori = false
+	"Rainbow Lamps" = false
+	"Vertical Slabs" = false
+	Shingles = false
+	"Sturdy Stone" = false
 	Stools = true
-	"Raw Metal Bricks" = true
+	"Raw Metal Bricks" = false
 	"More Mud Blocks" = true
 	Grate = true
 	"Japanese Palette" = true
@@ -283,10 +283,10 @@
 		"Enable Iron Ladder" = true
 
 [management]
-	"Quick Armor Swapping" = true
-	"Item Sharing" = true
+	"Quick Armor Swapping" = false
+	"Item Sharing" = false
 	"Automatic Tool Restock" = true
-	"Expanded Item Interactions" = true
+	"Expanded Item Interactions" = false
 	"Inventory Sorting" = true
 	"Hotbar Changer" = true
 	"Easy Transfering" = true
@@ -327,25 +327,25 @@
 		"Enable Player Inventory In Chests" = true
 		"Enable Chests" = true
 		#Play a click when sorting inventories using keybindings
-		"Satisfying Click" = true
+		"Satisfying Click" = false
 
 	[management.easy_transfering]
-		"Enable Shift Lock" = true
+		"Enable Shift Lock" = false
 
 [tools]
-	"Beacon Redirection" = true
-	"Ambient Discs" = true
+	"Beacon Redirection" = false
+	"Ambient Discs" = false
 	"Pathfinder Maps" = true
-	"Color Runes" = true
-	Pickarang = true
+	"Color Runes" = false
+	Pickarang = false
 	"Parrot Eggs" = true
 	Trowel = true
-	Abacus = true
-	"Bottled Cloud" = true
+	Abacus = false
+	"Bottled Cloud" = false
 	"Torch Arrow" = true
-	"Bundle Recipe" = true
+	"Bundle Recipe" = false
 	"Ancient Tomes" = true
-	"Endermosh Music Disc" = true
+	"Endermosh Music Disc" = false
 	"Seed Pouch" = true
 	"Skull Pikes" = true
 	"Slime In A Bucket" = true
@@ -474,7 +474,7 @@
 		Chance = 0.05
 		#How long it takes to create an egg
 		"Egg Time" = 12000
-		"Enable Special Awesome Parrot" = true
+		"Enable Special Awesome Parrot" = false
 
 	[tools.trowel]
 		#Amount of blocks placed is this value + 1.
@@ -532,47 +532,47 @@
 		"Pike Range" = 5.0
 
 [tweaks]
-	"Gold Tools Have Fortune" = true
-	"Automatic Recipe Unlock" = true
-	"Utility Recipes" = true
+	"Gold Tools Have Fortune" = false
+	"Automatic Recipe Unlock" = false
+	"Utility Recipes" = false
 	"Poison Potato Usage" = true
-	"Better Elytra Rocket" = true
+	"Better Elytra Rocket" = false
 	"Renewable Spore Blossoms" = true
 	"Coral On Cactus" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Pig Litters" = true
-	"Campfires Boost Elytra" = true
+	"Campfires Boost Elytra" = false
 	"Dyeable Item Frames" = true
 	"Slabs To Blocks" = true
 	"Map Washing" = true
-	"Enhanced Ladders" = true
-	"Reacharound Placing" = true
+	"Enhanced Ladders" = false
+	"Reacharound Placing" = false
 	"Horses Swim" = true
-	"Sponge On Water Placement" = true
+	"Sponge On Water Placement" = false
 	"Armed Armor Stands" = true
 	"Double Door Opening" = true
 	"Zombie Villagers On Normal" = true
 	"Hoe Harvesting" = true
-	Emotes = true
-	"Slimes To Magma Cubes" = true
-	"Snow Golem Player Heads" = true
+	Emotes = false
+	"Slimes To Magma Cubes" = false
+	"Snow Golem Player Heads" = false
 	"Vexes Die With Their Masters" = true
 	"More Note Block Sounds" = true
 	"Pat The Dogs" = true
-	"Grab Chickens" = true
+	"Grab Chickens" = false
 	"More Banner Layers" = true
-	"Replace Scaffolding" = true
-	"Diamond Repair" = true
+	"Replace Scaffolding" = false
+	"Diamond Repair" = false
 	"Safer Creatures" = true
-	"Lock Rotation" = true
-	"Villagers Follow Emeralds" = true
-	"Compasses Work Everywhere" = true
+	"Lock Rotation" = false
+	"Villagers Follow Emeralds" = false
+	"Compasses Work Everywhere" = false
 	"No Durability On Cosmetics" = true
-	"Sponges Better" = true
+	"Sponges Better" = false
 	"Sign Editing" = true
 	"Simple Harvest" = true
-	"Dragon Scales" = true
-	"Shulker Packing" = true
+	"Dragon Scales" = false
+	"Shulker Packing" = false
 
 	[tweaks.gold_tools_have_fortune]
 		#Allowed values: [0,)
@@ -626,7 +626,7 @@
 		#Can two Logs be used to craft 16 sticks?
 		"Easy Sticks" = true
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
-		"Smelt Raw Ore Blocks" = true
+		"Smelt Raw Ore Blocks" = false
 
 	[tweaks.poison_potato_usage]
 		Chance = 0.1
@@ -642,7 +642,7 @@
 		"Max Pig Litter Size" = 3
 		"Pigs Eat Golden Carrots" = true
 		#Allowed values: [0,)
-		"Min Golden Carrot Boost" = 0
+		"Min Golden Carrot Boost" = 1
 		#Allowed values: [0,)
 		"Max Golden Carrot Boost" = 2
 
@@ -786,17 +786,17 @@
 	"Nether Obsidian Spikes" = true
 	Permafrost = true
 	"Fairy Rings" = true
-	"Big Stone Clusters" = true
-	"Spiral Spires" = true
+	"Big Stone Clusters" = false
+	"Spiral Spires" = false
 	"Ancient Wood" = true
-	"New Stone Types" = true
+	"New Stone Types" = false
 	"Blossom Trees" = true
 	"Glimmering Weald" = true
-	"Monster Box" = true
+	"Monster Box" = false
 	"Azalea Wood" = true
 	"No More Lava Pockets" = true
-	Corundum = true
-	"Chorus Vegetation" = true
+	Corundum = false
+	"Chorus Vegetation" = false
 
 	[world.nether_obsidian_spikes]
 		#The chance for a chunk to contain spikes (1 is 100%, 0 is 0%)
@@ -805,7 +805,7 @@
 		"Big Spike Chance" = 0.03
 		#Should a chunk have spikes, how many would the generator try to place
 		"Tries Per Chunk" = 4
-		"Big Spike Spawners" = true
+		"Big Spike Spawners" = false
 
 		[world.nether_obsidian_spikes.dimensions]
 			"Is Blacklist" = false
@@ -1336,8 +1336,8 @@
 		"Teleport Duplication Chance" = 0.01
 
 [mobs]
-	Foxhound = true
-	Wraith = true
+	Foxhound = false
+	Wraith = false
 	Crabs = true
 	Forgotten = true
 	Shiba = true
@@ -1526,20 +1526,20 @@
 					"Is Blacklist" = true
 
 [client]
-	Camera = true
+	Camera = false
 	"Elytra Indicator" = true
 	"Improved Tooltips" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Buckets Show Inhabitants" = true
 	"Soul Candles" = true
-	"Auto Walk Keybind" = true
-	"Variant Animal Textures" = true
-	"Microcrafting Helper" = true
-	"Uses For Curses" = true
+	"Auto Walk Keybind" = false
+	"Variant Animal Textures" = false
+	"Microcrafting Helper" = false
+	"Uses For Curses" = false
 	"Wool Shuts Up Minecarts" = true
 	"Back Button Keybind" = true
-	"Chest Searching" = true
-	"Long Range Pick Block" = true
+	"Chest Searching" = false
+	"Long Range Pick Block" = false
 	"Usage Ticker" = true
 
 	[client.camera]
@@ -1782,13 +1782,13 @@
 		"Enchantments To Register" = []
 
 [oddities]
-	Pipes = true
-	Backpack = true
-	"Tiny Potato" = true
-	"Matrix Enchanting" = true
-	"Totem Of Holding" = true
-	Crate = true
-	Magnets = true
+	Pipes = false
+	Backpack = false
+	"Tiny Potato" = false
+	"Matrix Enchanting" = false
+	"Totem Of Holding" = false
+	Crate = false
+	Magnets = false
 
 	[oddities.pipes]
 		#How long it takes for an item to cross a pipe. Bigger = slower.
