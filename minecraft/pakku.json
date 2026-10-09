@@ -8,13 +8,14 @@
         "!config/almostunified/debug.json",
         "!config/**client.{toml,json}",
         "config/defaultoptions/**",
+        "kubejs/assets",
         "kubejs/client_scripts",
+        "kubejs/config/client.properties",
+        "kubejs/data",
         "kubejs/server_scripts",
         "!kubejs/server_scripts/dev",
         "kubejs/startup_scripts",
-        "kubejs/config/client.properties",
-        "kubejs/assets",
-        "kubejs/data",
+        "kubejs/toRemove.json",
         "defaultconfigs"
     ],
     "projects": {
