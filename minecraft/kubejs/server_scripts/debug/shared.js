@@ -12,9 +12,8 @@ const REGISTRY = {
     FORGE_BIOME_MODS: "forge:biome_modifier"
 };
 
-function getJsonFromFile(fileName) {
-    const jsonString = JsonIO.readString(`${DATA_OUTPUT_FOLDER}/${fileName}`);
-    return JSON.parse(jsonString);
+function getJsonData(fileName) {
+    return JsonIO.read(`${DATA_OUTPUT_FOLDER}/${fileName}`);
 };
 
 function dumpRegistryInfoToJson(outputFile) {
