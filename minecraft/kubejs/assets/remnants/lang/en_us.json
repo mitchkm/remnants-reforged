@@ -1,3 +1,9 @@
 {
+    "block.projectred_exploration.basalt": "Diabase",
+    "block.projectred_exploration.basalt_brick": "Diabase Brick",
+    "block.projectred_exploration.basalt_brick_wall": "Diabase Brick Wall",
+    "block.projectred_exploration.basalt_cobble": "Diabase Cobblestone",
+    "block.projectred_exploration.basalt_cobble_wall": "Diabase Cobblestone Wall",
+    "block.projectred_exploration.basalt_wall": "Diabase Wall",
     "curios.identifier.backpack": "Backpack"
 }
