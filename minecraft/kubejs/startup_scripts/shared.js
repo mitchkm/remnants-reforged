@@ -1,2 +1,3 @@
 //priority: 1000
-global.removedTag = "remnants:lost"
+global.namespace = "remnants";
+global.removedTag = `${global.namespace}:lost`;
